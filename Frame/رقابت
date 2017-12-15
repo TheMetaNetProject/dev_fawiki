@@ -1,0 +1,59 @@
+{{Frame
+|Name gloss=competition
+|Family=طرح واره رقابت
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=نتیجه رقابت
+|Role.Name gloss=competition _outcome
+}}{{Role
+|Role.Name=برنده رقابت
+|Role.Name gloss=competition_winner
+}}{{Role
+|Role.Name=بازنده رقابت
+|Role.Name gloss=competiotion_loser
+}}
+|Related frames={{Related frame
+|Related frame.Name=ارزیابی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رقابت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رقابت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برنده شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باختن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شکست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شکست خوردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حریف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رقیب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مخالف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازنده
+}}
+|LinkEnglish=competition
+|Applicability=Persian
+}}

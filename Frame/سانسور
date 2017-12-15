@@ -1,0 +1,208 @@
+{{Frame
+|Name gloss=Censorship
+|Description=Censorship
+|Other aliases=ممیزی
+|Comments=As of now, it has been subsumed under the "governance frames" and "politics frames;" please advise as to how it should be connected in relation to other frames
+
+There is no corresponding English frame
+|Family=طرح های حکومت, طرح های سیاست,
+|Type=Cog
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ممیزی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ممیزي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تفتیش مطبوعات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کنترل سخن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسورچی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسورچي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیکتاتوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیکتاتوري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پدیده سانسور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور در فضای سایبری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور اینترنتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور اینترنتي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور مذهبي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور مذهبی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور سیاسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور دولتي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خودسانسوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خودسانسوري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ممیز کتاب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ممنوعیت کتاب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزادی بیان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاستهای سانسوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاستهای سانسوري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شورای سانسوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شورای سانسوري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شفافیت رسانه‌ای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور در تلویزیون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور در رسانه های عمومی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور در رسانه های عمومي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حذف کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دخل و تصرف متن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور کردن فیلم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روش سانسور كردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نحوه سانسور کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور در مطبوعات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چگونگی سانسور کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور سخنان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور ادبی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منع کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منع و اجازه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجوز چاپ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست های نشر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزادی مطبوعات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزادي مطبوعات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزادي بیان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موضوعات ممنوعه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حذف اخبار و گزارشات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توقیف نشریات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پروانه انتشار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسدود اطلاع رسانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسدود اطلاع رساني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فیلم های اکران نشده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور در دوبله
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پارازیت بر شبکه های ماهواره ای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پارازیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور ماهواره ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست های ترجمه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سانسور در ترجمه
+}}
+|Applicability=Persian
+}}

@@ -1,0 +1,52 @@
+{{Frame
+|Name gloss=a_creature remaining in one place
+|Comments=Being at a location" most closely approximates the Persian frame: a living entity [or creature] remaining in one location/place
+|Family=طرح های حرکت
+|Type=Frame
+|Status=in development
+|Entered by=sanam
+|Last reviewed by=Aria Fani,& Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=موجود
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=محدوده
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=قرار گرفتن در یک محدوده
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=موجود بی جان
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=موجود جاندار
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=حرکت
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ماندن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رکود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نگه می دارد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پایدار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ماندگار
+}}
+|LinkEnglish=Being at a location
+|Applicability=Persian
+}}

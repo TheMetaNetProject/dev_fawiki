@@ -1,0 +1,78 @@
+{{Frame
+|Name gloss=snag/hitch do.infinitive
+|Comments=No corresponding English frame found
+|Family=طرح های حرکت
+|Type=Frame
+|Status=in development
+|Entered by=sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=محدودیت تحرک
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=محدود شدن
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دامنگیر شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در دام گرفتار شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گیر دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گیر افتادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گیر افتاده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به هم گیر دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گره زدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گیر افتاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گیر افت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در دام گرفتار شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در دام گرفتار شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گیر داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گیر ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به تله افتادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به تله افتاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به تله افت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تله
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تله گذاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گیره
+}}
+|Applicability=Persian
+}}

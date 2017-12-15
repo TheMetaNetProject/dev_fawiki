@@ -1,0 +1,12 @@
+{{MetaRC
+|MetaRCGroup=FramesDirectlyRelatedByCM
+|MetaRCDescription=The target and source frames are directly related by a CM.
+|MetaRCComments=getdirectcmfromframes
+|MetaRCScore=0.8
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tframe .
+        ?cm mo:hasSourceFrame ?sframe .
+}
+}}

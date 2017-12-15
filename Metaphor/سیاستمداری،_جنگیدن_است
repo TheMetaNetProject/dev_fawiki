@@ -1,0 +1,19 @@
+{{Metaphor
+|Name gloss=diplomacy war ast-COP
+|Aliases=
+|Tags=governance metaphors
+|Family=حکومت,
+|Metaphor Type=Composed/complex
+|Source frame=جنگ
+|Target frame=سیاستمداری
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=بحث کردن جنگیدن است
+}}
+|Entailments=
+|Examples=
+|Entered by=Aria, Sanam
+|Status=in development
+|Investigated for=Persian
+}}

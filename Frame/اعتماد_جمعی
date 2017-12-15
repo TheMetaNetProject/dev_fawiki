@@ -1,0 +1,199 @@
+{{Frame
+|Name gloss=Collective trust
+|Description=Public trust
+|Family=طرح های حکومت,
+|Type=Frame
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد ملت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کسب اعتماد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کسب اعتماد کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کسب اعتماد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کسب اعتماد کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طرف توجه واقع شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طرف توجه واقع شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طرف توجه واقع شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد جلب کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد جلب کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد جلب کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جلب اعتماد 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مورد اعتماد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد آحاد ملت 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد همه گروه‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وثوق داشتن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وثوق داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وثوق دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وثوق 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اطمینان داشتن به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اطمینان داشت به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اطمینان دار به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باور 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باور داشتن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باور داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باور دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد توده مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد ملت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قاطبه ملت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=همگانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جلب نظر همگان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وثوق داشتن به 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد کردن به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد کردن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد‌سازی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی‌اعتمادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی‌اعتماد بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی‌اعتماد بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی‌اعتماد باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= اتکال 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= اتکال کردن به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= اتکال کرد به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= اتکال کن به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باید اعتماد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نباید اعتماد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وکیل خود قرار دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وکیل خود قرار داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وکیل خود قرار ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به نمایندگی خود منسوب کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به نمایندگی خود منسوب کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به نمایندگی خود منسوب کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوار اعتماد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوار اعتمادرا موریانه خورد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوار اعتماد به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوار اعتماد میان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوار اعتماد فروریختن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوار اعتماد فروریخت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوار اعتماد فروریز
+}}
+|LinkEnglish=Public trust
+|Applicability=Persian
+}}

@@ -1,0 +1,57 @@
+{{Frame
+|Name gloss=water
+|Family=طرح های وجودی
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=ویژگی های جغرافیایی
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=مهاربا مایعات
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دریا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقیانوس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دریای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رودخانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دریاچه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موج
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موجی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جریان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبلور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گرداب
+}}
+|LinkEnglish=Body of water
+|LinkSpanish=Cuerpo de agua
+|Applicability=Persian
+}}

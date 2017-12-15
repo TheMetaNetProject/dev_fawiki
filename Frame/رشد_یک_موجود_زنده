@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=growth of_a living entity
+|Comments=No corresponding English frame
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=موجود زنده
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رشد کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= سایه  گستردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رشد و نمو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  نمو 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  رشد طبیعی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= رشد غیر طبیعی   
+}}
+}}

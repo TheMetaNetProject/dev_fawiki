@@ -1,0 +1,140 @@
+{{Frame
+|Name gloss=War
+|FrameNet frame=Fighting_activity
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Aria, Sanam, Reza
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=میدان جنگ
+|Role.Name gloss=battlefield
+|Role.Definition=قلمروی که در آن جنگ در جریان است.
+|Role.FrameNet role=Place
+}}{{Role
+|Role.Name=حمله دشمن
+|Role.Name gloss=attack enemy
+}}{{Role
+|Role.Name=ارتش
+|Role.Name gloss=army
+}}{{Role
+|Role.Name=ارتش دشمن
+|Role.Name gloss=army enemy
+}}{{Role
+|Role.Name=تسلیحات
+|Role.Name gloss=weapons
+}}{{Role
+|Role.Name=غیر نظامی
+|Role.Name gloss=civilians
+}}{{Role
+|Role.Name=پیروزی
+|Role.Name gloss=victory
+}}{{Role
+|Role.Name=مبارز
+|Role.Name gloss=fighting
+}}{{Role
+|Role.Name=پیروزی بر دشمن
+|Role.Name gloss=enemy-conquest
+}}{{Role
+|Role.Name=استراتژی جنگ
+|Role.Name gloss=war-strategies
+}}{{Role
+|Role.Name=طرف درگیر ۱
+|Role.Name gloss=side 1
+}}{{Role
+|Role.Name=طرف درگیر ۲
+|Role.Name gloss=side 2
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غوغا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=میدان جنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غیر نظامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارتش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تسلیحات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبارز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیروزی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جنود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غوغا می کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غوغا کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جنگجو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نیروی نظامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبارزه کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبارزه کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبارزه می‌کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبارزه خواهد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زد و خورد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زد و خورد کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جدال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جدال کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از بین بردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از میان برداشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کنترل کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کنترل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریشه‌کن ساختن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریشه‌کن کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریشه کن ساختن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریشه کن کردن
+}}
+|LinkEnglish=War
+|Applicability=Persian
+}}

@@ -1,0 +1,140 @@
+{{Frame
+|Name gloss=debt
+|Family=طرح های بدهی
+|Type=Frame
+|Status=in development
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدهی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدهکار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدهکار بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدهکار بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدهکار باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدهکاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدهکاری داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدهکاری داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدهکاری دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیونات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طلب داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طلب داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طلب دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بستانکار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بستانکاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدهی‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدهی‌های معوقه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرداخت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرداخت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرداخت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدهی خارجی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قسط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقساط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازپرداخت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازپرداخت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازپرداخت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازپرداخت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اصل بدهی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهره ی بدهی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهره دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهره داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهره ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقروض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقروض بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقروض بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقروض باش
+}}
+|LinkEnglish=Debt
+|Applicability=Persian
+}}

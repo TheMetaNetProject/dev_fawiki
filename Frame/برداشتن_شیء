@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=Lifting an_object
+|Comments=Although the current Persian frame has been linked to the English frame "Moving object" the Persian frame does not seem to be appropriate for it
+ Under consideration of the related lemmas referring to action verbs such as "destroy, annihilate, eradicate, extirpate", the verb should be changed into the compound verb "از میان برداشتن " which more closely approximates the Persian lemmas. Therefore, the Persian frame should be linked to another English frame.
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=جسم
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زدودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از میان بردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از بین بردن
+}}
+|LinkEnglish=Moving object
+}}

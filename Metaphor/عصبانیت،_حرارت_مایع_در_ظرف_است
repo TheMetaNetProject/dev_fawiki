@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=ANGER HEAT FLUID IN CONTAINER AST-COP
+|Aliases=
+|Comments=No corresponding English metaphors found
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex, Entailed
+|Source frame=گرم کردن مایع
+|Target frame=عصبانیت
+|Mappings={{Mapping}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=عصبانیت حرارت است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=حسابی آمپرم بالا زده بود و داشتم از عصبانیت منفجر می شدم.
+}}{{Example
+|Example.Language=Persian
+|Example.Text=خشم توفنده حزب‌الله متراکم شده است و در یک نصرت معجزه گونه الهی به زودی با روشن شدن حقایق، به سوی کسانی نشانه خواهد رفت که با تدبیر و حیله این سناریو را طراحی کرده‌اند
+|Example.Provenance=احمد ی نژاد-سحام نیوز
+}}
+|Entered by=Sanam, Aria
+|Status=in development
+|Investigated for=Persian
+}}

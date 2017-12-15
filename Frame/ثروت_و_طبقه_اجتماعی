@@ -1,0 +1,57 @@
+{{Frame
+|Name gloss=Wealth and Social Class
+|Comments=This frame is a combination of two separate (but related) Persian schemes that are linked with the English Wiki. Onther other hand, however, there is the same combination in the English wiki. Not sure whether this frame should be deleted
+|Family=طرح نابرابری اقتصادی
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=طرح نابرابری اقتصادی
+}}{{Related frame
+|Related frame.Name=توزیع مجدد ثروت
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نخبه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ثروت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نخبگان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفاه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نخبگان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ثروتمند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ثروتمندان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرفه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاخ نشین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاخ نشینان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کوخ نشین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کوخ نشینان
+}}
+|LinkEnglish=Wealth and Social Class
+|Applicability=Persian
+}}

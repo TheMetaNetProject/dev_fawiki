@@ -1,0 +1,82 @@
+<noinclude>
+This is the "Linguistic metaphor" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Linguistic metaphor|autocomplete on namespace=Linguistic metaphor|namespace=Linguistic metaphor}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Linguistic metaphor}}}
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Name gloss:
+| {{{field|Name gloss|input type=text|class=enformfield}}}
+|-
+! Type:
+| {{{field|Type|Property=Linguistic metaphor.Type|list}}}
+|-
+! Seed Linguistic Metaphor:
+| {{{field|Seed|Property=Linguistic metaphor.Seed metaphor|input type=text with autocomplete}}}
+|-
+! Comments:
+| {{{field|Comments|property=Linguistic metaphor.Comments}}}
+|-
+! Tags:
+| {{{field|Tags|Property=Tag|input type=text with autocomplete}}}
+|-
+! Instance of Metaphor(s):
+| {{{field|Instance of metaphor|Property=Linguistic metaphor.Instance of metaphor|input type=text with autocomplete|list|values from category=Metaphor}}}
+|-
+! Source:
+| {{{field|Source|Property=Linguistic metaphor.Source}}}
+|-
+! Target:
+| {{{field|Target|Property=Linguistic metaphor.Target}}}
+|-
+! Examples:
+| {{{field|Examples|holds template}}}
+|-
+! Entered by:
+| {{{field|Entered by|property=Entered by|input type=text with autocomplete}}}
+|-
+! Status:
+| {{{field|Status|property=Status|list}}}
+|-
+! Verification status:
+| {{{field|Verification status|property=Verification status}}}
+|}
+{{{end template}}}
+
+{{{for template|Example|multiple|label=Examples|embed in field=Linguistic metaphor[Examples]}}}
+
+{{{field|Example.Language|property=Example.Language|input type=text|default={{Lang|en}}|hidden}}}
+
+'''Text:''' {{{field|Example.Text|property=Example.Text|class=metaex|rows=3}}}
+
+{{#ifeq:{{Lang|}}|en||
+'''Gloss:''' {{{field|Example.Gloss|property=Example.Gloss|class=metagl|rows=3}}}
+
+'''English translation:''' {{{field|Example.English translation|property=Example.English translation|class=metatr|rows=3}}}
+
+}}
+'''Provenance:''' {{{field|Example.Provenance|property=Example.Provenance}}}
+
+'''Annotation:''' {{{field|Example.Annotation|property=Example.Annotation|rows=3}}}
+
+'''Comments:''' {{{field|Example.Comments|property=Example.Comments|rows=3}}}
+
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

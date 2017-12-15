@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=council
+|Comments=No corresponding English frame
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شورا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شورا ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عضو شورا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشاوره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشاور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شورا ی نگهبان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شورایی
+}}
+|Applicability=Persian
+}}

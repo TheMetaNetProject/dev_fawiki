@@ -1,0 +1,54 @@
+{{Frame
+|Name gloss=ooperation rescue
+|Comments=The Persian frame have been linked with "operating a machine" which does not correspond fully with Persian the current frame. Not sure whether it should be delinked. Please advise
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عملیات نجات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نجات دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نجات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نجات ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نجات داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خطر مرگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امداد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امدا درسانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امداد گران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امداد رسان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امداد گر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امداد رس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امداد رساند
+}}
+|LinkEnglish=Operating a machine
+|Applicability=Persian
+}}

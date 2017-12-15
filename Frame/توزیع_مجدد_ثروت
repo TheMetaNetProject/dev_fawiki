@@ -1,0 +1,68 @@
+{{Frame
+|Name gloss=wealth of redistribution
+|Description=redistribution of wealth
+|FrameNet frame=wealth redisribution frame
+|Family=طرح واره ثروت و طبقه اجتماعی
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اختصاص دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اختصاص داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اختصاص می‌‌دهد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اختصاص خواهد داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تخصیص  دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تخصیص داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تخصیص می‌‌دهد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تخصیص
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اختصاص
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سهم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سهمیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بودجه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقسیم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بودجه ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقسیم ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقسیمات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سهمیه ها
+}}
+|LinkEnglish=Wealth redistribution
+|Applicability=Persian
+}}

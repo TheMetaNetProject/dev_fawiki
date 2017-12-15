@@ -1,0 +1,43 @@
+{{Metaphor
+|Name gloss=elections stage ast-COP
+|Aliases=
+|Comments=no corresponding English frame found
+|Tags=governance metaphors
+|Family=حکومت
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=نمایش
+|Target frame=انتخابات
+|Mappings={{Mapping
+|Target=کاندیدا
+|Source=بازیگر
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=[خاتمی در بارۀ انتخابات]: راهی باز شود تا ما به صحنه بیایم.
+|Example.Gloss=Khatami DAR about elections: path open be-modal until we stage come-1st-pl.
+|Example.English translation=Khatami regarding elections]: may a path be opened up so that we may arrive on stage].
+|Example.Provenance=http://www.ilna.ir/news/
+}}{{Example
+|Example.Language=Persian
+|Example.Text=ورود هاشمی در صحنه انتخابات در پرده ابهام
+|Example.Gloss=enter Hashemi in stage elections in curtain ambiguous
+|Example.English translation=It remains ambiguius whether Hashami will become candidate or not
+|Example.Provenance=http://sokhannews.com/
+|Example.Comments=Entailed to becoming known to public is entering the stage
+}}{{Example
+|Example.Language=Persian
+|Example.Text=عضو جبهه پایداری: آرایش انتخاباتی منوط به آمدن یا نیامدن هاشمی رفسنجانی به صحنه است
+|Example.Gloss=memeber of "Jebhe Paydari" make up election depend to come or neg.com Hashemi Rafsanjani to stage ast.cop
+|Example.English translation=The election set up depends on whether Hashami Rafsanjani will come to the scene of election or not
+|Example.Provenance=http://isna.ir/fa/news
+|Example.Comments=Arayesh has a frame in which it can be used for female make up, set up and arrangment of troops
+Namayesh can be used as a play or " to show" and it needs to have a different frame
+}}
+|Entered by=Aria, Sanam
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

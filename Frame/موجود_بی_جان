@@ -1,0 +1,50 @@
+{{Frame
+|Name gloss=entity without_life
+|Description=inanimate entity
+|Comments=Physical entity does not closely correspond with this frame
+|Family=طرح های وجودی
+|Type=Primary
+|Status=in development
+|Entered by=Sanam
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=موجود
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=موجود جاندار
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجزاء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شکل گیری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ماهیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ترکیب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اساس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارکان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موجود بی جان 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موجود زنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موجودات
+}}
+|LinkEnglish=Physical entity
+|Applicability=Persian
+}}

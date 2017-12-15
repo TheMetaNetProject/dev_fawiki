@@ -1,0 +1,104 @@
+{{Frame
+|Name gloss=Political classifications
+|Description=Political region
+|Comments=Based on the following definition: "a tentative frame for countries and other geopolitical regions", I tried to come up with an equivalent that would make sense in Persian
+|Family=طرح های حکومت,
+|Type=Frame
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حد و مرز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رژیم‌های سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزهای سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقسیم‌بندی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقسیم‌بندی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقسیم‌بندی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزبندی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزبندی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزبندی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزبندی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزبندی‌های سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزبندی‌های گروهی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزبندی‌های قومی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزبندی‌های فرهنگی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقسیمات را برداشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقسیمات را برداشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقسیمات را بردار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزبندی‌ها را شکستن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزبندی‌ها را شکست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزبندی‌ها را شکن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جناح‌بندی‌های سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جناح‌بندی‌ کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جناح‌بندی‌ کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جناح‌بندی‌ کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دسته‌بازی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گروه‌بندی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گروه‌بندی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گروه‌بندی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گروه‌بندی کن
+}}
+|LinkEnglish=Political region
+|Applicability=Persian
+}}

@@ -1,0 +1,55 @@
+{{Frame
+|Name gloss=receiving_of harm
+|Description=Being harmed or damaged
+|Comments=The Persian frame "daryaft-i sadamih" appears to have been translated directly from English; its wording rings as unnatural in Persian. A natural way of saying being harmed would be: "sadamih didan" [literally seeing damage/harm] or "sadamih khurdan" [lit. . eating harm]. The aforementioned Persian terms have been added to LU, but I propose that the frame be changed to "sadamih didan." As is, the frame would bear much fewer results while searched in any Persian-language corpus
+|Family=طرح های ضرری,
+|Tags=Program sources
+|Type=Frame, Composed
+|Status=in development, auto imported
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=صدمات فیزیکی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدمه خوردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدمه پذیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آسیب پذیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدمه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خفه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اسیب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ضرر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ازار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حراست کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خفه کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سوختن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدمه دیدن
+}}
+|LinkEnglish=Harm
+}}

@@ -1,0 +1,32 @@
+<noinclude>
+This is the "CxnMP" template.
+It should be called in the following format:
+<pre>
+{{CxnMP
+|CxnMPType=
+|CxnMPGroup=
+|CxnMPDescription=
+|Comments=
+|CxnMPQueryCode=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+! CxnMPType
+| [[Has CxnMP type::{{{CxnMPType|}}}]]
+|-
+! CxnMPGroup
+| [[Has CxnMP group::{{{CxnMPGroup|}}}]]
+|-
+! CxnMPDescription
+| [[Has description::{{{CxnMPDescription|}}}]]
+|-
+! Comments
+| [[Has comments::{{{Comments|}}}]]
+|-
+! CxnMPQuery
+| [[Has CxnMP query::{{{CxnMPQueryCode|}}}]]
+|}
+
+[[Category:CxnMP]]
+</includeonly>

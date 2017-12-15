@@ -1,0 +1,37 @@
+{{Frame
+|Name gloss=Goodness
+|Type=Frame, Composed
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خوبی‌ 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= خوب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  خوب بودن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  باش 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  بود 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  خوبتر 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  نیکی‌  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  خوبان
+}}
+|LinkEnglish=Goodness
+|Applicability=Persian
+}}

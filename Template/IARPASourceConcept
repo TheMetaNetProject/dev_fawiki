@@ -1,0 +1,39 @@
+<noinclude>
+This is the "IARPASourceConcept" template.
+It should be called in the following format:
+<pre>
+{{IARPASourceConcept
+|SourceID=
+|Type=
+|Definition=
+|Status=
+|Owner=
+|LUs=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+! SourceID
+| [[hasIARPAId::{{{SourceID|}}}]]
+|-
+! Government Definition
+| [[hasConceptDefinition::{{{Definition|}}}]]
+|-
+! Comments (Internal)
+| [[has comments::{{{Comments|}}}]]
+|-
+! Status
+| [[hasConceptStatus::{{{Status|}}}]]
+|-
+! Owner
+| [[hasConceptOwner::{{{Owner|}}}]]
+|-
+! Mapping frames:
+| <div class="getmappingstoconcept" data-concept="{{FULLPAGENAME}}"></div>
+|-
+! LUs
+| {{#arraymap:{{{LUs|}}}|,|x|[[HasConceptLU::x]]}}{{#set:hasConceptLUs={{{LUs|}}}}}
+|}
+
+[[Category:IARPASourceConcept]]
+</includeonly>

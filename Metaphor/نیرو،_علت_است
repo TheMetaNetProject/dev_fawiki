@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=force cause ast-COP
+|Aliases=
+|Family=ساختار واقعه (مکان)
+|Source frame=نیرو
+|Target frame=علت
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=این وسوسه ها کار را به جایی کشاند که آنچه نباید بشود اتفاق افتاد.
+|Example.Gloss=this temptation-pl work obj.mark to place that whatever neg.should become even.N fall
+|Example.English translation=these attemptions pushed him to the point in which, what should've not happened (actually) occured
+|Example.Provenance=http://ch3.ir
+|Example.Comments=The words: "kar=work" has a different frame it can mean a broad range of meaning depending on its position in the entence or content
+also in this example is related to change of state is change of location
+}}
+|Entered by=Aria, Sanam
+|Last reviewed by=Sanam
+|Status=in development
+|LinkEnglish=CAUSES ARE FORCES
+|Investigated for=Persian
+}}

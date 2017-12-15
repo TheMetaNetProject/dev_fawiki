@@ -1,0 +1,39 @@
+{{Frame
+|Name gloss=Darkness
+|Family=طرح های حسی
+|Type=Frame
+|Status=in development
+|Entered by=sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تاریک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تاریکی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پررنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کم رنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کمرنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سایه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رنگ
+}}
+|LinkEnglish=darkness
+|Applicability=Persian
+}}

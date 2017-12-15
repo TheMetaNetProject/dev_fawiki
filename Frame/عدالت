@@ -1,0 +1,56 @@
+{{Frame
+|Name gloss=justice
+|Family=طرح های دسترسی به تحصیلات
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدالت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدالت خواهی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عادل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدالت خواهانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انصاف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  پیشگاه عدالت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  عدالت اداری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  عدالت الهی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دیوان عدالت 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= عدالتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= عدالت گستر  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عادلانه
+}}
+|LinkEnglish=Fairness
+}}

@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=information
+|Comments=No corresponding English frame found
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اطلاعات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اطلاعات ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اطلاعاتی
+}}
+|Applicability=Persian
+}}

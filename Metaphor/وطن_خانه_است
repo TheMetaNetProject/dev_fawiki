@@ -1,0 +1,33 @@
+{{Metaphor
+|Name gloss=fatherland house COP
+|Name transcription=fatherland is (the) house
+|Aliases=
+|Description=fatherland is one lexicon in Farsi. There is no equivalent for it in English Sanam
+|Family=استعاره های حکومتی
+|Cultural scope=This is a very common metaphor in Farsi and it has roots in the historical and literature aspects of Iranian culture
+|Source frame=خانه
+|Target frame=وطن
+|Mappings={{Mapping
+|Target=Nation
+|Source=فرزندان children, offsprings
+|Comment=People of a nation are children of that country regardless of their age
+}}{{Mapping
+|Target=مسئولین The governor
+|Source=Fatherhood Role,
+|Comment=Fatherhood role referring to the responsible one as the breadwinner
+}}{{Mapping}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=نخست وزیر لبنان تاکید کرد بیش از یک میلیون و پانصده هزار آواره سوری در لبنان حضور دارند.
+|Example.Transcription=  presence have .primmnister of lebenon emphasize.noun.do.verb more  than one million and five hundred thousand Syrian homeless in Lebenon
+|Example.English translation=the primmnister of lebenon emphasized, more than one million and five hundred thousand Syrian Refugees are currently in Lebenon
+|Example.Provenance=http://tnews.ir/news/B92034388791.html?sid=4876655#نخست-وزیر-لبنان-یک-و-نیم-میلیون-آواره-سوری-درلبنان-حضور-دارند
+}}
+|Entered by=sanam
+|Last reviewed by=Sanam
+|Status=in development
+|LinkEnglish=NATION IS A FAMILY
+|Investigated for=Persian
+}}

@@ -1,0 +1,20 @@
+<noinclude>
+This is the "Frame subfamilies of" template.  Given a frame family, it returns a list of that family's subfamilies.
+
+It should be called in the following format:
+<pre>
+{{Frame subfamilies of
+|family=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+{{#ifexpr:{{#ask:[[Category:Frame family]] [[Frame subfamily of::{{{family|}}}]]|format=count}} > 0|=Subfamilies of this frame family=}}
+{{#ask: [[Category:Frame family]] [[Frame subfamily of::{{{family|}}}]]
+| format=template
+| template=Frame family tree
+| limit=100
+| link=none
+| userparam=2
+}}
+</includeonly>

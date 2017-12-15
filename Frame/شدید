@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=intense
+|Comments=No corresponding English frame found, closest was emotional intensity
+|Family=طرح های نمودارگونه
+|Type=Primary
+|Status=in development
+|Entered by=Sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تشدید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شدت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شدید
+}}
+|Applicability=Persian
+}}

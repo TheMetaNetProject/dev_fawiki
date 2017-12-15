@@ -1,0 +1,47 @@
+{{Frame
+|Name gloss=bridge
+|Comments=No corresponding English frame found
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پل ارتباطی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پل زدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پل زد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پل زن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پل هوایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پل میان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پلی بین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از پل گذشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از پل گذشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از پل گذر
+}}
+|Applicability=Persian
+}}

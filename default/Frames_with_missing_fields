@@ -1,0 +1,82 @@
+The purpose of this page is to keep track of Frames that may be missing necessary information
+
+{{#ifeq:{{Lang|}}|en||
+{{#ifeq:{{Lang|}}|es||
+= No transcription specificied =
+{{Unsetprop|missingtran|Frame| Frame.Transcription|}}
+<ul>
+{{#arrayprint: missingtran ||@ |<li> [[@]] }}
+</ul>
+}}}}
+
+= No frame family specified =
+{{Unsetprop|missingfam|Frame| Frame.Family|}}
+<ul>
+{{#arrayprint: missingfam ||@ |<li> [[@]] }}
+</ul>
+
+= No cultural scope specified =
+{{Unsetprop|missingscope|Frame|Has cultural scope|}}
+<ul>
+{{#arrayprint: missingscope ||@ |<li> [[@]] }}
+</ul>
+
+= No status specified =
+{{Unsetprop|missingstatus|Frame|Status|}}
+<ul>
+{{#arrayprint: missingstatus ||@ |<li> [[@]] }}
+</ul>
+
+= No roles defined =
+{{Unsetprop|missingroles|Frame|Role|}}
+<ul>
+{{#arrayprint: missingroles ||@ |<li> [[@]] }}
+</ul>
+
+= Applicability not specified =
+{{Unsetprop|missingapp|Frame| Frame.Applicability|}}
+<ul>
+{{#arrayprint: missingapp ||@ |<li> [[@]] }}
+</ul>
+
+= Frame type not specified =
+{{Unsetprop|missingtype|Frame| Frame.Type|}}
+<ul>
+{{#arrayprint: missingtype ||@ |<li> [[@]] }}
+</ul>
+
+= No related frames specified =
+{{Unsetprop|missingrels|Frame| Related frame|}}
+<ul>
+{{#arrayprint: missingrels ||@ |<li> [[@]] }}
+</ul>
+
+= No bindings specified =
+{{Unsetprop|missingbind|Frame| Binding|}}
+<ul>
+{{#arrayprint: missingbind ||@ |<li> [[@]] }}
+</ul>
+
+= No inferences specified =
+{{Unsetprop|missinginf|Frame| Inference|}}
+<ul>
+{{#arrayprint: missinginf ||@ |<li> [[@]] }}
+</ul>
+
+= No lexical units specified =
+{{Unsetprop|missinglus|Frame| LUs|}}
+<ul>
+{{#arrayprint: missinglus ||@ |<li> [[@]] }}
+</ul>
+
+= No closest FrameNet frame =
+{{Unsetprop|missingframes|Frame| Frame.FrameNet frame|}}
+<ul>
+{{#arrayprint: missingframes ||@ |<li> [[@]] }}
+</ul>
+
+= Entered by not specified =
+{{Unsetprop|missingeb|Frame|Entered by|}}
+<ul>
+{{#arrayprint: missingeb ||@ |<li> [[@]] }}
+</ul>

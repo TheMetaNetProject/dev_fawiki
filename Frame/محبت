@@ -1,0 +1,79 @@
+{{Frame
+|Name gloss=Affection
+|Family=طرح های حسی,
+|Type=Primary
+|Status=in development
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani, Reza
+|Roles={{Role
+|Role.Name=مفعول
+|Role.Name gloss=experiencer
+|Role.FrameNet role=Experiencer
+}}{{Role
+|Role.Name=محبت
+|Role.Name gloss=affection
+}}{{Role
+|Role.Name=بدن
+|Role.Name gloss=body
+}}{{Role
+|Role.Name=درجه شدت محبت
+|Role.Name gloss=degree intensity affection
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=احساسات
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محبّت  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  با محبّت 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  محبت 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  محبت کردن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  محبّت کردن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  محبت کن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= محبّت کن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  محبّت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  محبت کرد 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= عشق 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  محب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  محبّت ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= عاطفه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= عاطفه داشتن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  عاطفه داشت  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عاطفه دار
+}}
+|LinkEnglish=Affection
+|Applicability=Persian
+}}

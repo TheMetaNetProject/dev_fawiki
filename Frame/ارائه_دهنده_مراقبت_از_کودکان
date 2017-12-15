@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=provider childcare
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارائه دهنده مراقبت از کودکان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مهد کودک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بچه نگهدار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرستار بچه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بچه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بچه نگهدار
+}}
+|LinkEnglish=Child care
+|Applicability=Persian
+}}

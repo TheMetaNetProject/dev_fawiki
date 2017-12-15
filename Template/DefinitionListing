@@ -1,0 +1,36 @@
+<noinclude>
+This is the "GlossaryListing" template.  It is used to list definitions on the Glossary page.
+It should be called in the following format:
+<pre>
+{{GlossaryListing|Page title|Entry|Other Aliases|Description|Pertinent form|Utility|Notation|Entered by|Last reviewed by}}
+</pre>
+Edit the page to see the template text.
+
+</noinclude><includeonly>
+== [[{{{1|}}}]] == __NOEDITSECTION__
+{|class="wikitable"
+! Entry
+| {{{2|}}}
+|-
+! Other Aliases
+| {{#arraymap:{{{3|}}}|,|x|x}}
+|-
+! Description
+| {{{4|}}}
+|-
+! Pertinent form(s)
+| {{{5|}}}
+|-
+! Utility
+| {{{6|}}}
+|-
+! Notation
+| {{{7|}}}
+|-
+! Created by
+| {{#arraymap:{{{8|}}}|,|x|x}}
+|-
+! Edited by
+| {{#arraymap:{{{9|}}}|,|x|x}}
+|}
+</includeonly>

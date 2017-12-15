@@ -1,0 +1,136 @@
+{{Frame
+|Name gloss=lead do movement in trajectory
+|Comments=The frames "Leadership" and "shepherding" somewhat approximate this frame
+|Tags=Program sources
+|Type=Frame, Composed
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=هدایت کردن حرکت در مسیر راه
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هدایت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به سمت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راهنمایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهبری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راهبر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بلد راه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هدایت کردن حرکت در مسیر راه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هدایت کردن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هدایت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هدایت کن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هدایت کننده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هدایت کننده ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جریان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جریانها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جریان های انحرافی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهبری کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهبری کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهبری کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسیر راه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه غلط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه کج
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کجروی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کجروی ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیراهه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کوره راه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه راست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صراط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صراط مستقیم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهرو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه را نشان دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه را نشان داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه را نشان ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهروان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راهنما
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راهنمایی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راهنمایی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راهنمایی کن
+}}
+}}

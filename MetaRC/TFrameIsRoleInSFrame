@@ -1,0 +1,14 @@
+{{MetaRC
+|MetaRCGroup=TFrameIsRoleInSFrame
+|MetaRCDescription=Target frame is incorporated as a role in source frame, OR target frame us a subcase of a frame that's incorporated into source frame, where the subcase relation may cascaded to an arbitrarily depth.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe WHERE {
+    {
+        ?sframe mo:incorporatesFrameAsRole ?tframe .
+    } UNION {
+        ?sframe mo:isSubcaseOfFrame* ?isframe .
+        ?isframe mo:incorporatesFrameAsRole ?itframe .
+        ?tframe mo:isSubcaseOfFrame* ?itframe .
+    }
+}
+}}

@@ -1,0 +1,5 @@
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Type::Primary]]
+| ?Metaphor.Target frame = Target frame
+| ?Metaphor.Source frame = Source frame
+| ?Metaphor.Family = Metaphor family
+}}

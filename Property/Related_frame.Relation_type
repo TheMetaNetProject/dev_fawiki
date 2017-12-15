@@ -1,0 +1,36 @@
+This property has type [[Has type::String]].
+It allows the following values:
+{| class="wikitable"
+|-
+! relation type
+! definition
+! example
+|-
+! [[Allows value::makes use of]] 
+| evokes/uses
+| Into makes use of Container and Source_path_goal
+|-
+! [[Allows value::is subcase of]]
+| includes and adds to or further constrains
+| Boat is a subcase of Seafaring_vehicle <br/> Object is a subcase of Entity
+|-
+! [[Allows value::is a subprocess of]]
+| is aspectually a subprocess of the other frame
+| 
+|-
+! [[Allows value::incorporates as a role]]
+|  Frame 1 incorporates Frame 2 as a role.  This is a specific kind of "makes use of" relation.
+| Object incorporates as a role Size
+|-
+! [[Allows value::is related to]]
+| elsewhere bucket
+| Romantic_relationship is related to Life
+|-
+! [[Allows value::is in a scalar opposition to]]
+| opposite ends of a scale
+| Immorality is in a scalar opposition to morality
+|-
+! [[Allows value::is a perspective on]]
+| is a perspective on
+| Buying is a perspective on Commercial transaction
+|}

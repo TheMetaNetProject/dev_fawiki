@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=bigger becoming
+|Description=Growing in size
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توسعه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وسعت یافتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وسیع تر می گردد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وسعت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وسیع
+}}
+|LinkEnglish=Increase size
+|Applicability=Persian
+}}

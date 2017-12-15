@@ -1,0 +1,8 @@
+This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::white]]
+* [[Allows value::pink]]
+* [[Allows value::red]]
+* [[Allows value::magenta]]
+* [[Allows value::cyan]]

@@ -1,0 +1,32 @@
+{{Metaphor
+|Name gloss=Bureaucracy measurable is
+|Aliases=
+|Comments=no corresponding English frame found 
+
+More concrete examples need to be added to support this metaphor
+
+The "Target frame" has been changed from /divansaalari/ to /brucrasi
+|Family=طرح دیوان سالاری
+|Metaphor Type=Composed/complex
+|Source frame=قابل اندازه گیری
+|Target frame=بروکراسی
+|Mappings={{Mapping
+|Source=قابل اندازه گیری
+|Comment=بوروکرسی
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=بروکراسی دالان تو در تو است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=بوروکراسی کاهش یافت، ترخیص افزایش
+|Example.Gloss=Bureaucracy  reduced, clearance increased
+|Example.English translation=Bureaucracy has reduced, clearance has increased
+}}
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Status=in development
+|Investigated for=Persian
+}}

@@ -1,0 +1,50 @@
+{{Frame
+|Name gloss=Being poor
+|Description=State of poverty
+|Comments=No corresponding English frame found
+
+There is distinction between "poverty" and "being poor" however the lexical units listed here do not adequately chart that difference. This frame is meant to distinguish the experience of being poor from poverty
+|Family=طرح های فقر
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ضعفا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقیر بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقیر بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقیری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نداری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی‌ چیزی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ضعیف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ندار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستمند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نیازمند
+}}
+}}

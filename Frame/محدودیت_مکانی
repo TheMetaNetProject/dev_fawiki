@@ -1,0 +1,51 @@
+{{Frame
+|Name gloss=Spacial limitation
+|Description=Limitations caused by location/place
+|Comments=The English frame "Restrains" somewhat approximates this frame
+|Family=طرح های مکان,
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محدوده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محدوده مکانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حیطه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قلمرو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  محل ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مکان ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  منطقهٔ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  منطقه ای
+}}
+}}

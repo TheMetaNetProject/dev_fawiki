@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=catastrophe
+|Comments=Closest English frame to "faji'ah" [disaster/catastrophe] is Natural disaster. However faji'ah is not necessarily natural, it can happen on many levels (social, cultural, political, etc). Please advise
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, & Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بلا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مصیبت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فاجعه آمیز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فاجعه بار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  فاجعه طبیعی      
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  فاجعه بار آوردن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= فاجعه بار آور 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  فاجعه بار آورد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  فاجعه بار آورد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فاجعه انسانی‌ 
+}}
+|LinkEnglish=Natural disaster
+|Applicability=Persian
+}}

@@ -1,0 +1,44 @@
+{{Frame
+|Name gloss=activity
+|Comments=As mentioned in the similar page, the other page has more data missing required fields while this current page is as of now connected with two related metaphors.
+|Type=Frame
+|Status=in development
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فعالیت     
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فعال  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فعالیت کردن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= فعالیت کن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  فعالیت کرد  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  غیر فعال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  تلاش 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  کوشش 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  فعالیت هنری 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  فعالیت سیاسی
+}}
+|LinkEnglish=activity
+|Applicability=Persian
+}}

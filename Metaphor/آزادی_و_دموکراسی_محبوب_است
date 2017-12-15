@@ -1,0 +1,31 @@
+{{Metaphor
+|Name gloss=freedom and democracy the world's gratest beloved
+|Aliases=
+|Comments=no corresponding English metaphor found. More examples need to be added to support the metaphor
+|Family=استعاره دموکراسی,
+|Metaphor Type=Composed/complex
+|Source frame=بزرگترین محبوب جهان
+|Target frame=آزادی و دموکراسی
+|Mappings={{Mapping
+|Target=دموکراسی
+|Source=محبوب
+}}{{Mapping
+|Target=آزادی
+|Source=محبوب
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=دموکراسی کالا است.
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=جامعه بی فرهنگی که از درک دموکراسی عاجز است شانس درآغوش کشيدن بزرگترين محبوب جهان، يعنی آزادی و دموکراسی، را نخواهد داشت
+|Example.Gloss=A community without culture that is incapable of understanding democracy, would not have the chance to embrace the world's greatest beloved, freedom and democracy
+|Example.Provenance=http://shokoohmirzadegi.com/02.Articles/outside%20media.htm
+}}
+|Entered by=Reza
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

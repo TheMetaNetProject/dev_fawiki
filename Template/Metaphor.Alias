@@ -1,0 +1,14 @@
+<noinclude>
+This is the "Metaphor.Alias" template.
+It should be called in the following format:
+<pre>
+{{Metaphor.Alias
+|Metaphor.Alias.Name=
+|Metaphor.Alias.Provenance=
+|Metaphor.Alias.Page no=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+<p>{{{Metaphor.Alias.Name|}}} {{#if:{{{Metaphor.Alias.Provenance|}}}|({{{Metaphor.Alias.Provenance|}}}}}{{#if:{{{Metaphor.Alias.Page no|}}}|,{{{Metaphor.Alias.Page no|}}}}}{{#if:{{{Metaphor.Alias.Provenance|}}}|)}}</p> {{#set:Metaphor.Alias={{{Metaphor.Alias.Name|}}};{{{Metaphor.Alias.Provenance|}}};{{{Metaphor.Alias.Page no|}}}}}
+</includeonly>

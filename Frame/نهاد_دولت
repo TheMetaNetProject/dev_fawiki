@@ -1,0 +1,103 @@
+{{Frame
+|Name gloss=institution government
+|Description=Government institution
+|Family=طرح های حکومت, طرح حکومت,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهاد دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ناحیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هیئت مدیره دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صلاحیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخش دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دفتر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزارت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزارتخانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نخست وزیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هیئت مدیره دولتي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان دولتي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهاد های دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمانهای دولتي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان های دولتي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرهنگی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موسسه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موسسات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ادارات دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هیئت دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پایگاه اطلاع رسانی دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کابینه
+}}
+|LinkEnglish=Government institution
+|Applicability=Persian
+}}

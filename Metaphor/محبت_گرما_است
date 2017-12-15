@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=AFFECTION WARMTH AST-COP
+|Aliases={{Metaphor.Alias}}
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=گرما
+|Target frame=محبت
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=کودکی که از محبت های گرم پدر و مادر محروم بوده، نیاز او درست اشباع نشده
+|Example.Gloss=.Child who from affection PLURAL father and mother deny was, he correctly saturate became-NEG
+|Example.English translation=.The needs of a child who is denied the warm affection of parents are not satisfied
+}}{{Example
+|Example.Language=Persian
+|Example.Text=محبت کانون خانواده را گرم می کند.
+|Example.Gloss=Love center family RA warm does
+|Example.English translation=Love brings warmth to the body of one's family
+}}
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani
+|Status=in development
+|LinkEnglish=AFFECTION IS WARMTH
+|Investigated for=Persian
+}}
+The source frame in Farsi is temperature, not necessarily body-temperature

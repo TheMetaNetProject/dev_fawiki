@@ -1,0 +1,136 @@
+{{Frame
+|Name gloss=bureaucracy
+|Description=bureaucracy - Persian neologism
+|Comments=As of now, we have two frames and frame families for bureaucracy, one for the Western loanword and the other its Persian neologism. Both terms are used interchangeably and extensively in Persian-language blogs, the Persian neologism is favored  more in official writings. We have not concluded yet any reasons to warrant the existence of two frames for the same concept. All the same both frames are inter-connected and appear under the frame families as well. We need to discuss this in our upcoming meeting.
+|Family=طرح دیوان سالاری, طرح بروکراسی
+|Type=Frame
+|Cultural information=ُThe Persian neologism Divan-salari [rule-of administrative system] is often exclusively used by lawyers, policymakers, and journalists, ordinary citizens use different terms to refer to various aspects of an administrative system governing a large institution, namely kaghaz-bazi (literally: paper-play, i.e. paper-mania) or fisad-i idari [adminstrative corruption]
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=حکومت
+|Related frame.Description=Subcase of governance
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=بروکراسی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوان سالاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مامور اداری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بوروکرات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وابسته به امور اداری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بوروکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاغذ بازی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بوروکراسی موابانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بوروکراسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوان سالاري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاغذ بازي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بروکراسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بروکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ادارات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اداری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تشکیلات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اداري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت ادارات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمانهای بورو کراتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برو کراتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بورو کراتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقامات اداری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمانهای بزرگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمانهای بزرگ رسمی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمانهای رسمی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت اداری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فساد اداری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رشوه‌ گیری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فساد اداري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رشوه‌ گیري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت اداري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاغذ بازي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوانسالاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوانسالاري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اداره امور مملکتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اداره امور مملکتي
+}}
+|LinkEnglish=bureaucracy
+|Applicability=Persian
+}}

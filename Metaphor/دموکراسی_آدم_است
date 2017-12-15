@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=Democracy is a_human
+|Aliases=
+|Comments=No corresponding English metaphor found. Example(s) needs to be provided
+|Family=استعاره دموکراسی
+|Metaphor Type=Composed/complex
+|Source frame=آدم
+|Target frame=دموکراسی
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=دموکراسی‌ حیوان است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=حکومت نظامی، آخرین میخ بر تابوت دموکراسی
+|Example.Gloss=Martial law,final nail in coffin democracy
+|Example.English translation=Martial law, is the last nail in the coffin of democracy
+}}
+|Entered by=Reza
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

@@ -1,0 +1,13 @@
+Create or edit an IARPA Source Concept: {{#forminput:form=IARPASourceConcept|autocomplete on category=IARPASourceConcept|namespace=IConcept}}
+----
+[[MappingSummary|Frame to Concept mapping summary]]
+----
+{{#ask: [[Category:IARPASourceConcept]] [[:IConcept:+]]
+|?HasConceptOwner=Owner
+|?HasConceptDefinition=Definition
+|?HasConceptLUs=LUs
+|format=table
+|sort=HasConceptOwner,
+}}
+----
+This category uses the form [[Has default form::IARPASourceConcept]].

@@ -1,0 +1,16 @@
+{{MetaRC
+|MetaRCGroup=FramesMakeUseOfCM
+|MetaRCDescription=The target and source frames are subcase descendants of frames that make use of the target and source frames of a CM.
+|MetaRCComments=getusedcmslocal
+|MetaRCScore=0.4
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?tframe mo:makesUseOfFrame ?itgframe .
+        ?sframe mo:makesUseOfFrame ?iisframe .
+        ?itgframe mo:isSubcaseOfFrame* ?tgframe .
+        ?iisframe mo:isSubcaseOfFrame* ?isframe .
+}
+}}

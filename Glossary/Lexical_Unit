@@ -1,0 +1,21 @@
+{{Glossary
+|Entry=Lexical Unit
+|Description=Lexical units that are associated with a given frame are listed in the 'Relevant Lexical Units' section of the Frame entry. 
+
+Each lexical unit is listed in its lemma form, followed by a part of speech tag, with the two elements separated by a period.  
+
+The part of speech tags currently in use are:
+  noun = n
+  verb = v
+  adjective = a
+  adverb = adv  
+
+Example entries for the Election frame:
+   election.n
+   elect.v
+|Applies to=Frame
+|Utility=Wiki
+|Notation=lemma.pos
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}

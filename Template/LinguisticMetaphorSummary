@@ -1,0 +1,18 @@
+<noinclude>
+This is the "FramesForLinguisticMetaphors" template. It is used according to semantic results formats to display lists of linguistic metaphors along with their candidate frames and metaphors.  It returns information in wiki table row format
+It should be called in the following format:
+<pre>
+{{FramesForLinguisticMetaphors|1=linguistic metaphor name|2=seed name|3=target word|4=source word|5=target frames|6=source frames|7=target frame|8=source frame}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+! [https://metaphor.icsi.berkeley.edu/en/index.php/{{#replace:{{{1|}}}| |_}} {{#sub:{{{1|}}}|20}}]
+| [https://metaphor.icsi.berkeley.edu/en/index.php/{{#replace:{{{2|}}}| |_}} {{#sub:{{{2|}}}|20}}]
+| {{#arraymap:{{{5|}}}|,|@@|[https://metaphor.icsi.berkeley.edu/en/index.php/{{#replace:@@| |_}} {{#sub:@@|7}}]}}
+| {{#arraymap:{{{6|}}}|,|@@|[https://metaphor.icsi.berkeley.edu/en/index.php/{{#replace:@@| |_}} {{#sub:@@|7}}]}}
+| {{#ask: [[Category:Metaphor]] [[Has target frame.-Lexical unit of.Has lemma::{{{3|}}}]] [[Has source frame.-Lexical unit of.Has lemma::{{{4|}}}]]|format=ul}}
+| {{#ifeq:{{{6|}}}|||{{#arraymap:{{#searchmetaphorsbysource:{{{6|}}}}}|,|@@|[https://metaphor.icsi.berkeley.edu/en/index.php/{{#replace:@@| |_}} {{#sub:@@|9}}]}}}}
+| {{#arraymap:{{{7|}}}|,|@@|[https://framenet2.icsi.berkeley.edu/fnReports/data/frame/@@.xml @@]}}
+| {{#arraymap:{{{8|}}}|,|@@|[https://framenet2.icsi.berkeley.edu/fnReports/data/frame/@@.xml @@]}}
+|-
+</includeonly>

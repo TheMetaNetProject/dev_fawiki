@@ -1,0 +1,58 @@
+<noinclude>
+This is the "Metaphor family" template.
+It should be called in the following format:
+<pre>
+{{Metaphor family
+|Name gloss=
+|Metaphor family type=
+|Description=
+|Metaphor family status=
+|is subfamily of=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+|- {{#if:{{{Name gloss|}}}| |style="display:none;"}}
+! Name Gloss
+| {{Printgloss|{{PAGENAME}}|{{{Name gloss|}}}}}{{#set:Metaphor family.Name gloss={{{Name gloss|}}}}}
+|-
+! Type
+| [[Metaphor family.Type::{{{Metaphor family type|}}}]]
+|-
+! Description
+| [[Metaphor family.Description::{{{Description|}}}]]
+|-
+! Status
+| {{#arraymap:{{{Metaphor family status|}}}|,|x|[[Status::x]]}}
+|-
+! is subfamily of
+| {{#ifeq:{{{is subfamily of|}}}||This is a top-level family.|{{#arraymap:{{{is subfamily of|}}}|,|x|[[Metaphor subfamily of::Metaphor_family:x|x]]}}}}
+|}
+'''Metaphors in this family:'''
+{{Metaphors in family|family={{FULLPAGENAME}}}}
+
+<div id="metaphorfamilygraphs">
+<ul>
+<li>[[#metatabtg|Target frames]]</li>
+<li>[[#metatabmet|Metaphors]]</li>
+<li>[[#metatabsr|Source frames]]</li>
+</ul>
+<div id="metatabtg" class="gviztab">
+{{#relationsgraph:tgschemgrph||{{GetFrameRelationsForMetaphorFamily|{{FULLPAGENAME}}|Target}}||gv|}}
+</div>
+<div id="metatabmet" class="gviztab">
+{{#relationsgraph:metfamrels||{{#ask: [[Category:Metaphor]] [[ Metaphor.Family::{{FULLPAGENAME}}]]
+| ?Related metaphor
+| format=array
+| sep= <SEP>
+}}||gv|shape="box"}}
+</div>
+<div id="metatabsr" class="gviztab">
+{{#relationsgraph:srschemgrph||{{GetFrameRelationsForMetaphorFamily|{{FULLPAGENAME}}|Source}}||gv|}}
+</div>
+</div>
+
+{{Metaphor subfamilies of|family={{FULLPAGENAME}}}}
+To view the list of all Metaphor families, click [[Metaphor Families|here]].
+[[Category:Metaphor family]]
+</includeonly>

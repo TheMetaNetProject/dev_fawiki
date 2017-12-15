@@ -1,0 +1,32 @@
+{{Metaphor
+|Name gloss=democracy physical object is
+|Name transcription=Democracy is a physical object
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=دموکراسی‌ ماده است
+}}
+|Family=استعاره دموکراسی
+|Metaphor Level=General
+|Source frame=جسم
+|Target frame=دموکراسی
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=بطور کلی سه عنصر عمده در این دوره مانع از تحول و شکل گیری دموکراسی در افغانستان از طریق رآی آزاد مردم گردیدند
+|Example.Transcription=inform of general, 3 elements in this era barrier from changing and reforming democracy in afghanistan through  election vote free people become
+|Example.English translation=In general there are 3 elements that stop democracy from formation and progress, through free election in Afghanistan.
+|Example.Provenance=http://www.farda.org/articles/a_asefi/free_elections.htm
+|Example.Annotation=شکل گیری دموکراسی
+}}{{Example
+|Example.Language=Persian
+|Example.Text=حنای لیبرال دموکراسی رنگ باخته و جاذبه گذشته‌اش را از دست داده است
+|Example.Transcription=Henna liberal democracy faded and its past attraction has lost
+|Example.English translation=Liberal democracy has lost its charm and no longer possesses its past appeal
+|Example.Comments=This example is proverbial and does not evoke the source concept of DEMOCRACY IS MATTER for me--Aria
+}}
+|Entered by=Sanam,
+|Status=in development
+|Program alias=دموکراسی‌
+|Investigated for=Persian
+}}

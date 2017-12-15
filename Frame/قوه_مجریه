@@ -1,0 +1,130 @@
+{{Frame
+|Name gloss=Executive branch
+|Description=Government executive action
+|Family=طرح قانونی, طرح های حکومت,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=قوه قضائیه
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=قوه مقننه
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=نهاد دولت
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اداره کشور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رئیس قوه مجریه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رئیس جمهور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزارتخانه‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزارت کشور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزارت امور خارجه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزارت دفاع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریاست قوه مجریه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وظایف قوه مجریه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارکان قوه مجریه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوه مجریه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوای سه‌ گانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجرا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجرا کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجرا کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجرا کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هیئت وزیران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشاور اول
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معاون رئیس جمهور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دفتر ریاست جمهور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهاد ریاست جمهوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجراء کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجراء کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجراء کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجراء 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رییس جمهور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رییس جمهوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریاست جمهوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اختیارات رئیس جمهور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوه مجریه جمهوری اسلامی ایران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریاست قوه مجریه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاستگذاری و نظارت بر امور اقتصادی کشور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آموزش و پژوهش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارکان قوه مجریه
+}}
+|LinkEnglish=Government executive action
+|Applicability=Persian
+}}

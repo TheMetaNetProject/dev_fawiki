@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=Morality
+|Family=طرح های اخلاقیات
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فاسد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هرزه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تکلیف
+}}
+|LinkEnglish=Morality
+|Applicability=Persian
+}}

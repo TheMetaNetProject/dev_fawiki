@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=Physical burden
+|Other aliases=Load, cargo
+|Comments=There is no corresponding English frame. The closest war "Burden" in the English Wiki.
+|Family=طرح های تحرک
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=حمل بار
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=محدودیت تحرک
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فشار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بار سنگین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منگنه
+}}
+}}

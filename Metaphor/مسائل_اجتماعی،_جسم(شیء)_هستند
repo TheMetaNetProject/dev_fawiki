@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=social issues like object
+|Aliases=
+|Comments=Social issues are like objects that can disappear or be removed
+
+Disagree with this analysis --Aria and Sanam
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=جسم(شیء) هستند
+|Target frame=مسائل اجتماعی
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=شرایط همچون جسم
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=تمام کوشش این سازمان محو فقر و گرسنگی در تمام دنیاست .
+|Example.Gloss=all effort this organization removal poverty and hunger in all the-world
+|Example.English translation=This organization is trying to wipe out poverty and hunger in the world
+}}
+|Entered by=Behrang
+|Status=in development, contested analysis
+|Investigated for=Persian
+}}

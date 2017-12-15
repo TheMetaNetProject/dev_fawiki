@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=Color
+|Type=Cog
+|Status=in development
+|Entered by=Aria Fani, 
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پررنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کم رنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رنگ باخته
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رنگ باختن
+}}
+|Applicability=Persian
+}}

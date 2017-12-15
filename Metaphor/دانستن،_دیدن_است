@@ -1,0 +1,30 @@
+{{Metaphor
+|Name gloss=KNOWING SEEING AST-COP
+|Aliases=
+|Comments=Adequate examples need to be cited. One false example was deleted.
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=دیدن
+|Target frame=دانستن
+|Mappings={{Mapping
+|Target=موجودی که میبیند
+|Source=بیننده
+}}{{Mapping
+|Target=ذهن
+|Source=چسم
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=برای این سوال خودم نشستم ببینم که راهکاری در برنامه می‌بینیم یا نه.
+|Example.Gloss=For this question self-1sg sit-1sg-pst see-present(doubt) ke solution-(path-work) in program(plan) see-2ndPl-present prog or no
+|Example.English translation=For this question I, myself, searched carefully to know whether there is a solution for the plan or not
+|Example.Comments=See is used twice in this example. Only the first usage of see, translated as ‘consider’ is relevant to knowing is seeing. Aria
+I think the second one is entailed to'knowing is seeing', but first one is used differently which is in the mapping of thinking is perceiving.Sanam
+}}
+|Entered by=Sanam, Aria
+|Status=in development
+|LinkEnglish=KNOWING IS SEEING
+|Investigated for=Persian
+}}

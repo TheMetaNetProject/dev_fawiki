@@ -1,0 +1,363 @@
+{{Frame
+|Name gloss=Social status
+|Description=Social status
+|Family=طرح های ثروت و طبقات اجتماعی,
+|Type=Frame
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضعيت اجتماعي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موقعیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موقعیّت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجتماع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ترقی دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ترقی داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ترقی ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ترقّی دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ترقی داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ترقی ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سامان بخشیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سامان بخشید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سامان بخش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سامان‌بخشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سامان‌بخشی اوضاع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبود بخشیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبود بخشید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبود بخش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبود‌بخش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبود‌بخشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبود‌بخشی اوضاع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بر وفق مراد بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بر وفق مراد بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بر وفق مراد باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بحرانی شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بحرانی شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بحرانی شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بحرانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سر و سامان گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سر و سامان گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سر و سامان گیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساماندهی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساماندهی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساماندهی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساماندهی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از کنترل خارج شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از کنترل خارج شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از کنترل خارج شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحت کنترل بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحت کنترل بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحت کنترل باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحت کنترل درآوردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحت کنترل درآورد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحت کنترل درآور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مهار کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مهار کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مهار کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مهارنشدنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خراب بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خراب بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خراب باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آباد بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آباد بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آباد باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از دست دررفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از دست دررفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از دست دررو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روبراه کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روبراه کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روبراه کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضع عادی بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضع عادی بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضع عادی باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضع غیرعادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضع عادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انجام دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انجام داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انجام ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فساد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فحشا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منکرات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امر به معروف ونهی از منکر کردن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امر به معروف ونهی از منکر کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امر به معروف ونهی از منکر کن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جنایت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نرخ دزدی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیکاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتیاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معتاد به مواد مخدر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مواد مخدر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نیروی انتظامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کانون‌های فرهنگی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارشاد کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارشاد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارشاد کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خواهران و برادران دینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انصار حزب‌الله
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارشاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تذکر دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تذکر داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تذکر ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه‌شناسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه‌شناختی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه روستایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه شهری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرار مغزها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=علل عقب‌ماندگی فرهنگی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توسعه دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توسعه داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توسعه ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه بسته
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارتباط جوانان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رابطه پسر و دختر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آموزش و پرورش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خانواده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طلاق و ازدوواج
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آمار بزهکاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار اجباری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارتن خوابی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کودکان خیابانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محله‌های فقیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نبود امکانات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امکانات تحصیلی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وظیفه خانواده
+}}
+|LinkEnglish=Social status
+|Applicability=Persian
+}}

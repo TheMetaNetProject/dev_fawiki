@@ -1,0 +1,18 @@
+{{Glossary
+|Entry=Role
+|Other Aliases=Frame role; Semantic roles; Frame role; Frame element
+|Description=Roles are used to represent the internal structure of Frames.  
+
+Within Metaphor  entries, roles are used to define role mappings between the Source frame and the Target Frame; the same roles as were listed for that frame in its frame form entry are used in the metaphor mapping. (see [[Mapping]])
+
+A given Frame’s roles are listed in the ‘Roles’ block of the Frame page.   Filling out this section is optional, but strongly preferred.  When a frame is defined as a ‘subcase of’ another frame, it is generally assumed that it inherits all the roles of that other frame, even if these roles are not actually listed in the roles section of the current frame.
+
+Roles are commonly assigned names that make them maximally relevant to and reflective of the frame they are roles of, and maximally distinct from the more generic frame from which they inherit. However, each role name is defined in relation to a particular frame.  Therefore, it is possible to use the same role name in more than one frame; for instance, the ‘experiencer’ role in the Anger frame is distinct from (though related to) the ‘experiencer’ role in the Emotion frame. 
+
+Each role can be assigned a Type.  Currently, these are text fields that are used to indicate whether a given role is, e.g., some kind of entity, an x-schema (process), or state/property.   The Glossary/Comments field can provide further, more elaborated information about a given role.  Where applicable, a given frame role entry can also specify which of the FrameNet roles (FE, in FrameNet terminology) in the closest FrameNet frame it most closely corresponds to (see [[Closest FrameNet Frames]]). 
+     
+Relations between the current frame’s roles and those of other related frames are specified in the the Bindings section of the Frame page (see [[Binding]]).  
+
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}

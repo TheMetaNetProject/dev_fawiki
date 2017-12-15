@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=change state, change possession ast-COP
+|Aliases=
+|Comments=Cited example was false. New example(s) needs to be provided to support metaphor
+|Metaphor Type=Composed/complex
+|Source frame=تغیر حالت
+|Target frame=تغیر مالکیت
+|Mappings={{Mapping
+|Target=تجربه کننده
+|Source=مالک
+}}{{Mapping
+|Target=ما یملک
+|Source=حال
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=تجربۀ یک حالت، مالکیت شیء است
+}}
+|Entailments=
+|Examples=
+|Entered by=Aria, Sanam
+|Last reviewed by=Aria Fani
+|Status=in development
+|LinkEnglish=CHANGE OF STATE IS CHANGE OF POSSESSION
+|Investigated for=Persian
+}}

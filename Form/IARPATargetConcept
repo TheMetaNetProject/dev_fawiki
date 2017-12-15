@@ -1,0 +1,121 @@
+<noinclude>
+This is the "IARPATargetConcept" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=IARPATargetConcept|namespace=IConcept|autocomplete on category=IARPATargetConcept}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|IARPATargetConcept}}}
+{| class="formtable"
+! ConceptOwner:
+| {{{field|ConceptOwner}}}
+|-
+! ConceptType:
+| {{{field|ConceptType}}}
+|-
+! ConceptGroup:
+| {{{field|ConceptGroup|input type=text with autocomplete|values from property=HasConceptGroup}}}
+|-
+! ConceptDefinition:
+| {{{field|ConceptDefinition}}}
+|-
+! ConceptComment:
+| {{{field|ConceptComment}}}
+|-
+! ConceptStatus:
+| {{{field|ConceptStatus}}}
+|}
+<br>
+
+==Target Concept Specification==
+
+{| class="formtable"
+! Concept Frames:
+| {{{field|ConceptFrames|holds template}}}
+|-
+! Whitelist LUs:
+| {{{field|WhitelistTargetLUs|holds template}}}
+|-
+! Blacklist LUs:
+| {{{field|BlacklistTargetLUs|holds template}}}
+|-
+|}
+<br>
+
+==Source Domain Constraints==
+
+{| class="formtable"
+! Blacklist Frame Families:
+| {{{field|BlacklistSourceFrameFamilies|holds template}}}
+|-
+! Blacklist Frames:
+| {{{field|BlacklistSourceFrames|holds template}}}
+|-
+! Blacklist LUs:
+| {{{field|BlacklistSourceLUs|holds template}}}
+|-
+|}
+{{{end template}}}
+
+{{{for template|Linked frame|label=Linked frames|multiple|embed in field=IARPATargetConcept[ConceptFrames]}}}
+
+{| class="formtable"
+! Frame:
+| {{{field|Frame name|property=Is linked to from frame|values from namespace=Frame}}}
+|}
+{{{end template}}}
+
+{{{for template|Whitelist target LUs|label=Whitelist Target LUs|multiple|embed in field=IARPATargetConcept[WhitelistTargetLUs]}}}
+
+{| class="formtable"
+! Whitelist LU:
+| {{{field|WhitelistTargetLU|property=Has whitelist target LU}}}
+|}
+{{{end template}}}
+
+{{{for template|Blacklist target LUs|label=Blacklist Target LUs|multiple|embed in field=IARPATargetConcept[BlacklistTargetLUs]}}}
+
+{| class="formtable"
+! Blacklist LU:
+| {{{field|BlacklistTargetLU|property=Has blacklist target LU}}}
+|}
+{{{end template}}}
+
+{{{for template|Blacklist source frame families|label=Blacklist Source Frame Families|multiple|embed in field=IARPATargetConcept[BlacklistSourceFrameFamilies]}}}
+
+{| class="formtable"
+! Blacklist source frame family:
+| {{{field|BlacklistSourceFrameFamily|property=Has blacklist source frame family|values from category=Frame family}}}
+|}
+{{{end template}}}
+
+{{{for template|Blacklist source frames|label=Blacklist Source Frames|multiple|embed in field=IARPATargetConcept[BlacklistSourceFrames]}}}
+
+{| class="formtable"
+! Blacklist source frame:
+| {{{field|BlacklistSourceFrame|property=Has blacklist source frame|values from namespace=Frame}}}
+|}
+{{{end template}}}
+
+{{{for template|Blacklist source LUs|label=Blacklist Source LUs|multiple|embed in field=IARPATargetConcept[BlacklistSourceLUs]}}}
+
+{| class="formtable"
+! Blacklist source LU:
+| {{{field|BlacklistSourceLU|property=Has blacklist source LU}}}
+|}
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

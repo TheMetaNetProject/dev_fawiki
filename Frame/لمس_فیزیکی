@@ -1,0 +1,63 @@
+{{Frame
+|Name gloss=physical touch
+|Comments=It closely corresponds with Touching in the English frames, but lacks the physical element
+|Family=طرح های حسی,
+|Type=Primary
+|Status=in development
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لمس   
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= لمس فیزیکی‌  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  تماس 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  تماس فیزیکی‌ 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  تماس بدنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تماس گرفتن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  تماس داشتن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  لمس کردن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  لمس کن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دست زدن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دست زن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دست زد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تماس گرفت   
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=   تماس گیر 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  تماس دار 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= تماس داشت
+}}
+|LinkEnglish=Touching
+|Applicability=Persian
+}}

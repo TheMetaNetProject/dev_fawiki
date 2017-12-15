@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=subsidy guagmire is
+|Aliases=
+|Comments=no corresponding English metaphor found
+|Family=طرح حکومت,
+|Metaphor Type=Composed/complex
+|Source frame=باتلاق
+|Target frame=یارانه
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=بروکراسی باتلاق است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=دولت در باتلاق یارانه‌ها گرفتار شده است
+|Example.Gloss=Governement in guagmire subsidies caught is
+|Example.English translation=The Governemnt has been trapped in the swamp of subventions
+}}
+|Entered by=Reza
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

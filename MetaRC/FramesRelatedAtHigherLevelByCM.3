@@ -1,0 +1,21 @@
+{{MetaRC
+|MetaRCGroup=FramesRelatedAtHigherLevelByCM
+|MetaRCDescription=Target frame is a subcase descendant of a frame which is made use of by a frame which is a subcase descdendant of the target frame of a CM.  The source frame is a subcase descendant of the source frame of that CM OR it is the subcase of a frame which is made use of by a frame which is a subcase descendant of the source frame of the CM.
+|MetaRCComments=getcmsfromframeslong
+|MetaRCScore=0.3
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?itframe mo:makesUseOfFrame ?iitframe .
+        ?tframe mo:isSubcaseOfFrame* ?iitframe .
+        ?itframe mo:isSubcaseOfFrame* ?tgframe .
+        {
+            ?sframe mo:isSubcaseOfFrame* ?isframe
+        } UNION {
+            ?iisframe mo:makesUseOfFrame ?sframe .
+            ?iisframe mo:isSubcaseOfFrame* ?isframe .
+        }
+}
+}}

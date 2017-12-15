@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=learning and teaching process
+|Family=طرح های تحصیلات
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آموزش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آموزش و پرورش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدارس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدرسه
+}}
+|LinkEnglish=Learning
+|Applicability=Persian
+}}

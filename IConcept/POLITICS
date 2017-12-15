@@ -1,0 +1,14 @@
+{{IARPATargetConcept
+|ConceptOwner=ICSI
+|ConceptType=general
+|ConceptGroup=GOVERNANCE
+|ConceptComment=Missing frame: Political region
+
+|ConceptFrames={{Linked frame
+|Frame name=رقابت سیاسی
+}}{{Linked frame
+|Frame name=سیاست
+}}{{Linked frame
+|Frame name=برابری سیاسی
+}}
+}}

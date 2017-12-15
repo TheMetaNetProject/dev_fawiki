@@ -1,0 +1,57 @@
+{{Frame
+|Name gloss=Cure_of an_illness
+|Description=Curing an illness
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=بیماری
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقویت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=درمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دارو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تزریق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شفا،
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبودی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دوا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معالجه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پانسمان کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=داروی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبودی دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبود دادن
+}}
+|LinkEnglish=Treating a physical affliction
+|Applicability=Persian
+}}
+Is treating a physical affliction really a subcase of physical afflication? I would be more inclined to use the 'makes use of'  relation

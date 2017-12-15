@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=Industry
+|Comments=The Persian term san'at could mean industry, craft (the way used in literary theory), and profession; but none corresponds with  "market" which is, as of now, designated as the closest English frame
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani,& Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صنعت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صنعت کار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صنعت کاران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صنایع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صنعتی  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  کارخانجات صنعتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  بخش صنعت 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  صنعتکار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  صنایع سنگین 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  صنایع سبک  
+}}
+|LinkEnglish=Market
+|Applicability=Persian
+}}

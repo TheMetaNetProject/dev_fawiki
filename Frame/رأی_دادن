@@ -1,0 +1,133 @@
+{{Frame
+|Name gloss=Give vote
+|Description=Voting
+|Family=طرح انتخابات, طرح های حکومت,
+|Type=Frame
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تكليف رأي دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأي دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رای دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأي ندادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چگونگی رای دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چگونگي راي دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رای دادن در انتخابات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رای‌دهنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رای‌دهندگان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رای دادن نیابی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رای دادن نیابي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم رأی دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم رأي دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ثبت نام راى‌دهنگان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ثبت نام راي‌دهندگان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعلام نتایج آراء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نتایج  آراء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آرای مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آراي مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مراكز ثبت نام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مراکز رأی‎ دهی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأی‌دهی ‎
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأی‎دهي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأی ندهنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأي داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأي ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأي داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأي ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأي نداد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأي نده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأي دادن به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأي داد به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأي ده به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رای داد به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رای ده به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برگه رای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شمارش آراء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آراء متخذه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اخذ رای
+}}
+|LinkEnglish=Voting
+|Applicability=Persian
+}}

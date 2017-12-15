@@ -1,0 +1,81 @@
+{{Frame
+|Name gloss=Battling against a_hostile force
+|Comments=Antagonistic force remotely approximates the Persian frame, but is not close enough to warrant linkage to English, lacking the "battling" element
+|Family=طرح های پیکاری
+|Type=Frame
+|Status=in development
+|Entered by=Sanam
+|Last reviewed by=Aria Fani & Reza,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=نیروهای تهدید کننده جان
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=نیروی ترسناک
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=نیرو
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیداد کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبارزه کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از بین بردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=درگیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرکوبی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مواجه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انهدام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبارزه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زائل کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیرون کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقابله
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برانداختن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=براندازی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبارزه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=می جنگند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دست و پنجه نرم می کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دست و پنجه نرم کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرکوب
+}}
+|Applicability=Persian
+}}

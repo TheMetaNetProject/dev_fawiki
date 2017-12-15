@@ -1,0 +1,74 @@
+{{Frame
+|Name gloss=path
+|Comments=There is no corresponding English frame
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راهنما
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهرو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه پیما
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه پیمایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راهدار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راهداری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسیر یابی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسیر مستقیم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه برگشت ناپذیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه بسته
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه راست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انحرافی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منحرف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسیر غلط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یکطرفه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دو طرفه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بن پست
+}}
+|Applicability=Persian
+}}

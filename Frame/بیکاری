@@ -1,0 +1,173 @@
+{{Frame
+|Name gloss=unemployment
+|Family=طرح های ثروت و طبقات اجتماعی
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Name=طرح اشتغال
+}}{{Related frame
+|Related frame.Name=طرح مشکلات  اجتماعی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیکاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدم اشتغال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نرخ بیکاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیکار شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیکار شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیکار می‌‌شود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیکار خواهد شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیکار شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعلان بیکاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مزایای بیکاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیکاران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=افراد بیکار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرد بیکار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=میزان بیکاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار را از دست دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار را از دست داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار را از دست می دهد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار را از دست خواهد داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اخراج کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اخراج کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اخراج می‌‌کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اخراج خواهد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اخراجی‌‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اخراج شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اخراج شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اخراج می‌‌شود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اخراج خواهد شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منفصل کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منفصل کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منفصل  می‌‌کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منفصل خواهد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منفصل از خدمت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انفصال از خدمت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عزل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عزل شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عزل شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عزل می‌‌شود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عزل  خواهد شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عزل  کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عزل  کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عزل می‌‌کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عزل خواهد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معزول
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معزولی‌‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیکار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار را از دست ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار را از دست ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیکاره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=علاف شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=علاف شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=علاف شو
+}}
+|LinkEnglish=Unemployment
+|LinkSpanish=Desempleo
+|Applicability=Persian
+}}

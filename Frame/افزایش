@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=increase
+|Family=طرح های نمودارگونه
+|Type=Primary
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=افزودن
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انبوه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=افزوده می شود
+}}
+|LinkEnglish=Increase size
+|Applicability=Persian
+}}

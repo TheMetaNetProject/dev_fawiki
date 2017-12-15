@@ -1,0 +1,36 @@
+{{Frame
+|Name gloss=growth
+|Comments=Closest corresponding English frame is "increase size"
+|Family=طرح های موجود زنده
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=رشد
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رشد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رشد کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رشد و نمو  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  نمو  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  رشد طبیعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  رشد غیر طبیعی
+}}
+|LinkEnglish=Increase size
+}}

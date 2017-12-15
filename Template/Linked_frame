@@ -1,0 +1,14 @@
+<noinclude>
+This is the "Linked frame" template.
+It should be called in the following format from the Frame template:
+<pre>
+{{Linked frame
+|Frame name=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+! Linked frame
+| [[Is linked to from frame::Frame:{{{Frame name|}}}|{{{Frame name|}}}]]
+|-
+|}</includeonly>

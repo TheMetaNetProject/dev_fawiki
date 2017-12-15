@@ -1,0 +1,39 @@
+{{Frame
+|Name gloss=syndicate
+|Comments=the Persian frame "sindika" is a loan word from French (syndicat as in syndicat professionnel); however there is more common Persian equivalent: itihadiyya-yi sinfi, I have added the new term and its variants to the LUs
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سندیکا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سندیکایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سندیکا ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اتحادیه صنفی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اتحادیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اتحادیهٔ صنفی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صنف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اصناف
+}}
+|LinkEnglish=corporation
+|Applicability=Persian
+}}

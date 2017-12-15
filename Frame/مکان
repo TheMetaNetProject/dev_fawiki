@@ -1,0 +1,120 @@
+{{Frame
+|Name gloss=Location
+|Family=طرح های مکان,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکان ها   
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= مکانها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محل ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محلها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منطقه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مناطق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محدوده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محدوده ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقاط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محلی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منطقه ای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بوم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بومی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرزمین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقطه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لامکان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکان داشتن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکان داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکان دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکانی را گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکانی را گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکانی را گیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اشغال کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اشغال کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اشغال کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکان یاب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکان یابی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکان نما
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امکنه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکان عمومی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مکان خصوصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موقعیت
+}}
+|LinkEnglish=Location
+|Applicability=Persian
+}}

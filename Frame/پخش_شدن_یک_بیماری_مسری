@@ -1,0 +1,91 @@
+{{Frame
+|Name gloss=Spread of a contagious disease
+|Comments=Disease spread approximates this Persian frame, minus the "contagious" element
+|Family=طرح های وسعت مکان
+|Tags=Program sources
+|Type=Composed
+|Status=in development, auto imported
+|Entered by=Sanam
+|Last reviewed by=Aria Fani,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=بیماری
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=پخش
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شیوع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبتلا شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پخش شدن یک بیماری مسری 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پخش شدن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیماری مسری 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پخش شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پخش شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش پیدا کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش پیدا کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش پیدا کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش بیماری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرایت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرایت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرایت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیماری واگیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیماری غیر واگیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیماری غیر مسری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شیوع پیدا کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شیوع پیدا کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شیوع پیدا کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شایع شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شایع شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شایع شو
+}}
+|LinkEnglish=Disease spread
+}}

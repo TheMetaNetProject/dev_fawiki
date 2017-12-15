@@ -1,0 +1,118 @@
+{{Frame
+|Name gloss=Trustful relationship
+|Description=Trust relationship
+|Family=طرح های حکومت,
+|Type=Frame
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=داوری
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معتمد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روابط اعتماد آمیز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رابطه بر اساس اعتماد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جلب اعتماد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد مردم به دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد مردم به پلیس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد مردم به سازمان‌های دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد مردم به سازمان‌هاي دولتي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رابطه اعتماد اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رابطه اعتمادآمیز با
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بررسی رابطه اعتماد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبیین رابطه اعتماد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیرامون رابطه اعتماد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد عمومي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد عمومى
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد سياسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد سياسى
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد اقتصادي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد اقتصادى
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد ملي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد ملى
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد كردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد كرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتماد كن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روابط اعتماد آمیز برقرارساختن با
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روابط اعتماد آمیز برقرارساخت با
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روابط اعتماد آمیز برقرارساز با
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی‌اعتمادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکم بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکم بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکم باش
+}}
+|LinkEnglish=Trust relationship
+|Applicability=Persian
+}}

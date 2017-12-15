@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=Democracy a path AST-COP
+|Aliases=
+|Metaphor Type=Composed/complex
+|Source frame=راه
+|Target frame=مردم سالاری
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=نابرابری زنان و بن بست دموکراسی در ایران
+|Example.Gloss=Inequality women and deadend democracy in Iran
+|Example.English translation=Women's inequality and the deadend of democracy in Iran
+}}{{Example
+|Example.Language=Persian
+|Example.Text=بن بست دموکراسی مسلح
+|Example.Gloss=Armed deadend democracy
+|Example.English translation=The deadend of armed democracy
+}}
+|Entered by=Reza
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

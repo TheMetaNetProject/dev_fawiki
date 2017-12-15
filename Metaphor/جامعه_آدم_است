@@ -1,0 +1,29 @@
+{{Metaphor
+|Name gloss=society person ast-COP
+|Aliases=
+|Metaphor Level=General
+|Source frame=آدم
+|Target frame=جامعه
+|Mappings={{Mapping
+|Target=جامعه
+|Source=آدم
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a mapping within
+|Related metaphor.Name=مشکلات اجتماعی بیماری های جسمی هستند
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=جامعه باید بتواند تنفس کند، تولید کند و مصرف کند.
+|Example.Gloss=Society must able breathing do, producing do, and consuming do
+|Example.English translation=Society must be able to to breath, produce, and consume.
+|Example.Provenance=http://www.jahanesanat.ir/engine/ms.word.php?newsid=2102
+|Example.Annotation=The three verbs in this sentence are compound verbs that include two parts, noun + verb (i.e. breathing + do) Hence the glossing
+}}
+|Entered by=Aria
+|Last reviewed by=Aria Fani
+|Status=in development, proposed
+|LinkEnglish=SOCIETY IS A PERSON
+|Investigated for=Persian
+}}

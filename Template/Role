@@ -1,0 +1,27 @@
+<noinclude>
+This is the "Role" template to use to display the Role record property.
+It should be called in the following format:
+<pre>
+{{Role
+|Role.Name=
+|Role.Name gloss=
+|Role.Type=
+|Role.Definition=
+|Role.FrameNet role=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude>
+<includeonly>{| class="wikitable" style="margin: 0px 2em 2px;"
+! Role Name: 
+| scope="col" width="300" | {{Printgloss|{{{Role.Name|}}}|{{{Role.Name gloss|}}}|{{Lang|en}}}} {{#set:Role={{{Role.Name|}}};{{{Role.Type|}}};{{{Role.Definition|}}};{{{Role.FrameNet role|}}};{{{Role.Name gloss|}}}}}
+|-
+! Role Type:
+| {{{Role.Type|}}}
+|-
+! Definition/Comments:
+| {{{Role.Definition|}}}
+|- {{#if:{{{Role.FrameNet role|}}}| |style="display:none;"}}
+! FrameNet Role:
+| {{{Role.FrameNet role|}}}
+|}</includeonly>

@@ -1,0 +1,195 @@
+{{Frame
+|Name gloss=Taxation
+|Description=Taxes, taxation
+|Comments=In Persian, the taxes and taxation are interchangable, maliyat [taxation, tax] is used for both; however there is a separate frame  
+for taxes as well: 'avariz' (see below in related frames
+|Family=طرح های مالیات,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=عوارض
+}}
+|Bindings={{Binding}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالياتي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=درآمد مالیات‌های 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات دهندگان‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نرخ مالیات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات‌های  مستقیم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یارانه‌ها‌‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یارانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظام مالیاتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات‌ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات بندی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گژیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عوارض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات بر ارث
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات بر فروش کالا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات بر سود سرمایه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معافیت مالیاتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات مستغلات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات گناه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات‌ گریزی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات‌ناپذیری 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخشودگی مالیاتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات‌خوری 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشمول مالیات قرار گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سند مالیاتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات‌کاه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحصیلدار مالیات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات‌ستان 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات‌ گیر 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اخذ مالیات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات معوقه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشمول مالیات قرار گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشمول مالیات قرار گیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات خوردن به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات خورد به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات خور به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات‌های معوقه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات نپرداختن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات نپرداخت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات نپرداز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نرخ مالیات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوانین مالیات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات شهرداری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات آموزش و پرورش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جریمه نپرداختن مالیات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عواقب نپرداختن مالیات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات بر ارزش افزوده 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدهی مالیاتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اظهارنامه مالیات 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اظهارنامه مالیاتی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= مؤدیان مالیاتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وصول ماليات 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امور مالیاتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان امور مالیاتی کشور
+}}
+|LinkEnglish=Taxation
+|Applicability=Persian
+}}

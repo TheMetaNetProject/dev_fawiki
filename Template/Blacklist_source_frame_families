@@ -1,0 +1,14 @@
+<noinclude>
+This is the "Blacklist source frame families" template.
+It should be called in the following format from the IARPATargetConcept template:
+<pre>
+{{Blacklist source frame families
+|BlacklistSourceFrameFamily=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+! Blacklist source frame family
+| [[Has blacklist source frame family::{{{BlacklistSourceFrameFamily|}}}]]
+|-
+|}</includeonly>

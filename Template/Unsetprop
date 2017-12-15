@@ -1,0 +1,10 @@
+<noinclude>
+This is the "Unsetprop" template.
+It should be called in the following format:
+<pre>
+{{Unsetprop|arrayname|name of category|name of property|additional qualifiers}}
+
+returns an array that can be printed with #arrayprint
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{{#arraydefine:{{{1|}}}1|{{#ask:{{{4|}}}[[Category:{{{2|}}}]]|format=list|sep=,|limit=1000|link=none}}}}{{#arraydefine:{{{1|}}}2|{{#ask:{{{4|}}}[[Category:{{{2|}}}]][[{{{3|}}}::+]]|format=list|sep=,|limit=1000|link=none}}}}{{#arraydiff:{{{1|}}}|{{{1|}}}1|{{{1|}}}2}}</includeonly>

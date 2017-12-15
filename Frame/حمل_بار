@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=Carrying load
+|Description=To carry a burden/load
+|Comments=Closest English frames are "moving object" or "burden"
+|Family=طرح های تحرک
+|Type=Frame
+|Status=in development
+|Last reviewed by=Aria Fani,& Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=بار فیزیکی
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=محدودیت تحرک
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به دوش کشید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به دوش می کشند
+}}
+|LinkEnglish=Moving object
+|Applicability=Persian
+}}

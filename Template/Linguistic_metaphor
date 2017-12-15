@@ -1,0 +1,90 @@
+<noinclude>
+This is the "LinguisticMetaphor" template, used primarily for metaphorical expressions imported from an automated extractor.
+It should be called in the following format:
+<pre>
+{{Linguistic metaphor
+|Name gloss=
+|Type=
+|Seed=
+|Comments=
+|Tags=
+|Source=
+|Target=
+|Examples={{Example}}
+|Entered by=
+|Status=
+|Verification status=
+|Instance of metaphor=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+|- {{#if:{{{Name gloss|}}}| |style="display:none;"}}
+! Name Gloss
+| {{Printgloss|{{PAGENAME}}|{{{Name gloss|}}}}}{{#set:Linguistic metaphor.Name gloss={{{Name gloss|}}}}}
+|- {{#if:{{{Type|}}}| |style="display:none;"}}
+! Type
+| {{#arraymap:{{{Type|}}}|,|x|[[Linguistic metaphor.Type::x]]}}
+|- {{#if:{{{Seed|}}}| |style="display:none;"}}
+! Seed Linguistic Metaphor
+| [[Linguistic metaphor.Seed metaphor::{{{Seed|}}}]]{{#set:Was found using seed={{{Seed|}}}}}
+|- {{#if:{{{Comments|}}}| |style="display:none;"}}
+! Comments
+| [[Linguistic metaphor.Comments::{{{Comments|}}}]]
+|- {{#if:{{{Tags|}}}| |style="display:none;"}}
+! Tags
+| {{#arraymap:{{{Tags|}}}|,|x|[[Tag::x]]}}
+|- {{#if:{{{Instance of metaphor|}}}| |style="display:none;"}}
+! Instance of Metaphor(s)
+| {{#arraymap:{{{Instance of metaphor|}}}|,|x|[[Linguistic metaphor.Instance of metaphor::x]]{{#set:Is instance of CM=x}}}}
+|}
+{| class="wikitable"
+! Linguistic Source
+| [[Linguistic metaphor.Source::{{{Source|}}}]]{{#set:Has source lemma={{{Source|}}}}}
+|-
+! Linguistic Target
+| [[Linguistic metaphor.Target::{{{Target|}}}]]{{#set:Has target lemma={{{Target|}}}}}
+|}
+'''Examples:'''
+{{{Examples}}}
+----
+'''Possible Conceptual Metaphors and Frames:'''
+{| class="wikitable"
+!
+! Target ({{{Target|}}})
+! Source ({{{Source|}}})
+|-
+! Frames
+| {{SearchFramesForLemma|Lemma={{{Target|}}}|format=ul|save as property=Candidate target frame}}
+| {{SearchFramesForLemma|Lemma={{{Source|}}}|format=ul|save as property=Candidate source frame}}
+|-
+! FrameNet Frames
+| {{SearchFrameNetForLemma|Lemma={{{Target|}}}|format=ul|save as property=Candidate target frame}}
+| {{SearchFrameNetForLemma|Lemma={{{Source|}}}|format=ul|save as property=Candidate source frame}}
+|-
+! Metaphors by Target/Source
+| colspan=2 | {{#ask: [[Category:Metaphor]] [[ Metaphor.Target frame::<q>[[Category:Frame]] [[LUs::?;{{{Target|}}}]]</q>]] [[ Metaphor.Source frame::<q>[[Category:Frame]] [[LUs::?;{{{Source|}}}]]</q>]]|format=ul}}
+|-
+! Metaphors by Source
+| colspan=2 | {{#arraymap:{{#searchmetaphorsbysource:{{SearchFramesForLemma|Lemma={{{Source|}}}|format=array}}}}|,|@@@@|[[@@@@|{{#sub:@@@@|9}}]]}}
+|}
+
+{{#ifeq:{{{Type|}}}|seed|
+'''Linguistic metaphors discovered through this seed'''
+{{#ask:[[Category:Linguistic metaphor]][[ Linguistic metaphor.Seed metaphor::{{FULLPAGENAME}}]]|format=category}}|}}
+----
+{| class="wikitable"
+! Entered by
+| {{#arraymap:{{{Entered by|}}}|,|x|[[Entered by::x]]}}
+|-
+! Status
+| {{#arraymap:{{{Status|}}}|,|x|[[Status::x]]}}
+|-
+! Verification status
+| [[Verification status::{{{Verification status|}}}]]
+|}
+{{#switch:{{{Verification status}}}
+|not metaphorical
+|garbage=
+|#default=[[Category:Linguistic metaphor]]}}
+</includeonly>

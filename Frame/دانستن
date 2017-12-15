@@ -1,0 +1,53 @@
+{{Frame
+|Name gloss=Knowing
+|Type=Frame
+|Status=in development
+|Entered by=Aria, Sanam
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=دانا
+|Role.Name gloss=knower
+}}{{Role
+|Role.Name=دانش
+|Role.Name gloss=knowledge
+}}{{Role
+|Role.Name=دانستن اکس اسکیما
+|Role.Name gloss=knowing x frame
+}}{{Role
+|Role.Name=ذهن
+|Role.Name gloss=mind
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دانستن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دان  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دانست 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دانستنی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دانستنی ها  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دانایی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دانا 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= نادان   
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= نادانی‌   
+}}
+|LinkEnglish=KNOWING
+|Applicability=Persian
+}}

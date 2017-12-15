@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=democracy a_lesson is
+|Aliases=
+|Family=استعاره دموکراسی‌
+|Metaphor Type=Composed/complex
+|Source frame=درس
+|Target frame=دموکراسی‌
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=دموکراسی‌ کالا است.
+}}{{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=دموکراسی‌ حیوان است.
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=دانش آموزان در اين نهاد كوچك اجتماعي مشق دموكراسي مي‌كنند تا بتوانند آينده بهتري را براي كشور رقم بزنند.
+|Example.Gloss=students in this institution small homework democracy are practicing so that they would be able to make a better future for the country
+|Example.English translation=Students in this small institution do democracy exercises so that they can bring a better future for the country
+|Example.Comments=No source has been provided
+}}
+|Entered by=Reza
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

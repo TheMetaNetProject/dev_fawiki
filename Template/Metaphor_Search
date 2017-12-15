@@ -1,0 +1,17 @@
+<noinclude>
+This is the "Metaphor Search" template.
+It should be called in the following format:
+<pre>
+{{Metaphor Search
+|searchstring=
+|=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+Searching for: {{{searchstring|}}}
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Type:: ~{{{searchstring|}}}]]
+| ?Metaphor.Type
+| format=table
+}}
+</includeonly>

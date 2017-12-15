@@ -1,0 +1,19 @@
+<noinclude>
+This is the "Metaphor family tree" template, which can be recursively called to flesh out a metaphor family tree.
+
+This template should be called with the following format
+<pre>
+{{Metaphor family tree|1=family|userparam=}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+<!--display the metaphors of this family -->
+{{#loop:i|0|{{{userparam|}}}|=}} [[{{{1|}}}|{{#replace:{{{1|}}}|Metaphor_family:|}}]] {{#loop:i|0|{{{userparam|}}}|=}}
+{{Metaphors in family|family={{{1|}}}}}
+{{#ask: [[Category:Metaphor family]] [[Metaphor subfamily of::{{{1|}}}]]
+| link=none
+| format=template
+| template=Metaphor family tree
+| userparam={{#expr:{{{userparam|}}}+1}}
+| limit=500
+}}</includeonly>

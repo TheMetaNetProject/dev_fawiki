@@ -1,0 +1,58 @@
+{{Frame
+|Name gloss=decrease
+|Comments=Decrease size" approximates the Persian frame, but is not close enough to warrant linkage to English, due to excess of the second element "size", which appears in the English frame
+|Family=طرح های نمودارگونه
+|Type=Frame
+|Status=in development
+|Entered by=sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاستن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاهش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاهش داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاهش داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاهش دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاهنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کم کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقلیل دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کم کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کم کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقلیل داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقلیل ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقلیل دهنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاهش دهنده
+}}
+|LinkEnglish=Decrease size
+|Applicability=Persian
+}}

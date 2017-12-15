@@ -1,0 +1,47 @@
+{{Frame
+|Name gloss=scalar quantity
+|Comments=No corresponding English frame
+|Family=طرح های نمودارگونه
+|Type=Cog, Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=برابر کردن
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توازن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بالا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روی خط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر خط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نسبی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مطلق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تعمیق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عمق
+}}
+|Applicability=Persian
+}}

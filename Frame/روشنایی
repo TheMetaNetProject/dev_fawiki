@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=Illumination
+|Family=طرح های حسی
+|Type=Primary
+|Status=in development
+|Entered by=Sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پررنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کمرنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کم رنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سایه روشن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  سایه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  روشنایی  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  روشن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  شفاف 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  کدر
+}}
+|LinkEnglish=Luminosity
+|Applicability=Persian
+}}

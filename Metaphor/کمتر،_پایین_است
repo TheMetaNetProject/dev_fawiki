@@ -1,0 +1,33 @@
+{{Metaphor
+|Name gloss=LESS DOWN AST-COP
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=عمودی
+|Target frame=کمیّت
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=سقوط قيمت جهاني طلا و بي‌تفاوتي بازار ايران!
+|Example.Gloss=Fall price world gold and indifference bazaar Iran.
+|Example.English translation=The drop of international price of gold and indifference in the Iranian market
+}}{{Example
+|Example.Language=Persian
+|Example.Text=تبش پايين آمده بود و رنگ رويش بازشده بود
+|Example.Gloss=Fever down came had and color face-3rd open was.
+|Example.English translation=His fever came down and the vigor came back to his face.
+}}{{Example
+|Example.Language=Persian
+|Example.Text=اما در حال حاضر، قیمت سهام پایین رفته است
+|Example.Gloss=But in current present, price stock down gone has
+|Example.English translation=Currently, the price of stock has gone down
+|Example.Provenance=http://zakhireh.co.ir/?part=article&inc=article&id=95
+}}
+|Entered by=Aria, Sanam
+|Last reviewed by=Aria Fani
+|Status=in development
+|LinkEnglish=LESS IS DOWN
+|Investigated for=Persian
+}}

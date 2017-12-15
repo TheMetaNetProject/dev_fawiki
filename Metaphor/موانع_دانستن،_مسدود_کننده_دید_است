@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=Obstacles_to knowing, are blockers_of vision
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=موانع دید
+|Target frame=دانستن
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=دانستن، دیدن است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=این مصوبه به منظور ایجاد شفافیت بیشتر در سیستم بانکی مورد تصویب قرار گرفت
+|Example.Gloss=This resolution to aim creating transparency more in system banking subject_to approval settled was
+|Example.English translation=This resolution passed with the aim of creating more transparency in the banking system
+|Example.Comments=The implied metaphor is KNOWING IS SEEING, hence any challenge or circumstance that would prevent one from knowing, in this case the affairs of the banking system, is conceptualized in the realm of seeing, i.e., blocking one's vision. Thus, transparency (clear vision) is what allows one to see/know better
+}}
+|Entered by=Aria Fani,
+|Last reviewed by=Aria Fani
+|Status=in development
+|LinkEnglish=DIFFICULTIES IN KNOWING ARE VISUAL OBSTRUCTIONS
+|Investigated for=Persian
+}}

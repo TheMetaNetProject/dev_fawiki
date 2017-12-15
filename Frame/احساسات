@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=Emotions
+|FrameNet frame=Experiencer_obj
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Sanam, Aria
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=مفعول
+|Role.Name gloss=experiencer
+|Role.FrameNet role=Experiencer
+}}{{Role
+|Role.Name=احساسات
+|Role.Name gloss=emotions
+}}{{Role
+|Role.Name=بدن
+|Role.Name gloss=body
+|Role.Definition=بدن شخس تجربه کننده احساسات
+}}{{Role
+|Role.Name=سطح_احساسات
+|Role.Name gloss=level_emotions
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=کار بدن
+}}
+|Bindings=
+|Inferences={{Inference}}
+|Relevant LUs=
+|LinkEnglish=Emotion
+|Applicability=Persian
+}}

@@ -1,0 +1,11 @@
+<noinclude>
+This is the "LemmaToFrameNetFrame" template.
+It should be called in the following format:
+<pre>
+{{SearchFrameNetForLemma
+|Lemma=eat.v|format=ul|save as property=
+}}
+</pre>
+The template returns frame names in a format compatible with array functions, or if format=ul is given, as a bullet list of links to frames.
+Edit the page to see the template text.
+</noinclude><includeonly>{{#get_web_data:url=https://framenet2.icsi.berkeley.edu/fnReports/data/luIndex.xml|format=xml|use xpath|data=fnframes=//fn:lu[@name="{{{Lemma|}}}"]/@frameName}}{{#arraydefine:framelist|{{#for_external_table:{{{fnframes}}},}}}}{{#arrayunique:framelist}}{{#ifeq:{{{format|}}}|ul|<ul>{{#arrayprint:framelist||@@@@|<li>[https://framenet2.icsi.berkeley.edu/fnReports/data/frame/@@@@.xml @@@@]</li>}}</ul>|{{#arrayprint:framelist}}}}{{#ifeq:{{{save as property|}}}|||{{#arraymap:{{#arrayprint:framelist}}|,|@@@@|{{#set:{{{save as property|}}}=@@@@}}}}}}{{#clear_external_data:}}</includeonly>

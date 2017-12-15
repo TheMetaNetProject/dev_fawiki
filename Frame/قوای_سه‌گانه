@@ -1,0 +1,105 @@
+{{Frame
+|Name gloss=three branches
+|Description=three brances of government
+|Family=طرح های حکومت,
+|Type=Cog
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=قوه قضائیه
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=قوه مجریه
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=قوه مقننه
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوای حاکم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قواي سه گانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وظایف قوای سه گانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تفکیک قوا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوه مقننه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوه قضاییه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوه قضائیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوه مجریه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رئیس قوه قضائیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رئیس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رییس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=همکاری قوا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصویب قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نصّ قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون اساسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رئیس جمهور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رئیس مجلس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجلس شورای اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهاد ریاست جمهوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نمایندگان 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزراء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزرا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزیران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نایب رئیس مجلس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجلس خبرگان
+}}
+|LinkEnglish=Branches of government
+|Applicability=Persian
+}}

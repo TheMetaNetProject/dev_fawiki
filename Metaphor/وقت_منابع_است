@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=VAGHT resource ast-COP
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=منابع
+|Target frame=وقت
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=او وقت زیادی را برای انجام این پروژه صرف کرد.
+|Example.Gloss=pronoun-3sg time much obj.mark for do.N this project consume do.past.3sg 
+|Example.English translation=He spend alot of time on this project
+|Example.Provenance=Sanam
+}}
+|Entered by=Sanam, Aria
+|Last reviewed by=Sanam
+|Status=in development
+|LinkEnglish=Time is a resource
+|Investigated for=Persian
+}}

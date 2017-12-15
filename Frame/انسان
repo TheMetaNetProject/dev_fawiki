@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=human
+|Comments=The frame "Human life cycle" somewhat approximates this frame. There exist a similar frame in the Persian Wiki that is linked to "person" in English Wiki
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انسان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انسانی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انسان ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انسانیت
+}}
+|Applicability=Persian
+}}

@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=public sector an_animal is
+|Aliases=
+|Family=استعاره اقتصاد
+|Metaphor Type=Composed/complex
+|Source frame=حیوان
+|Target frame=بخش دولتی
+|Mappings={{Mapping
+|Target=بخش دولتی
+|Source=حیوان
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=تحریمهایی به کام بخش دولتی و به ضرر بخش خصوصی
+|Example.Gloss=Sanctions in favor of public sectors and to the detirment of private sectors
+|Example.English translation=Some sanctions in favor of public (governmental) sectors and to the detirment of private sectors
+}}
+|Entered by=Reza
+|Last reviewed by=Aria Fani
+|Status=in development
+|LinkEnglish=GOVERNMENT INSTITUTION IS A BODY
+|Investigated for=Persian
+}}

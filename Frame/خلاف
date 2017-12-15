@@ -1,0 +1,44 @@
+{{Frame
+|Name gloss=Violation
+|Comments=The word khalaf has a wide semantic field in Persian. It could mean "show opposition" or to "object"(khalaf or mukhalefat karadan: demonstrate disagreement), deceit (khalaf-gu: lier, deceit-sayer), criminal (khalaf-kar: violation-doer), crime (khalaf mortakeb-shudan: committing an act of crime), antagonistic (khalaf-e haq: antagonistic towards justice), immoral (khalaf-e shar': violation of sharia, Muslim ethics and laws. As such this frame can correspond with various English frames depending on context: Immoral action and crime),
+|Type=Frame
+|Status=in development
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلاف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلاف کار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلاف ورز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلاف رای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلاف شرع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلاف صلح
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلاف کاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلاف کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلاف گفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلاف وعده
+}}
+|LinkEnglish=Crime
+|Applicability=Persian
+}}

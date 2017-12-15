@@ -1,0 +1,52 @@
+{{Frame
+|Name gloss=State_of lawfulness
+|Description=Legality
+|Family=طرح قانونی
+|Type=Frame
+|Status=in development
+|Entered by=Jisup, Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حقوقی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غیر قانونی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قاچاق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غیر قانونی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلاف قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروع
+}}
+|LinkEnglish=Legality
+|Applicability=Persian
+}}

@@ -1,0 +1,104 @@
+{{Frame
+|Name gloss=Person
+|Family=طرح های موجود زنده
+|Status=in development
+|Entered by=sanam
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=بدن
+|Role.Name gloss=body
+}}{{Role
+|Role.Name=بخشی از بدن
+|Role.Name gloss=part of body
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=موجود جاندار
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=موجود
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آدم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انسان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیمای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیما
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چهره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صورت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قیافه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خواب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فریاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لباس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی صدا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سکوت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رخت بر کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رخت برمی کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رخت برمیکند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رخت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روایتگر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روایت گر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=احساس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فکر می کنم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=می خواهید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=میل, آرزو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ناراحت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عصبانی
+}}
+|LinkEnglish=Person
+|Applicability=Persian
+}}

@@ -1,0 +1,40 @@
+{{Metaphor
+|Name gloss=to-hand bring target, arrive-INF to destination ast-COP
+|Aliases=
+|Family=ساختار واقعه (حرکت)
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=حرکت ارادی در راستای مسیر
+|Target frame=بدست آوردن هدف
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=خوشحالم که بالاخره به هدفت رسیدی
+|Example.Gloss=glad-1sg that finally to target-2sg-poss arrive-pst-2sg
+|Example.English translation=I am glad you finally reached your goal.
+|Example.Provenance=Sanam
+}}{{Example
+|Example.Language=Persian
+|Example.Text=خاتمی: این سازمان میتواند و باید کانونی باشد برای رسیدن به هدف های بلندی که اسلام، انقلاب و ملت شریف ایران داشته است
+|Example.Gloss=khatami: This organization prog-can.present-3sg and should focal become to goal-pl long-indef ke Islam, revolution and nation honorable Iran have.imp ast-cop
+|Example.English translation=
+Khatami: This organization can and should become a center for the realization of the high objectives that Islam, Revolution and the honorable people of Iran have had
+|Example.Provenance=http://www.irangreenvoice.com/article
+|Example.Comments=The word "long=boland" has a different frame. It is used to refer to loud "loud voice" tall "tall person" and high "high elevation" and others
+}}{{Example
+|Example.Language=Persian
+|Example.Text=انسان بی هدف به مقصد نهایی خود نمی رسد وبا داشتن هدف در زندگی مشترک جهت نیل به مقصد نهایی که همان خوشبختی وآرامش می باشد خواهند رسید
+|Example.Gloss=Human goal-less to ultimate destination self neg-prog-reach-prest-3sg and with have-infin goal in life mutual direction toward ultimate destination that identical happiness and tranquility prog-be.prest-3sg will-3pl reach-pres-pefc
+|Example.English translation=A person without goal will not reach his/her ultimate destination and by having a goal in his/her marriage, he/she will reach his/her ultimate destination which is happiness and tranquility
+|Example.Provenance=http://www.sarachehnaz.blogfa.com
+|Example.Comments=The frames for "goal" and " ultimate destination" evoke eachother and are usually used as pairs
+the relation between the morphology of the word "maghsad" is important
+}}
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani
+|Status=in development
+|LinkEnglish=ACHIEVING A PURPOSE IS REACHING A DESTINATION
+|Investigated for=Persian
+}}

@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=Private sector
+|Family=طرح حکومت
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=بخش  دولتی
+|Related frame.Description=governmental sector
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخش خصوصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخش  دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارمند بخش خصوصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خصوصی سازی
+}}
+|Applicability=Persian
+}}

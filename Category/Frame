@@ -1,0 +1,17 @@
+This is the Frame category. {{#default_form:Frame}}
+
+Create or edit a Frame: {{#forminput:form=Frame|autocomplete on namespace=Frame|namespace=Frame}}
+
+Total number of Frame pages: {{#ask: [[Category:Frame]] [[:Frame:+]] | format=count}}
+{{#ask: [[Category:Frame]] [[:Frame:+]]
+|?Frame.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+
+[[en:{{FULLPAGENAME}}]]
+[[es:{{FULLPAGENAME}}]]
+[[fa:{{FULLPAGENAME}}]]
+[[ru:{{FULLPAGENAME}}]]
+{{HIDE CATEGORY PAGES}}

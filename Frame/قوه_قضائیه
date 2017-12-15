@@ -1,0 +1,162 @@
+{{Frame
+|Name gloss=Judicial branch
+|Description=Judicial branch
+|Family=طرح های حکومت, طرح قانونی,
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=قوه مجریه
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=قوه مقننه
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخش قضایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخش قضایي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوه قضائیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوه قضايیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریاست قوه قضائیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزارت دادگستری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزارت دادگستري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رؤسای قوه قضائیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدلیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دادگاه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوان قضائی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محکمه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قضاوت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قضاوت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قضاوت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قضاوت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قاضی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دادستانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دادگستری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دادستان کّل کشور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوان عالی‌ کشور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دادگاه انقلاب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دادگاه نظامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیوان عدالت اداری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحقق بخشیدن به عدالت 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحقق بخشیدن به 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحقق بخشید به 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحقق بخش به 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رئیس قوه قضائیه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وظایف قوه قضائیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حل و فصل دعاوی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفع خصومات 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تظلمات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شکایات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تعدیات 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش عدل 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= اجرای حدود و مقررات مدون جزایی اسلام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= تعزیر مجرمین 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجازات مجرمین 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= اصلاح مجرمین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیشگیری از وقوع جرم 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قضات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وکیل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وکلا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قاضی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=استقلال قضایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قضایی
+}}
+|LinkEnglish=Judicial branch
+|Applicability=Persian
+}}

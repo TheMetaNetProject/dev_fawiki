@@ -1,0 +1,202 @@
+{{Frame
+|Name gloss=capital putting
+|Description=Investing capital
+|Family=طرح های ثروت و طبقات اجتماعی,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمایه گذاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمایه گذاری کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمایه گذاری کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمایه گذاری می‌‌کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمایه گذاری خواهد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کمک مالی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کمک بلاعوض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کمک هزینه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کمک هزینه ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کمک ها ی  بلاعوض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمایه گذاری ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وقف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موقوفه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موقوفه ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موقوفات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام می‌‌گیرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام خواهد گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام می‌‌دهد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام خواهد داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرضه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرض گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرض گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرض می‌‌گیرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرض خواهد گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرض دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرض داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرض می‌‌دهد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرض خواهد داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمایه بانک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمایه ها ی  بانک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پشتوانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خرید سهام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خرید سهم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خرید بورس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بورس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بورس ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موجودی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمایه گذار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمایه گذارها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دارنده سهام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دارنده سهم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سود سهام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سهم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقسیم سود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سود تقسیمی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=درامد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عایدات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وا گذار کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وا گذار کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وا گذار می‌‌کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وا گذار خواهد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=‌وا گذاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=‌وا گذاری ها
+}}
+|LinkEnglish=Investment
+|Applicability=Persian
+}}

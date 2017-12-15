@@ -1,0 +1,74 @@
+{{Frame
+|Name gloss=factory
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارخانه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارخانه ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریخته گری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریخته گری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خط مونتاژ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خطوط مونتاژ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارگر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارگران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تولید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساخت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مولد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عقیم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تولید کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تولید کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تولید کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تولید کننده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تولید کنندگان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محصول
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محصولات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تولیدی
+}}
+|LinkEnglish=factory
+|Applicability=Persian
+}}

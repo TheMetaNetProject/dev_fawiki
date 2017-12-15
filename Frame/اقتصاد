@@ -1,0 +1,24 @@
+{{Frame
+|Name gloss=economy
+|Family=طرح های اقتصادی,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تورم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصادی
+}}
+|LinkEnglish=Economy
+|Applicability=Persian
+}}

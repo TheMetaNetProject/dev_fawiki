@@ -1,0 +1,30 @@
+{{Metaphor
+|Name gloss=democracy location is
+|Aliases=
+|Comments=More example(s) needed. No corresponding English metaphor found
+|Family=استعاره دموکراسی‌
+|Metaphor Type=Composed/complex
+|Source frame=مکان
+|Target frame=دموکراسی‌
+|Mappings={{Mapping
+|Target=مکان
+|Source=دموکراسی‌
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=دموکراسی‌ کالا است.
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=ديوان عالي پاكستان به حاكم نظامي اين كشور سه سال فرصت داد تا مؤموريتش را تكميل و انتخابات عمومي برگزار كند و بدين ترتيب اميدهاي بازگشت پاكستان به دموكراسي را زنده كرد
+|Example.Gloss=Supreme court of Pakistan to ruler military of this country three years opportunity gave in order to mission complete and elections general conduct, and in this way hopes of return of pakistan to democracy (he) revitalized.
+|Example.English translation=Pakistan's supreme court gave the country's military leader three years so that he would complete his mission and hold general elections, and as such revitalized the hope of Pakistan's return to democracy.
+|Example.Annotation=The key term here is "returned" which indicates a condition or location in which Pakistan previously was
+}}
+|Entered by=Reza
+|Last reviewed by=Aria Fani
+|Status=in development
+|Program alias=Democracy
+|Investigated for=Persian
+}}

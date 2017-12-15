@@ -1,0 +1,47 @@
+<noinclude>
+This is the "CMs with LMs row" template.
+It should be called in the following format:
+<pre>
+{{CMs with LMs row|1=Metaphor|2=relation types|3=related metaphors}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>! style="vertical-align:top;" |
+{| class="wikitable mw-collapsible mw-collapsed" style="margin:0px 0px 0px 0px; border-style:none;"
+! style="border-style:none; text-align:left;" | [[{{{1|}}}|{{#sub:{{{1|}}}|9}}]]
+|-
+| style="border-style:none;" | {{#ifeq:{{{3|}}}|||{{#arraydefine:rels|{{{2|}}}}}{{#arraydefine:rmets|{{{3|}}}}}<ul>{{#loop: i
+| 0
+| {{#arraysize:rels}}
+| <nowiki/>
+<li> {{#arrayindex:rels|{{#var:i}}}} [[{{#arrayindex:rmets|{{#var:i}}}}|{{#sub:{{#arrayindex:rmets|{{#var:i}}}}|9}}]] </li>
+}}</ul>}}
+|}
+| style="vertical-align:top;" | <ul>
+{{#ask:[[Is example of::{{{1|}}}]]
+|mainlabel=-
+|?Is example of=Example.LM
+|?Has text=Example.Text
+|?Has provenance=Example.Provenance
+|format=template
+|template=ExamplesOfLM as li
+|named args=yes
+}}{{#ask:[[Is example of.Is instance of CM::{{{1|}}}]]
+|mainlabel=-
+|?Is example of=Example.LM
+|?Has text=Example.Text
+|?Has provenance=Example.Provenance
+|format=template
+|template=ExamplesOfLM as li
+|named args=yes
+}}{{#ask:[[Is example of.Was found using seed.Is instance of CM::{{{1|}}}]]
+|mainlabel=-
+|?Is example of=Example.LM
+|?Has text=Example.Text
+|?Has provenance=Example.Provenance
+|format=template
+|template=ExamplesOfLM as li
+|named args=yes
+}}</ul>
+| style="vertical-align:top;" | {{#expr: {{#ask:[[Is example of::{{{1|}}}]]|format=count}} + {{#ask:[[Is example of.Is instance of CM::{{{1|}}}]]|format=count}} + {{#ask:[[Is example of.Was found using seed.Is instance of CM::{{{1|}}}]]|format=count}}}}
+|-
+</includeonly>

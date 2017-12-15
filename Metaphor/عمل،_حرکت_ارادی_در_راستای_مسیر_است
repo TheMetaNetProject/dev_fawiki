@@ -1,0 +1,33 @@
+{{Metaphor
+|Name gloss=action, move-N self-work in along trajectory ast-COP
+|Aliases=
+|Family=ساختار واقعه (حرکت)
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=حرکت ارادی در راستای مسیر
+|Target frame=عمل
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=عمل کردن، حرکت کردن در راستای مسیر است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=هر کسی با توجه به توانائی های خود برای رسیدن به سعادت خود باید راه و طریق مناسب و معقولانه آن را شناخته و دنبال کند
+|Example.Gloss=every person with attention to ability-pl self for reach-inf to bliss self should path and way appropriate and reasonable that ra-objmarker know-imp and followd do-3sg
+|Example.English translation=Every one, in order to reach their happiness, should find the right and reasonable way to follow that path
+|Example.Provenance=http://www.cloob.com/timeline/article_43977_2936
+}}{{Example
+|Example.Language=Persian
+|Example.Text=ترکیه گام به گام در حال نزدیکتر شدن به اهداف صادراتی خود است.
+|Example.Gloss=Turkey step to step in moment-e close-comp become to goal-pl export self ast-cop
+|Example.English translation=Turkey is (continuously) getting closer to its export goals step by step
+|Example.Provenance=http://www.trtpersian.com
+}}
+|Entered by=Sanam, Aria
+|Last reviewed by=Sanam
+|Status=in development
+|LinkEnglish=ACTION IS SELF-PROPELLED MOTION ALONG A PATH
+|Investigated for=Persian
+}}

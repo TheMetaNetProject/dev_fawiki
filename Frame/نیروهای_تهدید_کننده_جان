@@ -1,0 +1,79 @@
+{{Frame
+|Name gloss=Life threatening forces
+|Comments=The frame "Force" somewhat approximates this frame
+|Family=طرح های ضرری
+|Type=Composed
+|Status=in development
+|Entered by=ُSanam
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=نیروی متخاصم
+}}{{Role
+|Role.Name=شخص-وصولی
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جانگیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جان گیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرگبار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرگ بار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پدیده مهلک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مهلک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نفس گیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نفس گیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فلاکت بار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قربانیان خاموش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قربانیان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=افیون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منهدم می کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منهدم می سازد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منهدم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مهلکه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هولناک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تهدید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشنده
+}}
+|Applicability=Persian
+}}

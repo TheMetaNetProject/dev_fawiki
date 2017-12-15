@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=Addiction
+|Description=person is addicted to a substance or activity
+|Family=طرح های ضرری,
+|Type=Frame
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معتاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتیاد داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ترک اعتیاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعتیاد پیدا کردن
+}}
+|LinkEnglish=Addiction
+|Applicability=Persian
+}}

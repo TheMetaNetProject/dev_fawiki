@@ -1,0 +1,61 @@
+{{Frame
+|Name gloss=leader
+|Comments=Closest corresponding English frame is: state leadership
+|Type=Frame
+|Cultural information=The Persian word "rahbar" is a broad term for leader used in various contexts, after the Islamic Revolution of 1979 the term has come to refer to the office of the Ayatollah. The phrase "rahbar-i inqilab" [leader of the revolution] refers to Ayatollah Ruhollah Khomeini. The official office of Ayatollah Sayyid Ali Khamenei, the current leader of the Islamic Republic is: daftar-i maqam-i mu'azam-i rahbari, lit. the office of the exalted figure of leadership. As such, the English frame "state leadership" approximates the Persian
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهبر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیروان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دنبال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیشرو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به رهبری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به دنبال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  رهبر انقلاب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= رهبر عظیم الشأن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= مقام رهبری 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  جانشین رهبری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهبری کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  رهبری کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهبری کردن
+}}
+|LinkEnglish=State leadership
+|Applicability=Persian
+}}

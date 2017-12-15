@@ -1,0 +1,17 @@
+This is the Metaphor category page. {{#default_form:Metaphor}}
+
+Create or edit a Metaphor: {{#forminput:form=Metaphor|autocomplete on namespace=Metaphor|namespace=Metaphor}}
+
+Total number of Metaphor pages: {{#ask: [[Category:Metaphor]] [[:Metaphor:+]] | format=count}}
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]]
+|?Metaphor.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+
+[[en:{{FULLPAGENAME}}]]
+[[es:{{FULLPAGENAME}}]]
+[[fa:{{FULLPAGENAME}}]]
+[[ru:{{FULLPAGENAME}}]]
+{{HIDE CATEGORY PAGES}}

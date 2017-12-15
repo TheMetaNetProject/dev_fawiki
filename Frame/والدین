@@ -1,0 +1,137 @@
+{{Frame
+|Name gloss=parent
+|Type=Primary
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=مسئوليت
+|Related frame.Description=Responsibility
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=خانواده
+|Related frame.Description=Family
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=قدرت
+|Related frame.Description=authority
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=والدین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پدر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مادر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پدر و مادر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تغذیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محافظت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مراقبت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عزیزم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عشق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارائه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرورش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مراقبت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مراقبت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نوزادان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=را دوست دارد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فراهم می کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرورش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پدر و مادر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بابا و ننه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مراقبت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فراهم کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فراهم کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فراهم کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دوست داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دوست داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دوست دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دوست داشتنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عشق به پدر و مادر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عشق داشتن به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عاشق بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عاشق بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عاشق باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عاطفی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عاطفه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقش پدر و مادر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عشق داشت به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عشق دار به
+}}
+|LinkEnglish=Parent
+|Applicability=Persian
+}}

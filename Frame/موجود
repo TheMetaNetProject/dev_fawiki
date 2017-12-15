@@ -1,0 +1,82 @@
+{{Frame
+|Name gloss=Being
+|FrameNet frame=Entity
+|Family=طرح های وجودی
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Aria
+|Last reviewed by=Sanam & Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تجلی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پدیده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وفور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انبوه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وجود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بطن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیرامون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محیط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حواشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیکره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساختار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=درون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرکز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موجودیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موجود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موجود زنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جاندار
+}}
+|LinkEnglish=Entity
+|Applicability=Persian
+}}

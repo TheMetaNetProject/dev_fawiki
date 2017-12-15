@@ -1,0 +1,34 @@
+<noinclude>
+This is the "ExamplesOfLM" template.
+It should be called in the following format:
+<pre>
+{{ExamplesOfLM
+|?Example.LM=
+|?Example.Text=
+|?Example.Gloss=
+|?Example.Language=
+|?Example.Provenance=
+|?Example.English translation=
+|?Example.Annotation=
+|?Example.Comments=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+{|  class="wikitable" style="text-align: left"
+! Example Text:
+| {{#ifeq:{{{?Example.Language|}}}|Persian|lang="fa" dir="rtl" align="right"}} | {{Printgloss|{{{?Example.Text|}}}|{{{?Example.Gloss|}}}|{{{?Example.Language|}}}}} 
+|- {{#if:{{{?Example.English translation|}}}| |style="display:none;"}}
+!  English Translation:
+|  {{#ifeq:{{{?Example.Language|}}}|English||lang="en" dir="ltr"}} | {{{?Example.English translation|}}}
+|- {{#if:{{{?Example.Provenance|}}}| |style="display:none;"}}
+!  Provenance:
+|  {{{?Example.Provenance|}}} ({{{?Example.LM|}}})
+|- {{#if:{{{?Example.Annotation|}}}| |style="display:none;"}}
+!  Annotation:
+|  {{{?Example.Annotation|}}}
+|- {{#if:{{{?Example.Comments|}}}| |style="display:none;"}}
+!  Comments:
+|  {{{?Example.Comments|}}}
+|}
+</includeonly>

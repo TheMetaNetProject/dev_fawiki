@@ -1,0 +1,196 @@
+{{Frame
+|Name gloss=society civil
+|Description=Civil society
+|Comments=As of now, there are no corresponding English frames
+|Family=طرح دموکراسی‌,
+|Type=Frame
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=دموکراسی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه ي  مدني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه ی مدنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه مدني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه ٔ مدنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه ٔ مدني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجزا از دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌های غیردولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وظايف اجتماعي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وظايف اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زندگي عمومي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زندگي عمومی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اصناف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=واسطه ميان فرد و دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عرصه هاي اجتماعي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عرصه های اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سکولاریسم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مؤسّسات خصوصي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مؤسّسات خصوصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غير دولتي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غير دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهاي مردمي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهای مردمی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهاي مستقل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهای مستقل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌های مردم نهاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌هاي مردم نهاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌های غیرانتفاعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌هاي غیرانتفاعي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشارکت عمومی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشارکت عمومي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انجمن‌های مدنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انجمن‌هاي مدني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آگاهی شهروندان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آگاهي شهروندان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شفافیت سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شفافیت سیاسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزادی شخصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزادي شخصي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمیت قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌های داوطلبانه خصوصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌های داوطلبانه خصوصي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌های اجتماع محور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌هاي  اجتماع محور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بنیادهای اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بنیادهاي اجتماعي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آموزش مدنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آموزش مدني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزادی‌های سیاسی و مدنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزادی‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌هاي سیاسي و مدني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حوزه خصوصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حوزه خصوصي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دفاع از آزادي انسان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دفاع از آزادی انسان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رعايت حقوق شهروندان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گروه‌هاي اجتماعي خودجوش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گروه‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌های اجتماعی خودجوش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محدود شدن قدرت دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توسعه اقتصاد آزاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شفافیّت سیاسی
+}}
+|Applicability=Persian
+}}

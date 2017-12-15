@@ -1,0 +1,75 @@
+{{Frame
+|Name gloss=Time
+|Type=Frame
+|Cultural information=Historically and in poetry and philosophy, Zaman refers to the inevitable flow of time which has no beginning or end. It is the external physical entity, which by the folk theory of objective reality causes change, aging, and death; and thereby limits our reality. In Rumi and Molana, vaght refers to a person's experience of time. For example, someone may experience an extended perceived time (vaght) with respect to the physical time (zaman) which may go by more or less quickly than physical time. In contemporary usage, vaght and zaman overlap in many, but not all cases. The frames evoked are distinct. Zaman is used to refer to longer and more general periods of time and time as well as time in the physical sense. Vaght refers to precise periods/moments in time and to shorter periods of time.  
+
+ای زمین بی من مرو و ای زمان بی من مرو/ای فلک بی من مگرد و ای قمر بی من متاب
+|Status=in development, proposed
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=وقت
+|Related frame.Description=The english word Time encompasses all cases of vaght and zaman
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زمان  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  زمان ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  زمانی  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= دوره‌  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دیرزمانی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= دیر زمان 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مدت  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=   مدت ها  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مدتها  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  عصر 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= زمانه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=   طول کشیدن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  کش  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  کشید 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  زمان صرف کردن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=   صرف کن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  صرف کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  طول 
+}}
+|LinkEnglish=Time
+|Applicability=Persian
+}}

@@ -1,0 +1,65 @@
+{{Frame
+|Name gloss=animal
+|Family=طرح های موجود زنده
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حیوان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هشت پا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خفته‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چنگال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چنگ زدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پنجه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مهار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لجام گسیخته
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لجام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موریانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عنکبوت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چنگ های
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چنگ ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قلمرو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=افسار گسیخته
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موی حساس جانور
+}}
+|LinkEnglish=Animal
+|Applicability=Persian
+}}

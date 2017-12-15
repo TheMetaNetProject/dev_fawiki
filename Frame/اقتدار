@@ -1,0 +1,106 @@
+{{Frame
+|Name gloss=Authority
+|Description=Authority
+|Family=طرح های حکومت,
+|Type=Frame
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اتوریته
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرد تحت اقتدار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صاحب قدرت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قدرت و نفوذ مادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قدرت و نفوذ مادي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قدرت و نفوذ معنوي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قدرت و نفوذ معنوى
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیروی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیروی كردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیروی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرد مقتدر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اطاعت كردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتدار اجباری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتدار اجباري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سلسله مراتب قدرت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتدار در اسلام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتدار ملي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتدار ملى
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انواع اقتدار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوت و زور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قادر و قوی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتدارگرا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتدارگرايي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتدارگرايى
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اطاعت كرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اطاعت كن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتدار نظام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتدار داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتدار داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتدار دار
+}}
+|LinkEnglish=Authority
+|Applicability=Persian
+}}

@@ -1,0 +1,47 @@
+{{Frame
+|Name gloss=Coming out_of a defined place
+|Family=طرح های مکان,
+|Type=Frame
+|Status=in development
+|Entered by=Sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=محدوده
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=قرار گرفتن در یک محدوده
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=قادر نبودن به خارج شدن از محل
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزاد شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رها شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرار کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خارج شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خروج از
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیرون آمد
+}}{{LUs
+|LUs.Language=Persian
+}}
+|LinkEnglish=Motion out of a location
+|Applicability=Persian
+}}

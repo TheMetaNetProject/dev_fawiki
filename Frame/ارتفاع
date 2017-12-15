@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=verticality
+|Family=طرح های نمودارگونه,
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارتفاع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بلندی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بلند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بالا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اوج
+}}
+|LinkEnglish=Verticality
+|Applicability=Persian
+}}

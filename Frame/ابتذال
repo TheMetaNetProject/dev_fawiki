@@ -1,0 +1,39 @@
+{{Frame
+|Name gloss=banality
+|Family=طرح های اخلاقیات
+|Type=Frame
+|Status=in development
+|Entered by=Aria, Sanam
+|Last reviewed by=Sanam& Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=فساد
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فساد اخلاقی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبتذل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عوام فریب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ناحق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انحطاط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارتجاع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اضمحلال
+}}
+|LinkEnglish=Immoral action
+|Applicability=Persian
+}}

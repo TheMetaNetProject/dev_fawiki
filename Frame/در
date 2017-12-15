@@ -1,0 +1,38 @@
+{{Frame
+|Name gloss=In
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani,& Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=منطقه محدود
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=قوطی
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=خط  سیر و لندمارک
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=درون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=داخل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توی
+}}
+|LinkEnglish=In
+|Applicability=Persian
+}}

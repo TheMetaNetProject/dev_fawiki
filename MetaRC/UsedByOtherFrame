@@ -1,0 +1,10 @@
+{{MetaRC
+|MetaRCGroup=UsedByOtherFrame
+|MetaRCDescription=There is a frame that makes use of both the target frame and source frame.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe ?otherframe ?othername WHERE {
+    ?otherframe mo:makesUseOfFrame ?tframe .
+    ?otherframe mo:makesUseOfFrame ?sframe .
+    ?otherframe mo:hasName ?othername .
+}
+}}

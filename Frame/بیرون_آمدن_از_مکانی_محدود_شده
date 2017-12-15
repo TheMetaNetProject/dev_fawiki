@@ -1,0 +1,39 @@
+{{Frame
+|Name gloss=coming out of location enclosed
+|Comments=There exist the same Persian frame but without the past participle element. Both are  linked to the same English frame "Motion out of a location".Not sure if they need to be combined to create only one frame
+|Family=طرح های حرکت, طرح های مکان,
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خروج از
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خارج شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرار کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رها شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزاد شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خروج
+}}
+|LinkEnglish=Motion out of a location
+|Applicability=Persian
+}}

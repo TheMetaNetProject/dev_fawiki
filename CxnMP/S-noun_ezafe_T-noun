@@ -1,0 +1,23 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=S-noun_ezafe_T-noun
+|CxnMPDescription=Ezafe construction, via MOZ
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+    ?sent rdf:type doc:Sentence .
+    ?sent doc:hasIdx ?sentidx .
+    ?target rdf:type doc:Word .
+    ?target doc:hasIdx ?tidx .
+    ?target doc:hasLemma ?tlemma .
+    ?source rdf:type doc:Word .
+    ?source doc:hasIdx ?sidx .
+    ?source doc:hasLemma ?slemma .
+    ?target doc:inSentence ?sent .
+    ?source doc:inSentence ?sent .
+    ?target doc:hasPOS ?tpos .
+    ?source doc:hasPOS ?spos .
+    FILTER regex(?spos, "^N") .
+    FILTER regex(?tpos, "^N") .
+    ?target doc:moz ?source .
+}
+}}

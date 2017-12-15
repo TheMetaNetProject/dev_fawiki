@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=security
+|Comments=No corresponding English frame found
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امنیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امنیتی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امن
+}}
+|Applicability=Persian
+}}

@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=presenting resources
+|Comments= The English frame lacks "presenting " element  
+|Family=طرح های منابع
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=جابجایی کالا
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ازدست دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دریافت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرصت
+}}
+|LinkEnglish=Resource
+}}

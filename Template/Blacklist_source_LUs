@@ -1,0 +1,14 @@
+<noinclude>
+This is the "Blacklist source LUs" template.
+It should be called in the following format from the IARPATargetConcept template:
+<pre>
+{{Blacklist source LUs
+|BlacklistSourceLU=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+! Blacklist source LU
+| [[Has blacklist source LU::{{{BlacklistSourceLU|}}}]]
+|-
+|}</includeonly>

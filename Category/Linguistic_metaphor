@@ -1,0 +1,19 @@
+This is the linguistic metaphor category, which includes only the subset of [[Candidate linguistic metaphors|candidate linguistic metaphors]] that are not indicated in by the [[:Property:Verification status|Verification status]] property as non metaphorical (or garbage).  The list thus presently includes any candidate linguistic metaphor that has not been manually excluded. Linguistic metaphors are added automatically, but can be edited manually using the following [[Has default form::Linguistic metaphor|form]].
+
+Numerical summary: 
+* {{#ask:[[Category:Linguistic metaphor]] [[ Linguistic metaphor.Type::extracted]]|format=count}} extracted LMs
+* {{#ask:[[Category:Linguistic metaphor]] [[ Linguistic metaphor.Type::seed]]|format=count}} seed LMs
+
+= Extracted Linguistic Metaphors =
+{{#ask:[[Category:Linguistic metaphor]] [[ Linguistic metaphor.Type::extracted]]
+| format=category
+| limit=1000
+}}
+
+= Seed Linguistic Metaphors =
+
+{{#ask:[[Category:Linguistic metaphor]] [[ Linguistic metaphor.Type::seed]]
+| format=category
+| limit=1000
+}}
+ __CATEGORYNOPAGES__

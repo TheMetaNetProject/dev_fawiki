@@ -1,0 +1,19 @@
+{{Glossary
+|Entry=Frame Relation Type
+|Description=Frames include information that contextualizes and relates them to others frames  within a larger network. 
+
+The frame-to-frame relation types are:
+ 1. [[Makes use of]]
+ 2. is a [[Subcase of]]
+ 3. is a [[Subprocess of]]
+ 4. [[Incorporates as a role]]
+ 5. [[is related to]]
+ 6. is in [[Scalar opposition to]]
+ 7. is a [[Perspective on]]
+
+
+See entries for each relation type for further definitions.
+|Utility=Wiki
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}

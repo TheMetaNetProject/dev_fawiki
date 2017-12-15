@@ -1,0 +1,172 @@
+<noinclude>
+This is the "Metaphor" form, used to create and edit members of the VettedMetaphor category, which live in the Metaphor namespace.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+{{#forminput:form=Metaphor|autocomplete on namespace=Metaphor|namespace=Metaphor}}
+
+</noinclude><includeonly><div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Metaphor}}}
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Name Gloss:
+| {{{field|Name gloss|property=Metaphor.Name gloss|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}{{#ifeq:{{Lang|}}|es|style="display:none;"|}}
+! Name Transcription:
+| {{{field|Name transcription|property=Metaphor.Name transcription|class=enformfield}}}
+|-
+! Aliases: {{#info: Note: the name of the metaphor should be entered as an alias.}}
+| {{{field|Aliases|holds template}}}
+|-
+! Description:
+| {{{field|Description|property=Has description}}}
+|-
+! Comments:
+| {{{field|Comments|property=Metaphor.Comments|class=enformfield}}}
+|-
+! Tags:
+| {{{field|Tags|property=Tag|input type=text with autocomplete}}}
+|-
+! Family(s):
+| {{{field|Family|property=Metaphor.Family|values from property=Metaphor.Family|input type=text with autocomplete}}}
+|-
+! Metaphor Level:
+| {{{field|Metaphor Level|property=Metaphor.Level}}}
+|-
+! Metaphor Type:
+| {{{field|Metaphor Type|property=Metaphor.Type|list}}}
+|-
+! Experiential Basis:
+| {{{field|Experiential basis|property=Metaphor.Experiential basis}}}
+|-
+! Cultural Scope:
+| {{{field|Cultural scope|property=Has cultural scope}}}
+|-
+! Source Frame:
+| {{{field|Source frame|property=Metaphor.Source frame|values from namespace=Frame|class=RoleLookupField|mandatory}}}
+|-
+! Target Frame:
+| {{{field|Target frame|property=Metaphor.Target frame|values from namespace=Frame|class=RoleLookupField|mandatory}}}
+|-
+! 
+| <div class="RoleLookupResults"><table><tr><td id='TargetRoleResults'></td><td>&nbsp;&nbsp;&nbsp;</td><td id='SourceRoleResults'></td></tr></table></div>
+|-
+! Mappings:
+| {{{field|Mappings|holds template}}}
+|-
+! Related metaphors:
+| {{{field|Related metaphors|holds template}}}
+|-
+! Entailments:
+| {{{field|Entailments|holds template}}}
+|-
+! Examples:
+| {{{field|Examples|holds template|mandatory}}}
+|-
+! Entered by:
+| {{{field|Entered by|property=Entered by|input type=text with autocomplete|mandatory}}}
+|-
+! Last reviewed by:
+| {{{field|Last reviewed by|property=Last reviewed by|input type=text with autocomplete}}}
+|-
+! Status:
+| {{{field|Status|property=Status|list|mandatory}}}
+|-
+! Metaphor Program Alias:
+| {{{field|Program alias|property=Has program alias}}}
+|}
+
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Closest English Metaphor:
+| {{{field|LinkEnglish|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|es|style="display:none;"|}}
+! Closest Spanish Metaphor:
+| {{{field|LinkSpanish|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|fa|style="display:none;"|}}
+! Closest Persian Metaphor:
+| {{{field|LinkPersian|class=faformfield}}}
+|- {{#ifeq:{{Lang|}}|ru|style="display:none;"|}}
+! Closest Russian Metaphor:
+| {{{field|LinkRussian|class=enformfield}}}
+|}
+
+{{{field|Investigated for|property=Metaphor.Investigated for|default={{Lang|en}}|hidden}}}
+
+{{{end template}}}
+{{{for template|Metaphor.Alias|multiple|label=Aliases|embed in field=Metaphor[Aliases]}}}
+'''Alias:''' {{{field|Metaphor.Alias.Name}}}
+
+'''Provenance:''' {{{field|Metaphor.Alias.Provenance|property=Metaphor.Alias.Provenance|values from property=Metaphor.Alias.Provenance|input type=text with autocomplete}}}
+
+'''Page number:''' {{{field|Metaphor.Alias.Page no}}}
+
+{{{end template}}}
+
+{{{for template|Mapping|multiple|label=Mappings|embed in field=Metaphor[Mappings]}}}
+'''Target Role:''' {{{field|Target|property=Mapping.Target}}}
+
+'''Source Role:''' {{{field|Source|property=Mapping.Source}}}
+
+'''Comment:''' {{{field|Comment|property=Mapping.Comment|class=enformfield}}}
+
+{{{end template}}}
+
+{{{for template|Related metaphor|multiple|label=Related Metaphors|embed in field=Metaphor[Related metaphors]}}}
+
+'''Current Metaphor:''' {{PAGENAME}}
+
+'''Type of Relation:''' {{{field|Related metaphor.Relation type|property=Related metaphor.Relation type|mandatory}}}
+
+'''Related Metaphor:''' {{{field|Related metaphor.Name|property=Related metaphor.Name|values from namespace=Metaphor|mandatory}}}
+
+'''Description of Relation:''' {{{field|Related metaphor.Description}}}
+
+{{{end template}}}
+
+{{{for template|Entailment|multiple|label=Entailments|embed in field=Metaphor[Entailments]}}}
+'''Target Entailment:''' {{{field|Entailment.Target entailment|property=Entailment.Target entailment}}}
+
+'''Source Inference:''' {{{field|Entailment.Source inference}}}
+
+'''Type of Inferential Structure:''' {{{field|Entailment.Type|property=Entailment.Type}}}
+
+'''Entailed metaphor(s):''' {{{field|Entailment.Entailed metaphors|input type=text with autocomplete|values from namespace=Metaphor}}}
+
+{{{end template}}}
+
+{{{for template|Example|multiple|label=Examples|embed in field=Metaphor[Examples]}}}
+
+{{{field|Example.Language|property=Example.Language|input type=text|default={{Lang|en}}|hidden}}}
+
+'''Text:''' {{{field|Example.Text|property=Example.Text|class=metaex|rows=3}}}
+
+{{#ifeq:{{Lang|}}|en||
+'''Gloss:''' {{{field|Example.Gloss|property=Example.Gloss|class=metagl|rows=3}}}
+
+{{#ifeq:{{Lang|}}|es||
+'''Transcription:''' {{{field|Example.Transcription|property=Example.Transcription|class=metagl|rows=3}}}
+}}
+
+'''English translation:''' {{{field|Example.English translation|property=Example.English translation|class=metatr|rows=3}}}
+
+}}
+'''Provenance:''' {{{field|Example.Provenance|property=Example.Provenance}}}
+
+'''Annotation:''' {{{field|Example.Annotation|property=Example.Annotation|rows=3|class=enformfield}}}
+
+'''Comments:''' {{{field|Example.Comments|property=Example.Comments|rows=3|class=enformfield}}}
+
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

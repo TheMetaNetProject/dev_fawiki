@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=Travel
+|FrameNet frame=Travel
+|Comments=Closest English frame that corresponds with safar/travel is Mode of transportation which is not directly related. Please advise
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Aria
+|Last reviewed by=Aria Fani,& Reza
+|Roles={{Role
+|Role.Name=مسافر
+|Role.Name gloss=traveler
+|Role.Type=موجود
+}}{{Role
+|Role.Name=اغار سفر
+|Role.Name gloss=beginning trip
+}}{{Role
+|Role.Name=پایان سفر
+|Role.Name gloss=end trip
+}}{{Role
+|Role.Name=همسفر
+|Role.Name gloss=journey_companion
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=Persian
+}}

@@ -1,0 +1,86 @@
+{{Frame
+|Name gloss=Bazaar
+|FrameNet frame=Market
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Roles={{Role
+|Role.Name=فعالیت اقتصادی بازار
+|Role.Name gloss=economic activity bazar 
+|Role.Definition=Production and distribution of goods and providing services whithin bazaar within bazaar 
+}}{{Role
+|Role.Name=سطح فعالیت
+|Role.Name gloss=activity level
+|Role.Type=scale
+}}{{Role
+|Role.Name=فعالیت مذهبی‌ بازار
+|Role.Name gloss=religious activity in bazaar
+|Role.Definition=Religious performance in bazaar
+}}{{Role
+|Role.Name=فعالیت سیاسی  بازار
+|Role.Name gloss=political activity in bazaar
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازاریان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازاری ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازار طلا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازار فرش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صنف بازار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دکان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دکاندار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حجره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چهار سو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معماری بازار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازار مسگر‌ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازارآهنگران 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازار  طلا فروشان 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازار قدیم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازار جدید 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازار کفاشان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاجی بازاری
+}}
+|LinkEnglish=Market
+|Applicability=Persian
+}}

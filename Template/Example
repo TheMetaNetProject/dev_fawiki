@@ -1,0 +1,43 @@
+<noinclude>
+Call the template like this from the metaphor template:
+<pre>
+{{Example
+|Example.Language=
+|Example.Text=
+|Example.Gloss=
+|Example.Transcription=
+|Example.English translation=
+|Example.Provenance=
+|Example.Annotation=
+|Example.Comments=
+}}
+</pre>
+</noinclude><includeonly>
+{|  class="wikitable" style="text-align: left"
+! Example Text:
+| {{#ifeq:{{{Example.Language|}}}|Persian|lang="fa" dir="rtl" align="right"}} | {{Printgloss|{{{Example.Text|}}}|{{{Example.Gloss|}}}|{{{Example.Language|}}}}} {{#set:Example={{{Example.Language|}}};{{{Example.Text|}}};{{{Example.Gloss|}}};{{{Example.English translation|}}};{{{Example.Provenance|}}};{{{Example.Annotation|}}};{{{Example.Comments|}}};{{{Example.Transcription|}}}}}
+|- {{#if:{{{Example.Transcription|}}}| |style="display:none;"}}
+! Transcription:
+|  {{{Example.Transcription|}}}
+|- {{#if:{{{Example.English translation|}}}| |style="display:none;"}}
+!  English Translation:
+|  {{#ifeq:{{{Example.Language|}}}|English||lang="en" dir="ltr"}} | {{{Example.English translation|}}}
+|- {{#if:{{{Example.Provenance|}}}| |style="display:none;"}}
+!  Provenance:
+|  {{{Example.Provenance|}}}
+|- {{#if:{{{Example.Annotation|}}}| |style="display:none;"}}
+!  Annotation:
+|  {{{Example.Annotation|}}}
+|- {{#if:{{{Example.Comments|}}}| |style="display:none;"}}
+!  Comments:
+|  {{{Example.Comments|}}}
+|}{{#subobject:Is example of
+|Is from language={{{Example.Language|}}}
+|Has text={{{Example.Text|}}}
+|Has text gloss={{{Example.Gloss|}}}
+|Has transcription={{{Example.Transcription|}}}
+|Has English translation={{{Example.English translation|}}}
+|Has provenance={{{Example.Provenance|}}}
+|Has annotation={{{Example.Annotation|}}}
+|Has comments={{{Example.Comments|}}}}}
+</includeonly>

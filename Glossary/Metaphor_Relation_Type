@@ -1,0 +1,8 @@
+{{Glossary
+|Entry=Metaphor Relation Type
+|Description=In the Wiki, metaphors are listed along with information that contextualizes and relates the metaphor to other metaphors, either more generic metaphors from which it inherits or related metaphors which it commonly uses or is co-activated with. For instance, under the entry for the metaphor ROMANTIC RELATIONSHIP IS A JOURNEY, the metaphors PURPOSES ARE DESTINATIONS and ACTION IS MOTION are listed, and are each given a 'Relation type' relative to ROMANTIC RELATIONSHIP IS A JOURNEY. ''The current possible relation types are:'' 1. is both a source and target subcase of, 2. is a source subcase of, 3. is a target subcase of, 4. is a mapping within, 5. makes use of, 6. has a transitive subpart, 7. is an entailment of. When in doubt, the following relations are also available when entering a metaphor in the Wiki: 8. is in some source relation to, 9. is in some target relation to, 10. is in some way related to.
+|Applies to=Metaphor
+|Utility=General Theory
+|Entered by=Elise
+|Last reviewed by=Elise
+}}

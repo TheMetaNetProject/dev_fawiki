@@ -1,0 +1,204 @@
+{{Frame
+|Name gloss=Democracy
+|Description=Democracy -loanword
+|Other aliases=مردم سالاری
+|Comments=The Persian term mardum-sālāri (lit. people-dominance) has been coined as an equivalent for democracy, which has gained currency in recent decades. Based on the team’s investigation thus far, mardum-sālāri does not seem to depart ideologically from the main pillars of democracy; however blogs/websites written within Iran (affiliated with the system or cultural entities) have shown a strong preference for the Persian term, rather than the loanword dimukrasi. Many writers maintain that concepts developed and propagated in the West need to develop organically according to the cultural values and norms of other cultures, the use of a Persian term for democracy is at times perceived as a first step in this direction.
+
+We have three frames for democracy as of now, one is dimukrasi, the Western loanword, the second is ardum-salari, the Persian neologism that closely approximates the concept of democracy, and the last is mardum-salari-i dini, or the concept of religous democracy based on Islamic values and principles. Perhas, one could argue that the last notion is distinct enough in the Persian conext to warrn its separate existence but the other two are used interchangably. We need to discuss in our next meeting whether we would like to keep the first two together or merge them
+|Family=طرح دموکراسی‌
+|Type=Frame
+|Cultural information=In the political discourse of the Islamic Republic, a term that has also gained currency in recent years is mardum-sālāri-yi dini (religious democracy). This concept gives precedence to Divine ruling; the interests of the masses are determined by the representatives of the Divine rule (positions not elected by the people include the office of the Ayatollah and members of the Guardianship of Islamic Jurists), a select number of these representatives (President, members of the Iranian majlis, etc) are elected by the people. The concept of religious democracy is being further investigated.
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=برابری سیاسی
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=حقوق
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=آزادی بیان
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=مردم سالاری
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی‌خواهی ‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی برقرار کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی برقرار کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی برقرار می‌کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی برقرار خواهد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عرصه  دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خرد جمعی‌ دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی‌طلبانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی اصلاح‌طلبانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرکز دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خواست پیشبرد دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دمکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی دینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاری دینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت قاطبه مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دمکراسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی برقرار کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برقراری دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت مردم بر مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردمی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی غربی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی برقرار کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عرصه‌ی دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی‌خواهانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم‌سالارانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دمکرات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکرات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چارچوب دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رعایت دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موازین دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طرفدار دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لیبرال دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی قانون اساسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی آزاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حقوق فردی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خودکامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خودکامانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=استبداد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت مطلقه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیکتاتور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستبد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ضدّ آزادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخابات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مهندسی آراء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آنتخابات فرمایشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گزیدمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سوسیال دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حقّ طبیعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق طبیعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لیبرال دموکرات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لیبرال دمکرات
+}}
+|LinkEnglish=Democracy
+|Applicability=Persian
+}}

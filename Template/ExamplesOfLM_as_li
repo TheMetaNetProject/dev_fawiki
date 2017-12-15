@@ -1,0 +1,13 @@
+<noinclude>
+This is the "ExamplesOfLM as li" template.
+It should be called in the following format:
+<pre>
+{{ExamplesOfLM as li
+|?Example.LM=
+|?Example.Text=
+|?Example.Provenance
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly><li>{{{?Example.Text|}}} ({{{?Example.LM|}}}, {{{?Example.Provenance|}}})</li>
+</includeonly>

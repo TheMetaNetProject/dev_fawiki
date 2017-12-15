@@ -1,0 +1,113 @@
+{{Frame
+|Name gloss=Barrier
+|Family=طرح های تحرک
+|Type=Frame
+|Status=in development
+|Last reviewed by=Aria Fani R,eza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=حرکت در مسیر راه
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=حرکت
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مانع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسدود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بسته
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ممانعت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انسداد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بن بست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بنبست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قفل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مانع های
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قفل ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دام ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موانع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جلوگیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راهبند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راهبندان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سنگ اندازی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مانع تراشیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مانع ایجاد کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انداختن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  انداخت 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  انداز 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= مانع ایجاد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= مانع ایجاد کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سنگ اندازی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سنگ اندازی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مانع تراشید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مانع تراش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مانع تراشی
+}}
+|LinkEnglish=Barrier
+|Applicability=Persian
+}}

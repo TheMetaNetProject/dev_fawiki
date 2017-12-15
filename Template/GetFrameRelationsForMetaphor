@@ -1,0 +1,15 @@
+<noinclude>
+This template takes a Metaphor family name as the 1st parameter and the words "Target" or "Source" as the 2nd parameter
+and returns a list of all frame relations between target or source frames in that family.
+<pre>
+{{GetFrameRelationsForMetaphorFamily|Metaphor|Target or Source}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{{#ask: [[Category:Metaphor]] [[{{{1}}}]]
+| ?Metaphor.{{{2}}} frame
+| format=template
+| template=GetFrameRels
+| sep=<SEP>
+| mainlabel=-
+| link=none
+}}</includeonly>

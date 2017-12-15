@@ -1,0 +1,41 @@
+{{Frame
+|Name gloss=attending [sic] problems_of poor
+|Description=Addressing problems of the poor
+|Comments=This frame has been corrected. The frame was ungrammatical. "residigi [missing a preposition] mushkilat-i faqiran", literally translated as attending [to] the problems of the poor
+|Family=طرح های فقر
+|Tags=Program sources
+|Status=auto imported
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=مشکلات فقیران
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکلات فقیران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسأیل فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معضلات فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کمبود ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بینوا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستمندان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستمند
+}}
+}}

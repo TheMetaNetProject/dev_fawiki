@@ -1,0 +1,60 @@
+{{Frame
+|Name gloss=Driver
+|Comments=Closest corresponding English frame is "Driving a vehicle"
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راننده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رانندگی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هدایت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به نوبه خود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منحرف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیگنال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تراشکاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیچ دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیگنالینگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سوار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رو هدف قرار بدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبدیل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منحرف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نشانه
+}}
+|LinkEnglish=Driving a vehicle
+|Applicability=Persian
+}}

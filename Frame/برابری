@@ -1,0 +1,94 @@
+{{Frame
+|Name gloss=equality
+|Description=Equality
+|Family=طرح دموکراسی‌,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=نابرابری
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری‌ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=همتراز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری‌ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری بین زن و مرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حقوق برابر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق برابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حقّ برابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حفظ برابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری برقرار کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری برقرار کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری برقرار کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری‌ها را از بین بردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری‌ها را از بین برد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری‌ها را از بین بر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تساوی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تساوی برقرار کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تساوی برقرار کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تساوی برقرار کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مساوات
+}}
+|LinkEnglish=Equality
+|Applicability=Persian
+}}

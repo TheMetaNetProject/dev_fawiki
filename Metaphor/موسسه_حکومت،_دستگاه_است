@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=institution government apparatus ast-COP
+|Aliases=
+|Tags=governance metaphors
+|Family=حکومت,
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=دستگاه
+|Target frame=حکومت
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=آیت‌الله هاشمی شاهرودی گفت : مسوولان عالی‌رتبه کشور مصمم هستند که ***ریشه*** اصلی این قتلها پیدا شده و به محاکمه قضایی و عادلانه برسد و امیدواریم رایس جمهور ***دستگاه*** امنیتی کشور را از رویه‌های ناجوری که
+|Example.Comments=the word for apparatus " dastgah" needs a frame. the closest meaning in English could be apparatus
+}}{{Example
+|Example.Language=Persian
+|Example.Text=متؤسفانه پس از گذشت این مدت ، هیچ خبری درباره اقدامات قوه قضاایه منتشر نشده و معلوم نیست این دستگاه ، تا چه میزان موفق شده است به بررسی پرونده بپردازد .
+}}
+|Entered by=Sanam, Aria
+|Status=in development
+|Investigated for=Persian
+}}

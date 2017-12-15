@@ -1,0 +1,135 @@
+{{Frame
+|Name gloss=Geographic feature
+|Family=طرح های وجودی
+|Type=Frame
+|Status=in development
+|Entered by=Sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=بودن در یک مکان مشخص
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرتگاه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تنگه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساحل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ویژگی های جغرافیایی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ویژگی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جغرافیایی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توپوگرافی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توپوگرافیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زمین شناسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زمین شناختی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقشه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پستی و بلندی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دامنه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شیب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سربالایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سر پایینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرپائینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چاله
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چاله چوله
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سوراخ سمبه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ناهمواری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ناهمواریها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ناهمواری ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرزمین پست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرتفع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قلل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قله
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چشم انداز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جلگه ای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کویر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کویری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شوره زار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیابان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی آب وعلف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برهوت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خشک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بده بستان های جاده
+}}
+|LinkEnglish=Geographic feature
+|Applicability=Persian
+}}

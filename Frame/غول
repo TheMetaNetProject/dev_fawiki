@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=giant
+|Comments=The connection between ghul [giant] and the English frame "power" is not clear to me
+|Family=طرحواره غول
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غول
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غول آسا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غول شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هیولا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غول پیکر
+}}
+|LinkEnglish=Power
+|Applicability=Persian
+}}

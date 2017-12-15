@@ -1,0 +1,58 @@
+{{Frame
+|Name gloss=carrying heavy burden
+|Comments=Closest English frame is "Moving object" or "burden". Incidentally, there exist similar Persian frame but without the element/sangin/ which means heavy
+|Family=حمل بار, طرح های تحرک,
+|Type=Frame
+|Status=in development
+|Entered by=Sanam and Aria
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=بار فیزیکی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کمرشکن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر فشار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بار سنگین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سایه سنگین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سنگین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فشار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کمرشکن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رکود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر بار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سایه سنگین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سنگین
+}}
+|LinkEnglish=Moving object
+|Applicability=Persian
+}}

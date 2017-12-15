@@ -1,0 +1,21 @@
+{{Frame
+|Name gloss=move.N to-ward down
+|Description=Downward motion
+|Family=طرح های حرکت
+|Type=Primary
+|Status=in development
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سراشیبی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سراشیب
+}}
+|LinkEnglish=Downward motion
+|Applicability=Persian
+}}

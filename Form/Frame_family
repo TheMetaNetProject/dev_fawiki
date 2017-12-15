@@ -1,0 +1,58 @@
+<noinclude>
+This is the "Frame family" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Frame family|autocomplete on category=Frame family}}
+
+</noinclude><includeonly>{{#css:
+   .enformfield {
+       direction: ltr;
+       text-align: left;
+   }
+}}<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Frame family}}}
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Name Gloss:
+| {{{field|Name gloss|property=Frame family.Name gloss|class=enformfield}}}
+|-
+! Is subfamily of:
+| {{{field|is subfamily of|property=Frame subfamily of|values from category=Frame family}}}
+|-
+! Tag:
+| {{{field|FrameFamilyTag|property=Tag|values from property=Tag}}}
+|-
+! Status:
+| {{{field|FrameFamilyStatus|property=Status|list|mandatory}}}
+|}
+
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Closest English Frame family:
+| {{{field|LinkEnglish|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|es|style="display:none;"|}}
+! Closest Spanish Frame family:
+| {{{field|LinkSpanish|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|fa|style="display:none;"|}}
+! Closest Persian Frame family:
+| {{{field|LinkPersian|class=faformfield}}}
+|- {{#ifeq:{{Lang|}}|ru|style="display:none;"|}}
+! Closest Russian Frame family:
+| {{{field|LinkRussian|class=enformfield}}}
+|}
+
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

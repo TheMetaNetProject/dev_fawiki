@@ -1,0 +1,22 @@
+<noinclude>
+This is the "Metaphors in family" template.  For listing Metaphors in a given family.
+It should be called in the following format:
+<pre>
+{{Metaphors in family
+|family=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+Number of Metaphors: {{#ask: [[Category:Metaphor]] [[ Metaphor.Family::{{{family|}}}]]
+| format=count
+}}
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Family::{{{family|}}}]]
+| ?=Metaphor
+| ?Has description=Description
+| ?Has target frame=Target Frame
+| ?Has source frame=Source Frame
+| format=table
+| mainlabel=-
+| limit=500
+}}</includeonly>

@@ -1,0 +1,80 @@
+{{Frame
+|Name gloss=police
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پلیس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مامور پلیس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گشت زنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نیروی انتظامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نیروی پلیس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ماموران پلیس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرماندهی نیروی انتظامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گارد ویژه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لباس شخصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یونیفرم 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آرم نیروی انتظامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شهربانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پاسبان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=افسر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=افسران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سردار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آگاهی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حفاظت و اطلاعات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کلانتری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبارزه با قاچاق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازداشتگاه
+}}
+|LinkEnglish=Police
+|Applicability=Persian
+}}

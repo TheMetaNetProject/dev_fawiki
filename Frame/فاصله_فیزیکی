@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=distance physical
+|Description=Physical Distance
+|Comments=This frame was linked with the English frame "Gap in path". Since the  previous English frame was not fully corresponding with the Persian frame, I have deceided to delink the frame, and as of now, the current Persian frame have been  linked with the following English frame which is more close to the Persian frame: Distances between locations
+|Family=طرح های مکان
+|Type=Frame
+|Status=in development
+|Entered by=Kouros
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فاصله
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شکاف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گپ
+}}
+|LinkEnglish=Distances between locations
+|Applicability=Persian
+}}

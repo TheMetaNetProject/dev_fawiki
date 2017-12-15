@@ -1,0 +1,58 @@
+{{Frame
+|Name gloss=Management Jihadi
+|Comments= Management does not fully correspond with the Persian frame
+|Family=طرح های اداره و مدیریت
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=مدیریت
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت جهادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دبیرخانه مدیریت جهادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه کردن مدیریت جهادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مدیریت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مدیریت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مدیریت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  نهادینه کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جهاد 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= جهادی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= انقلاب 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= انقلابی
+}}
+|LinkEnglish=Management
+|Applicability=Persian
+}}

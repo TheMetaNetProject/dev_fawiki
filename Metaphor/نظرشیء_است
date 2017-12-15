@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=opinion object ast-COP
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=عقیده شیء است
+}}
+|Metaphor Level=General
+|Source frame=شیء
+|Target frame=نظر
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=ما نه تنها در محاسبات خود {تحت فشار‌ها} تجدید نظر نمی‌کنیم٬ بلکه با اطمینان بیشتر به راه مورد نظر ملت ادامه می‌دهیم
+}}{{Example
+|Example.Language=Persian
+|Example.Text=اگر سیاست کنترل جمعیت ادامه پیدا کند، به تدریج دچار پیری و در ‌‌نهایت کاهش جمعیت خواهیم شد، بنابراین مسئولان باید با جدیت در سیاست کنترل جمعیت تجدید نظر کنند.
+}}
+|Entered by=Sanam, Aria
+|Status=in development
+|LinkEnglish=IDEAS ARE OBJECTS
+|Investigated for=Persian
+}}

@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=Access to_an object
+|Comments=There exist the same frame in Persian Wiki, but including the following element /baraabar be yek/ which means "equal to an/a" and both are linked to the same English frame "Access to an object". Not sure whether one of them needs to be dropped
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دسترسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دسترسی داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دسترسی به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در دسترس بودن
+}}
+|LinkEnglish=Access to an object
+}}

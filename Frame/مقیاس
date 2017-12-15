@@ -1,0 +1,63 @@
+{{Frame
+|Name gloss=Scale
+|Family=مقیاس,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقیاس خطی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقیاس عددی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقیاس کسری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقیاس توضیحی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقیاس 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=درجه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شماره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اندازه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقشه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اندازه گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اندازه گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اندازه گیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اندازه گیری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیستم اندازه گیری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=درجات
+}}
+|LinkEnglish=Scale
+|Applicability=Persian
+}}

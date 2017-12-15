@@ -1,0 +1,76 @@
+{{Frame
+|Name gloss=building
+|Description=structure or edifice
+|Family=طرح های وجودی
+|Type=Frame
+|Status=in development
+|Entered by=Sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=شیء
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساختمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اساس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آستانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پایه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پایه ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پایه های
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساختمان ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساختمان های
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بنا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زمینه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بنیاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چهارچوب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چارچوب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پی ریزی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیربنا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بنا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فروپاشی
+}}
+|LinkEnglish=Building
+|Applicability=Persian
+}}

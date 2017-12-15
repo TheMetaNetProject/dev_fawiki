@@ -1,0 +1,21 @@
+{{Frame
+|Name gloss=equalize
+|Description=To make equal, or eliminate gap
+|Comments=No corresponding English frame found The closest English frame waas Equality which is linked to the Prsian Wiki
+|Family=طرح های نمودارگونه
+|Type=Frame
+|Status=in development
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=افزایش
+}}{{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=کاهش
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|Applicability=Persian
+}}

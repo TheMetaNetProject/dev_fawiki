@@ -1,0 +1,28 @@
+{{TOC
+| limit=2
+}}
+
+Total number of Metaphor pages: {{#ask: [[Category:Metaphor]] | format=count}}
+
+= Manually Analyzed Metaphors =
+Create or edit a Metaphor: {{#forminput:form=Metaphor|autocomplete on namespace=Metaphor|namespace=Metaphor}}
+Total number of Metaphor pages: {{#ask: [[Category:Metaphor]] [[:Metaphor:+]] | format=count}}
+{{#ask: [[Category:Metaphor]] [[:Metaphor:+]]
+|?Metaphor.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+
+= Automatically Extracted Metaphors =
+Total number of Metaphor pages: {{#ask: [[Category:Metaphor]] [[:AutoMetaphor:+]] | format=count}}
+
+{{#ask: [[Category:Metaphor]] [[:AutoMetaphor:+]]
+|?Metaphor.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+[[en:List of all Metaphors]]
+[[es:List of all Metaphors]]
+[[ru:List of all Metaphors]]

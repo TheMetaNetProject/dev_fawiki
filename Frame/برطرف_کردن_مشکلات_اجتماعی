@@ -1,0 +1,179 @@
+{{Frame
+|Name gloss=Rectifying social problems
+|Comments=No corresponding English frame  found. The closest was social problems
+|Family=طرح های فقر,
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=معضلات اجتماعی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رسیدگی به مشکلات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکلات اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفع مشکلات اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکلات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکل‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حل مشکل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حلّ مشکل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حل مشکل کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حل مشکل کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حل مشکل کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حلّ مشکل کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حلّ مشکل کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حلّ مشکل کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معضل 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معضلات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معضلات اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابسامانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گره کور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گره‌گشایی کردن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گره‌گشایی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گره‌گشایی کن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشگل‌گشا 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشگل‌گشا کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشگل‌گشا کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشگل‌گشا کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گره‌گشا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکلی را اضافه کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکلی را اضافه کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکلی را اضافه کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکلی را بر مشکلات قبلی اضافه کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکلی را بر مشکلات قبلی اضافه کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکلی را بر مشکلات قبلی اضافه کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حلّ معمّا کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حلّ معمّا کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حلّ معمّا کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تایید نظر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دردسر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دردسرها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مایه دردسر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکل‌زا 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکل‌زا شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکل‌زا شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکل‌زا شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برطرف کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برطرف کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برطرف کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برطرف ساختن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برطرف ساخت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برطرف‌ساز 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برطرف‌سازی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفع مشکل کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفع مشکل کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفع مشکل کن
+}}
+}}

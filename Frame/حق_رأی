@@ -1,0 +1,179 @@
+{{Frame
+|Name gloss=the_right_to vote
+|Description=Right to vote
+|Family=طرح انتخابات,
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles={{Role
+|Role.Name=رأی دهنده   واجد شرایط
+|Role.Name gloss=enfranchised_voter
+|Role.Definition=فردی که از لحاظ قانونی حق رأی دارد.
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=رأی گیری
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=حق
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق رای داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق رای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از حق رای محروم کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سلب حق رای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق رای عمومی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=واجد شرایط رأی دادن بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حوزه اخذ رأی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق رأی داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق رأی می‌‌دهد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق رأی خواهد داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=واجدین شرایط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سنّ قانونی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از حق انتخاب محروم کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق رای داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق رای دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حقّ راَی داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حقّ راَی داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حقّ راَی دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=واجد شرایط رأی دادن بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=واجد شرایط رأی دادن باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=واجدین شرایط  برای شرکت در انتخابات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق رای داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق رای دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سلب کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سلب کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سلب کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سنّ قانونی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رای مخفی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حوزه‌های اخذ رای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شرکت کردن در
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شرکت کرد در
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شرکت کن در
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخابات مجلس شورای اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اتخابات ریاست جمهوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دور اول
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دوراوّل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دور دوّم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دور دوم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به دور دوم کشیده شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به دور دوم کشیده شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به دور دوم کشیده شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اتنخاباتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نامزد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نامزدها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقلب در انتخابات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقلّب 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقلب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تخلفّ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تخلف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ستاد انتخاباتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ستاد‌های انتخاباتی
+}}
+|LinkEnglish=Voting rights
+|Applicability=Persian
+}}

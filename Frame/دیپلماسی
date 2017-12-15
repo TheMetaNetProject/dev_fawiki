@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=diplomacy
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیپلماسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیپلمات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیپلمات ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روابط دیپلماتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیپلماسي
+}}
+|LinkEnglish=Diplomacy
+|Applicability=Persian
+}}

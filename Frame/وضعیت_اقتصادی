@@ -1,0 +1,151 @@
+{{Frame
+|Name gloss=status economic
+|Program alias=شرایط اقتصادی
+|Family=طرح های اقتصادی, طرح های اداره و مدیریت, طرح های فقر, طرح های ثروت,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=مقیاس
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=گروه های اجتماعی
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=منابع مالی‌
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=مالکیت
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=شرایط - وضعیت
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=طبقه اجتماعی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضعیت اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طبقاتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شرایط اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصاد مقاومتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فشار اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظام اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصاد‌ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصاد اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصاد کلان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بار اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شرایط حاکم بر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقرون به صرفه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخش اقتصاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رویکرد اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهای اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تدابیر اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصاد خرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضعیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بحران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصادی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصادی بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصادی بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصادی باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصادی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصادی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصادی بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصادی باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضعیت اقتصادی خراب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خراب بودن وضعیت اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=علل خرابی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شکوفایی اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رونق اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شرایط اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخش اقتصاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محرک‌های اقتصادی
+}}
+|LinkEnglish=Economic status
+|Applicability=Persian
+}}

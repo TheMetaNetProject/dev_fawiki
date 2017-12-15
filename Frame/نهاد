@@ -1,0 +1,112 @@
+{{Frame
+|Name gloss=Institution
+|Description=Institution
+|Family=طرح های حکومت,
+|Type=Frame
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهاد اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موسسه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهاد دموکراتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهای سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمانها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غیر‌سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاسی اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرهنگی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اتتفاعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غیر‌‌انتفاعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهای دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهای خصوصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موسسات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غیردولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خصوصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نیمه دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهاد حقوق بشری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهاد فرهنگی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آموزشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هنری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ورزشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بین‌المللی
+}}
+|LinkEnglish=Institution
+|Applicability=Persian
+}}

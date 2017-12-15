@@ -1,0 +1,64 @@
+{{Frame
+|Name gloss=Spread_ of social problems
+|Comments=Social problems is the closest English frame, but lacks the "spread" element and does not warrant a linkage to the English frame.
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Aria Fani, & Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=مشکلات اجتماعی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش مشکلات اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکلات اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش یافتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش یافت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش یاب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معضلات اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دزدی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مواد مخدّر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مواد مخدر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فساد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فحشا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رشوه خواری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارتشاء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرقت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قتل
+}}
+}}

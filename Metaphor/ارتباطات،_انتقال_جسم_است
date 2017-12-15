@@ -1,0 +1,31 @@
+{{Metaphor
+|Name gloss=communication, transfer_object ast-COP
+|Aliases=
+|Metaphor Level=General
+|Metaphor Type=Primary, Composed/complex
+|Source frame=انتقال جسم
+|Target frame=ارتباطات
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=نظرشیء است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=این اتفاق یک ایدۀ جدیدی به من داد.
+|Example.Gloss=this event one idea new to me give-pst-sg
+|Example.English translation=You gave me an idea
+}}{{Example
+|Example.Language=Persian
+|Example.Text=با تبادل نظر و نگاهی دقیقتر به تغذیه خانواده می توان سلامتی کودکان را بررسی کرد
+}}{{Example
+|Example.Language=Persian
+|Example.Text=«آئین‌نیوز» نوشته که با اقدامات احمدی‌نژاد «جریان نفاق بدون شک رسوا خواهند شد و مرجعیت و اعتبار خود نزد ملت را از دست خواهند داد» و برای «همیشه به کنج انزوا و ذلت فرو خواهند غلطید.»
+}}
+|Entered by=Aria, Sanam
+|Last reviewed by=Aria Fani
+|Status=in development
+|LinkEnglish=COMMUNICATING IS OBJECT TRANSFER
+|Investigated for=Persian
+}}

@@ -1,0 +1,120 @@
+{{Frame
+|Name gloss=Seeing
+|FrameNet frame=Perception_experience
+|Family=طرح های حسی
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Sanam
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=بیننده
+|Role.Name gloss=see-er
+|Role.Type=موجود
+|Role.Definition=موجودی که می بیند
+}}{{Role
+|Role.Name=جسم(شیء) دیده شده
+|Role.Name gloss=body(thing) see become-passive
+}}{{Role
+|Role.Name=چشمها
+|Role.Name gloss=eyes
+}}{{Role
+|Role.Name=قابلیت دیدن
+|Role.Name gloss=ability see
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیننده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بینایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شفاف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غیر شفاف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شفاف سازی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آشکار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پنهان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیده شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیدا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ظهور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پدیدار شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پنهانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آشکارا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هویدا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پدیدار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پدیده ای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پدید آمد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پدیدۀ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پدیده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیده میشود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیده می شود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= بین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دید  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= دیدن
+}}
+|LinkEnglish=Seeing
+|Applicability=Persian
+}}

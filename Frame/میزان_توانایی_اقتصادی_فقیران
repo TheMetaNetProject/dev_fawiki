@@ -1,0 +1,57 @@
+{{Frame
+|Name gloss=measure (of) ability economic poverty
+|Description=Measuring the economic capacity of the poor
+|Comments=This frame broadly corresponds with Economic status. Please advise
+|Family=طرح های نابرابری های اقتصادی,
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=فقیر بودن
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=میزان توانایی اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توان اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرودستان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرودست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تنگدست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تنگدستان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بینوایان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقیران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تنگدستی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به پیسی افتادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به پیسی افتاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به پیسی افت
+}}
+}}

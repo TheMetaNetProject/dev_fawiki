@@ -1,0 +1,72 @@
+{{Frame
+|Name gloss=Management
+|Family=طرح های اداره و مدیریت,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani and Reza,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=رهبری
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت خصوصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ضعف مدیریت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت می‌‌کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت خواهد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهبری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهبر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هدایت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=همراهی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت جهادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  رهبری کن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= رهبری کرد
+}}
+|LinkEnglish=Leadership
+|Applicability=Persian
+}}

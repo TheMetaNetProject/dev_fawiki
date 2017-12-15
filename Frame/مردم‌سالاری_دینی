@@ -1,0 +1,183 @@
+{{Frame
+|Name gloss=democracy religious
+|Description=Religious democracy
+|Other aliases=نظام امام و امت
+|Comments=The English frame, 'democracy' broadly corresponds with this frame. All the LUs in this frame are directly related to the intersection of religion and democracy
+|Family=طرح دموکراسی‌,
+|Type=Frame
+|Cultural information=In the political discourse of the Islamic Republic, a term that has also gained currency in recent years is mardum-sālāri-yi dini (religious democracy). This concept gives precedence to Divine ruling; the interests of the masses are determined by the representatives of the Divine rule (positions not elected by the people include the office of the Ayatollah and members of the Guardianship of Islamic Jurists), a select number of these representatives (President, members of the Iranian majlis, etc) are elected by the people. The concept of religious democracy is being further investigated
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=مردم سالاری
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاری دینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارزش‌های دینی و مذهبی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارزش‌هاي دیني و مذهبي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مفاهيم ديني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاري ديني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مفاهیم دینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه سکولار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم‌سالاری اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردمسالاری اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاري اسلامي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جدایي دین از سیاست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جدایی دین از سیاست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمیت مطلق مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شریعت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه اسلامي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=التزام به شریعت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=احکام شرعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=احكام شرعي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمبت مطلق خداوند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبانی فقهی مردم سالاری دینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبانی فقهی مردم سالاری دیني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقه پویا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حوزه عمومی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حوزه عمومي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دستور ولایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دستور ولایي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم حکومتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم حکومتي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت یافتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت بخشیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت بخشید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت یافت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت استبدادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت استبدادي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مصالح جامعه اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مصالح جامعه اسلامي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه مدنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه مدني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظام امام و امت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاری ولایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاری ولایي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=واجبات دینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=واجبات دیني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اسلام و مردم سالاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اسلام و مردم‌سالاري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وجدان دیني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وجدان دینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمیّت مطلق مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمیّت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمیّت مطلق خداوند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظام امام و امّت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امّت اسلامی
+}}
+|Applicability=Persian
+}}

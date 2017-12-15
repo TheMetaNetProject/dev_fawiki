@@ -1,0 +1,31 @@
+{{Metaphor
+|Name gloss=democracy a_gift is
+|Aliases=
+|Family=استعاره دموکراسی‌
+|Metaphor Type=Composed/complex
+|Source frame=هدیه
+|Target frame=دموکراسی‌
+|Mappings={{Mapping
+|Target=دموکراسی‌
+|Source=هدیه
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=دموکراسی‌ مکان است.
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=آمریکا در پنجاه سال گذشته، کارنامه‌ی سیاسی‌اش پر است از مداخلات نظامی به اسم دموکراسی و در اکثریت این مداخلات هم نه تنها تحفه‌ای از دموکراسی به مغلوبان‌شان ندادند،
+|Example.Gloss=America in the last fifty years, his political record is full of military interventions in the name of democracy and  in the majority of these interventions, they did not get any single gift from democracy to their defeated countries
+|Example.English translation=The political record of the United States in the past fifty years is replete with military interventions in the name of democracy, and in the majority of these interventions, they have not given a gift from democracy to their defeated subjects s, 
+|Example.Comments=The key preposition in this sentence is "az" [from], if the phrase were "tuhfih-i dimukrasi," then the use would be metaphorical, but this is "tuhfih-i AZ dimukrasi," a gift from democracy, or a gift made of democracy. I don't believe this is metaphorical as it.
+
+
+}}
+|Entered by=Reza
+|Last reviewed by=Aria Fani
+|Status=in development
+|Program alias=democracy
+|Investigated for=Persian
+}}

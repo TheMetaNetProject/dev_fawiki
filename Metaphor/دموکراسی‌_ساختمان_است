@@ -1,0 +1,31 @@
+{{Metaphor
+|Name gloss=freedom building is
+|Aliases=
+|Comments=More examples are needed to support this metaphor
+|Family=استعاره آزادی
+|Metaphor Type=Composed/complex
+|Source frame=ساختمان
+|Target frame=دموکراسی‌
+|Mappings={{Mapping
+|Target=آزادی
+|Source=ساختمان
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=دموکراسی‌ مکان است.
+}}{{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=دموکراسی‌ کالا است.
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=آزادی نیز یکی دیگر از پایه های دموکراسی است.
+|Example.Gloss=freedom also one of the pillars of democracy.
+|Example.English translation=Freedom is also one of the pillars of democracy.
+}}
+|Entered by=Reza
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

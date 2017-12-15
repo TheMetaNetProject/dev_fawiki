@@ -1,0 +1,7 @@
+<noinclude>This template is meant to be used in Category pages to hide the default list of pages.</noinclude>
+<includeonly>
+{{#css:
+#mw-subcategories {display: none}
+#mw-pages {display: none}
+}}
+</includeonly>

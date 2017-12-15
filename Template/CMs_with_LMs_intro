@@ -1,0 +1,15 @@
+<noinclude>
+This is the "CMs with LMs intro" template.
+It should be called in the following format:
+<pre>
+{{CMs with LMs intro
+|=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable sortable"
+! Conceptual Metaphor
+! Linguistic Metaphors (Examples)
+! #
+|-
+</includeonly>

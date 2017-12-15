@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=Increase area_of zone
+|Description=Increasing of defined area
+|Comments=No corresponding English frame found. The closest English frame was increase size Incidentally, the frame is to long and therefore is complicated to be understood. 
+|Family=طرح های وسعت مکان
+|Type=Frame
+|Status=in development
+|Entered by=Sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توسعه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بسط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش می‌یابد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش یافتن
+}}
+|Applicability=Persian
+}}

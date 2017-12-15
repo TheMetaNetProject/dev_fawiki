@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=being in a location specific in a period time
+|Comments=No english equivalent found
+|Family=طرح های مکان,
+|Type=Frame
+|Status=in development
+|Entered by=Kouros
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=بودن در یک مکان مشخص
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=بودن در یک مکان
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سپری کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به سر بردن
+}}
+|Applicability=Persian
+}}

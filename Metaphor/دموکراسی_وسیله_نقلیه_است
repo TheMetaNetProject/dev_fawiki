@@ -1,0 +1,29 @@
+{{Metaphor
+|Name gloss=Democracy is_a means_of transportation
+|Aliases=
+|Comments=More examples need to be provided to support metaphor
+|Family=استعاره دموکراسی,
+|Source frame=وسیله نقلیه
+|Target frame=دموکراسی
+|Mappings={{Mapping
+|Target=دموکراسی
+|Source=وسیله نقلیه
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=دموکراسی‌ آبکی‌
+}}{{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=دموکراسی‌ موجود زنده است.
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=دموکراسی بدون احزاب مثل قطاری است که لوکوموتیو ندارد
+|Example.Gloss=democracy without parties like a train is that does not have locomotive.
+}}
+|Entered by=Reza
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

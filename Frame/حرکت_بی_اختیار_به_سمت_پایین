@@ -1,0 +1,54 @@
+{{Frame
+|Name gloss=move.inf uncontrolled to ward down
+|Description=Forced downward movement
+|Comments=No corresponding English frame for this frame found The frame "downward motion" which is linked to Persian wiki, approximates this frame  
+|Family=طرح های حرکت
+|Tags=Program sources
+|Type=Frame, Composed
+|Status=in development, auto imported
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=حرکت به سمت پایین
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=تحرک
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به دام افتادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به ورطه افتادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سقوط کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ورطه فرو رفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرو آمد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرو افتاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فروافتاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فروافتاده اند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سقوط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرازیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=افتادن
+}}
+}}

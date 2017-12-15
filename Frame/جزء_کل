@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=part_of whole
+|FrameNet frame=Part_whole
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Sanam, Aria
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=جزء
+|Role.Name gloss=part
+|Role.FrameNet role=Part
+}}{{Role
+|Role.Name=کل
+|Role.Type=whole
+|Role.FrameNet role=Whole
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Part whole
+|Applicability=Persian
+}}

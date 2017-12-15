@@ -1,0 +1,97 @@
+{{Frame
+|Name gloss=taste
+|FrameNet frame=مزه
+|Family=طرح های حسی
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چاشنی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طعم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مزه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خوشمزه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدمزه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دبشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دبش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تلخی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تلخ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی‌ نمک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طعم دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بوی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بودار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ادویه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شیرینی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طعم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شیرین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تندی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ترشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ترش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چشیدن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  چش 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= چشید
+}}
+|LinkEnglish=Taste
+|Applicability=Persian
+}}

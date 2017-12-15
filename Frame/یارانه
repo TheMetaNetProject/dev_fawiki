@@ -1,0 +1,62 @@
+{{Frame
+|Name gloss=subsidy
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یارانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یارانه بگیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یارانه ای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یارانه بگیرا ن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سوبسید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سوبسیدی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یارانه دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یارانه داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یارانه ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یارانه گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یارانه گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یارانه گیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سوبسید دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سوبسید داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشمول سوبسید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشمول یارانه
+}}
+|LinkEnglish=Subsidy
+|Applicability=Persian
+}}

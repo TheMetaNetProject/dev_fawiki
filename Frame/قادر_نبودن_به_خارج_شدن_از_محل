@@ -1,0 +1,35 @@
+{{Frame
+|Name gloss=Inability to exist a location
+|Comments=Motion out of a location is remotely similar, but no corresponding English frame was found    It is suggested to modify the frame [by changing the second verbal element to a noun /khoruj/ to facilitate the reading process The modified frame could be as follow
+قادر به خروج از محل نبودن
+|Type=Frame
+|Status=in development
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=قادر بودن به خارج شدن از محل
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دست و پا زدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرورفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گرداب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باتلاق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرو رفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرو
+}}
+|Applicability=Persian
+}}

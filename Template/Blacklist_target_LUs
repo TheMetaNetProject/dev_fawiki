@@ -1,0 +1,14 @@
+<noinclude>
+This is the "Blacklist target LUs" template.
+It should be called in the following format from the Frame template:
+<pre>
+{{Blacklist target LUs
+|BlacklistTargetLU=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+! Blacklist target LUs
+| [[Has blacklist target LU::{{{BlacklistTargetLU|}}}]]
+|-
+|}</includeonly>

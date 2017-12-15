@@ -1,0 +1,93 @@
+{{Frame
+|Name gloss=Value added tax
+|Description=Value added tax
+|Comments=There is no corresponding frame besides the broad frames of -value- and -taxation- in English
+|Family=طرح های مالیات
+|Type=Frame
+|Status=in development
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=توزیع مالیات بر ارزش افزوده
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مصرف کننده  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهای خرید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات‌های پرداختی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات غیر مستقیم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات بر ارزش افزوده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارزش افزوده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون مالیات بر ارزش افزوده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نرخ مالیات بر ارزش افزوده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان امور مالیاتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=درآمد مالیات بر ارزش افزوده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مؤدیان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عوارض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیاتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جریمه کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جریمه کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جریمه کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= مالیات خوردن به 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=, مالیات خورد به
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= مالیات خور به 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات‌های معوقه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= مالیات نپرداختن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=   مالیات نپرداخت 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  قوانین مالیات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مالیات نپرداز 
+}}
+|Applicability=Persian
+}}

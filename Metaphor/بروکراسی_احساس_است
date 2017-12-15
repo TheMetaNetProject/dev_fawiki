@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=Bureaucracy feeling iAT-COP.
+|Aliases=
+|Comments=no corresponding English frame found. Example(s) needs to be provided, existing examples are incomplete 
+|Family=طرح بروکراسی
+|Metaphor Type=Composed/complex
+|Source frame=احساس
+|Target frame=بروکراسی
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=بوروکراسی موجود زنده است.
+}}{{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=بروکراسی وسیله نقلیه است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=بوروکراسی عاشقیت
+|Example.Gloss=Bureaucracy romance
+|Example.English translation=Bureaucracy of love
+}}
+|Entered by=Reza
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

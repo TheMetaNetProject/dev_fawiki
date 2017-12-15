@@ -1,0 +1,10 @@
+{{Glossary
+|Entry=Makes use of
+|Other Aliases=Uses (v); Activates
+|Description=For frames, this relation type indicates that the current frame incorporates some portion of the structure of the frame which it 'makes use of'. The specific elements that are incorporated can be specified via bindings between roles within the two frames. This relation can be compared to FrameNet's 'uses' relation.  
+
+For metaphors, this 
+|Utility=General Theory
+|Entered by=Elise
+|Last reviewed by=Ellen
+}}

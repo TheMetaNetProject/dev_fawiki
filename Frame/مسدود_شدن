@@ -1,0 +1,75 @@
+{{Frame
+|Name gloss=blocked becoming
+|Description=s.t. becoming closed, barred
+|Comments=The designated family frame is "Access to Education" which does not seem directly related, further there are no metaphors or examples that warrn this connection. Please advise
+
+Closest corresponding English frame found is Barrier to accessing a location. Please review.
+|Family=طرح های دسترسی به تحصیلات
+|Type=Frame
+|Status=in development
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=مانع
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مانع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازماندن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رکود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ماندن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسدود شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسدود شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسدود شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسدود بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسدود بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسدود باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انسداد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سد 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سدّ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بستن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه بندان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در جا زدن
+}}
+|LinkEnglish=Barrier to accessing a location
+|Applicability=Persian
+}}

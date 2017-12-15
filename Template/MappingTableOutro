@@ -1,0 +1,11 @@
+<noinclude>
+This is the "MappingTableOutro" template.  It is used to close out a MappingTable template table
+<pre>
+{{MappingTableOutro
+|=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+|}
+</includeonly>

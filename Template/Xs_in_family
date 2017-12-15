@@ -1,0 +1,21 @@
+<noinclude>
+This is the "Xs in family" template.  For listing Frames or Metaphors in a given family.
+It should be called in the following format:
+<pre>
+{{Xs in family
+|X=Metaphor,Frame
+|family=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+Number of {{{X|}}}s: {{#ask: [[Category:{{{X|}}}]] [[ {{{X|}}}.Family::{{{family|}}}]]
+| format=count
+}}
+{{#ask: [[Category:{{{X|}}}]] [[ {{{X|}}}.Family::{{{family|}}}]]
+| ?={{{X|}}}
+| ?Has description=Description
+| format=table
+| mainlabel=-
+| limit=500
+}}</includeonly>

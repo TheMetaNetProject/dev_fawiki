@@ -1,0 +1,63 @@
+{{Frame
+|Name gloss=business
+|Other aliases=Trade
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تجارت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حرفه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=كار و كسب.
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دادوستد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=كاسبي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بنگاه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موضوع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تجارت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شرکت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صنعت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مغازه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شرکت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فروشگاه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شرکت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کسب و کار
+}}
+|LinkEnglish=Business
+|Applicability=Persian
+}}

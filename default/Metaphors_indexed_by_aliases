@@ -1,0 +1,19 @@
+{{#arraydefine: aliases|{{#ask: [[Category:Metaphor]] [[ Metaphor.Alias::+]]
+| ?Metaphor.Alias | +index=1
+| link=none
+| format=list
+| headers=hide
+| mainlabel=-
+}}|,|}}{{#arraysort: aliases|asc}}
+{{#loop: i
+| 0
+| {{#arraysize: aliases}}
+| <nowiki/>
+{{#vardefine: alias|{{#arrayindex:aliases|{{#var:i}}}}}}{{#arraydefine: mmets|{{#ask: [[Category:Metaphor]] [[ Metaphor.Alias::{{#var:alias}};?;?]]
+| headers=hide
+| format=list
+| link=none
+}}|,|}}{{#ifexpr: {{#arraysize: mmets}} = 1|
+* [[{{#arrayindex: mmets|0}}|{{#var:alias}}]]|
+* {{#var:alias}}: {{#arrayprint: mmets|,&nbsp;|@@@@|[[@@@@]]}}
+}}}}

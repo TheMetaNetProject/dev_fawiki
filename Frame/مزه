@@ -1,0 +1,76 @@
+{{Frame
+|Name gloss=Taste
+|Family=طرح های حسی
+|Type=Primary
+|Status=in development
+|Entered by=Sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=طعم
+|Related frame.Description=taste
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مزه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تلخ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طعم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شیرین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ترش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چشیده اند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چاشنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مزه مزه کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  چش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  چشید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  چشیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= مزه ده‌‌‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مزه داد 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مزه دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= خوشمزه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= بدمزه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=‌گس 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مزه زیر دندان رفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تند
+}}
+|LinkEnglish=Taste
+|Applicability=Persian
+}}

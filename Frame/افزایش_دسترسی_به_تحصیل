@@ -1,0 +1,21 @@
+{{Frame
+|Name gloss=increase access to education
+|Comments=In order to create a meaningful and acceptable Persian frame, the increase element needs to be omitted; otherwise we have to create related opposite frames (using decrease etc) as well 
+|Family=طرح های دسترسی به تحصیلات
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=امکانات تحصیلی
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=امکانات
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Access to education
+}}

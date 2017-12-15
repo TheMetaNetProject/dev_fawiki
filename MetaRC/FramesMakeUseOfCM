@@ -1,0 +1,14 @@
+{{MetaRC
+|MetaRCGroup=FramesMakeUseOfCM
+|MetaRCDescription=Target and source frames make use of the target and source frames of a CM, respectively.
+|MetaRCComments=getusedcms
+|MetaRCScore=0.5
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?tgframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?tframe mo:makesUseOfFrame ?tgframe .
+        ?sframe mo:makesUseOfFrame ?isframe .
+}
+}}

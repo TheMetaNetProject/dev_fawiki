@@ -1,0 +1,10 @@
+{{MetaRC
+|MetaRCGroup=SubcaseOfSameFrame
+|MetaRCDescription=Target frame and source frame are subcases of the the same frame, with up to 2 subcase relations cascaded.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe ?otherframe ?othername WHERE {
+    ?otherframe (mo:isSubcaseOfFrame&#124;mo:isSubcaseOfFrame/mo:isSubcaseOfFrame) ?tframe .
+    ?otherframe (mo:isSubcaseOfFrame&#124;mo:isSubcaseOfFrame/mo:isSubcaseOfFrame) ?sframe .
+    ?otherframe mo:hasName ?othername .
+}
+}}

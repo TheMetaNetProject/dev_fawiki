@@ -1,0 +1,25 @@
+{{#ask:[[Related metaphor::has as transitive subpart 1;?;?]]
+| ?Related metaphor
+| format = array
+| name = relmets
+| propsep = ;
+| manysep = ;
+| recordsep = =
+| hidegaps = record
+}}{{#loop: i
+| 0
+| {{#arraysize:relmets}}
+| <nowiki/>
+{{#vardefine:str|{{#arrayindex: relmets | {{#var:i}}}}}}{{#vardefine:transmet|{{#sub:{{#var:str}}|0|{{#pos:{{#var:str}}|;|0}}}}}}{{#vardefine:j|1}}{{#vardefine:sp1}}{{#vardefine:sp2}}
+{{#while:
+| {{ #if: {{#vardefineecho:rel|{{#explode:{{#var:str}}|;|{{#var:j}}}}}} | true}}
+| <nowiki/>
+{{#ifeq: {{#explode:{{#var:rel}}|=|0}} | has as transitive subpart 1 | {{#vardefine:sp1|{{#explode:{{#var:rel}}|=|1}}}}}}{{#ifeq: {{#explode:{{#var:rel}}|=|0}} | has as transitive subpart 2 | {{#vardefine:sp2|{{#explode:{{#var:rel}}|=|1}}}}}}{{#vardefine:j|{{#expr:{{#var:j}}+1}}}}}}
+{{#!:
+{| class="wikitable"
+! [[{{#var:transmet}}]]
+|-
+| [[{{#var:sp2}}]] + [[{{#var:sp1}}]]
+|}
+}}
+}}

@@ -1,0 +1,51 @@
+{{Frame
+|Name gloss=Cause
+|Comments= No corresponding  English frame found Closest English schemes are: Causation OR Resaoning
+|Type=Cog, Composed
+|Status=in development
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=کننده
+|Role.Name gloss=Actor
+}}{{Role
+|Role.Name=علت
+|Role.Name gloss=Cause
+}}{{Role
+|Role.Name=اثر
+|Role.Name gloss=Effect
+}}{{Role
+|Role.Name gloss=affected
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=علت  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  علت العلل  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  علت ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  علت دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= علت داشت 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  علت داشتن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= علل  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= دلیل 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  اثر  
+}}
+|Applicability=Persian
+}}

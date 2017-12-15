@@ -1,0 +1,79 @@
+{{Frame
+|Name gloss=sedition
+|Comments=Fitna (civil strife, sedition) does not closely correspond with the English frame "war" (connected as of now)
+|Family=طرح درگیری‌های فیزیکی‌
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles={{Role
+|Role.Name=فتنه‌گر
+|Role.Name gloss=provocator
+}}{{Role
+|Role.Name=عامل فتنه
+|Role.Name gloss=instigator's seduction
+}}{{Role
+|Role.Name=عوامل فتنه
+|Role.Name gloss=instigators of seduction
+}}{{Role
+|Role.Name=سران فتنه
+|Role.Name gloss=heads of seduction
+}}{{Role
+|Role.Name=فتنه ۸۸
+|Role.Name gloss=88 seduction
+|Role.Definition=The seduction 88 refers to the protests that arose after the 2009 Iranian presidential election,
+}}
+|Related frames={{Related frame
+|Related frame.Name=جنگ
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فتنه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آشوب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هرج و مرج
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تخم فتنه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فتنه و نفاق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عوامل فتنه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عامل فتنه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آشوبگر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اغتشاش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فتنه گر‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فتنه بر پا کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فتنه بر پا کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فتنه بر پا کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بلوا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شعله فتنه
+}}
+|LinkEnglish=War
+|Applicability=Persian
+}}

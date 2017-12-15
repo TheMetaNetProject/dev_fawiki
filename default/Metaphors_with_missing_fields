@@ -1,0 +1,100 @@
+The purpose of this page is to keep track of Metaphors that may be missing necessary information
+
+{{#ifeq:{{Lang|}}|en||
+{{#ifeq:{{Lang|}}|es||
+= No transcription specificied =
+{{Unsetprop|missingtran|Metaphor| Metaphor.Transcription|}}
+<ul>
+{{#arrayprint: missingtran ||@ |<li> [[@]] }}
+</ul>
+}}}}
+
+= No metaphor family specified =
+{{Unsetprop|missingfam|Metaphor| Metaphor.Family|}}
+<ul>
+{{#arrayprint: missingfam ||@ |<li> [[@]] }}
+</ul>
+
+= No cultural scope specified =
+{{Unsetprop|missingscope|Metaphor|Has cultural scope|}}
+<ul>
+{{#arrayprint: missingscope ||@ |<li> [[@]] }}
+</ul>
+
+= No source frame specified =
+{{Unsetprop|missingsrc|Metaphor| Metaphor.Source frame|}}
+<ul>
+{{#arrayprint: missingsrc ||@ |<li> [[@]] }}
+</ul>
+
+= No target frame specified =
+{{Unsetprop|missingtg|Metaphor| Metaphor.Target frame|}}
+<ul>
+{{#arrayprint: missingtg ||@ |<li> [[@]] }}
+</ul>
+
+= No status specified =
+{{Unsetprop|missingstatus|Metaphor|Status|}}
+<ul>
+{{#arrayprint: missingstatus ||@ |<li> [[@]] }}
+</ul>
+
+= No role mappings defined =
+{{Unsetprop|missingrmaps|Metaphor|Mapping|}}
+<ul>
+{{#arrayprint: missingrmaps ||@ |<li> [[@]] }}
+</ul>
+
+= No aliases defined =
+{{Unsetprop|missingalias|Metaphor| Metaphor.Alias|}}
+<ul>
+{{#arrayprint: missingalias ||@ |<li> [[@]] }}
+</ul>
+
+= Metaphor type not specified =
+{{Unsetprop|missingtype|Metaphor| Metaphor.Type|}}
+<ul>
+{{#arrayprint: missingtype ||@ |<li> [[@]] }}
+</ul>
+
+= Metaphor level not specified =
+{{Unsetprop|missinglevel|Metaphor| Metaphor.Level|}}
+<ul>
+{{#arrayprint: missinglevel ||@ |<li> [[@]] }}
+</ul>
+
+= Entered by not specified =
+{{Unsetprop|missingeb|Metaphor|Entered by|}}
+<ul>
+{{#arrayprint: missingeb ||@ |<li> [[@]] }}
+</ul>
+
+= No entailments defined =
+{{Unsetprop|missingent|Metaphor|Entailment|}}
+<ul>
+{{#arrayprint: missingent ||@ |<li> [[@]] }}
+</ul>
+
+= No examples entered =
+{{Unsetprop|missingex|Metaphor|Example|}}
+<ul>
+{{#arrayprint: missingex ||@ |<li> [[@]] }}
+</ul>
+
+= No related metaphors entered =
+{{Unsetprop|missingrm|Metaphor|Related metaphor|}}
+<ul>
+{{#arrayprint: missingrm ||@ |<li> [[@]] }}
+</ul>
+
+= No lexical units entered =
+{{Unsetprop|missinglu|Metaphor|LUs|}}
+<ul>
+{{#arrayprint: missinglu ||@ |<li> [[@]] }}
+</ul>
+
+= No languages investigated for =
+{{Unsetprop|missinginv|Metaphor| Metaphor.Investigated for|}}
+<ul>
+{{#arrayprint: missinginv ||@ |<li> [[@]] }}
+</ul>

@@ -1,0 +1,78 @@
+{{Frame
+|Name gloss=health and remedy
+|Other aliases=cure, treatment
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دکتر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جراح
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پزشک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرستاران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرستار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معالجه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عمل جراحی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=درمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مراقبت های پزشکی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مصونیت دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دارویی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دوز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آنتی بیوتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=واکسن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عمل جراحی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پادزهر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دارونما
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تلقیح
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرهم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پماد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرص
+}}
+|LinkEnglish=Health treatment
+|Applicability=Persian
+}}

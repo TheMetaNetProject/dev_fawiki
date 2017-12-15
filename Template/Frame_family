@@ -1,0 +1,42 @@
+<noinclude>
+This is the "Frame family" template.
+It should be called in the following format:
+<pre>
+{{Frame family
+|is subfamily of=
+|FrameFamilyTag=
+|FrameFamilyStatus=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+{| class="wikitable"
+|- {{#if:{{{Name gloss|}}}| |style="display:none;"}}
+! Name Gloss
+| {{Printgloss|{{PAGENAME}}|{{{Name gloss|}}}}}{{#set:Frame family.Name gloss={{{Name gloss|}}}}}
+|-
+! is subfamily of
+| {{#ifeq:{{{is subfamily of|}}}||This is a top-level family.|{{#arraymap:{{{is subfamily of|}}}|,|x|[[Frame subfamily of::Frame family:x|x]]}}}}
+|-
+! Tags
+| {{#arraymap:{{{FrameFamilyTag|}}}|,|x|[[Tag::x]]}}
+|-
+! Status
+| {{#arraymap:{{{FrameFamilyStatus|}}}|,|x|[[Status::x]]}}
+|}
+'''Frames in this family:'''
+{{Frames in family|family={{FULLPAGENAME}}}}
+{{Frame subfamilies of|family={{FULLPAGENAME}}}}
+'''Relations between frames in this family:'''
+<div class="gviztab">
+{{#relationsgraph:framefamgrph||{{#ask: [[Category:Frame]] [[ Frame.Family::{{FULLPAGENAME}}]]
+| ?Related frame
+| format=array
+| sep= <SEP>
+}}||gv|}}
+</div>
+
+To view the list of all Frame families, click [[Frame Families|here]].
+{{#if:{{{LinkEnglish|}}}|[[en:{{{LinkEnglish|}}}]]{{#set:Corresponds to English={{{LinkEnglish|}}}}}|}}{{#if:{{{LinkSpanish|}}}|[[es:{{{LinkSpanish|}}}]]{{#set:Corresponds to Spanish={{{LinkSpanish|}}}}}|}}{{#if:{{{LinkPersian|}}}|[[fa:{{{LinkPersian|}}}]]{{#set:Corresponds to Persian={{{LinkPersian|}}}}}|}}{{#if:{{{LinkRussian|}}}|[[ru:{{{LinkRussian|}}}]]{{#set:Corresponds to Russian={{{LinkRussian|}}}}}|}}
+[[Category:Frame family]]
+</includeonly>

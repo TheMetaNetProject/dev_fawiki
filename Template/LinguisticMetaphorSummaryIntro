@@ -1,0 +1,18 @@
+<noinclude>
+This is the "LinguisiticMetaphorSummaryIntro" template.
+It should be called in the following format:
+<pre>
+{{LinguisticMetaphorSummaryIntro}}
+</pre>
+Edit the page to see the template text.  It starts the wiki table and prints headings for the LinguisticMetaphorSummary template.
+</noinclude><includeonly>{| class="wikitable sortable"
+! Linguistic Metaphor
+! Seed
+! Target Frame
+! Source Frame
+! Metaphor (method1)
+! Metaphor (method2)
+! Target Frame
+! Source Frame
+|-
+</includeonly>

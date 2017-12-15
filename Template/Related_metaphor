@@ -1,0 +1,25 @@
+<noinclude>
+This is the "Related metaphor" template.
+It should be called in the following format:
+<pre>
+{{Related metaphor
+|Related metaphor.Relation type=
+|Related metaphor.Name=
+|Related metaphor.Description=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+! Current Metaphor
+| {{PAGENAME}} {{#set:Related metaphor={{{Related metaphor.Relation type|}}};Metaphor:{{{Related metaphor.Name|}}};{{{Related metaphor.Description|}}}}}
+|-
+! Relation Type
+| {{{Related metaphor.Relation type|}}}
+|-
+! Related Metaphor
+| [[Metaphor:{{{Related metaphor.Name|}}}|{{{Related metaphor.Name|}}}]] 
+|-
+! Description
+| {{{Related metaphor.Description|}}}
+|}
+</includeonly>

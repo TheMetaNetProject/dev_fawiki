@@ -1,0 +1,48 @@
+{{Frame
+|Name gloss=Leech
+|Comments=Zalu is Persian for leech which corresponds with blood-sucking creature in English. I propose that the same frame be created in Persian under which zalu/leech can be categorized.
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=موجود زنده
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زالو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خون اشام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خون آشامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کنه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  زالو وار 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  کرم 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مکیدن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مکید 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  خون
+}}
+|LinkEnglish=Blood-sucking creature
+|Applicability=Persian
+}}

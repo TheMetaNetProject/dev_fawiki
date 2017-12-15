@@ -1,0 +1,8 @@
+{{Unsetprop|topfams|Metaphor family|Metaphor subfamily of}}
+{{#loop: i
+| 0
+| {{#arraysize:topfams}}
+| <nowiki/>
+{{#vardefine:fam|{{#arrayindex:topfams|{{#var:i}}}}}}
+{{Metaphor family tree|{{#var:fam}}|userparam=1}}
+}}

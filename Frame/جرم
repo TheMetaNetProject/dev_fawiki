@@ -1,0 +1,65 @@
+{{Frame
+|Name gloss=crime
+|Family=طرح های اخلاقیات
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جرم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جرم های
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جرم ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جنایت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جنایت های
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جنایت ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گناه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باندهای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باندها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بزهکار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجازات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قربانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قربانیان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقصیر
+}}
+|LinkEnglish=Crime
+|Applicability=Persian
+}}

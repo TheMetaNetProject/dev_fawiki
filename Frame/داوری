@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=Officiating
+|Description=to referee
+|Other aliases=قضاوت
+|Comments=The Persian term "davari" is to officiate (particularly in the context of sports) and judge (not in the case of courts/judicial settings, but in the sense of making a ruling in a small conflict or disagreement or evaluating  a situation or forming an opinion on something, these instances constitute the context in which "davari" is used. All the same the closest corresponding English frame is "judicial action."
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=داوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=داور این دیدار
+}}
+|LinkEnglish=Judicial action
+|Applicability=Persian
+}}

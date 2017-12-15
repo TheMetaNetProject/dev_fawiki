@@ -1,0 +1,32 @@
+{{Frame
+|Name gloss=increase of poverty
+|Comments=The frame translates directly into "the poor on the rise" but the name gloss has been translated as "increase of poverty." Poverty and poor are not the same thing. Please advise as to what should change, the frame name or name gloss.
+|Family=طرح های فقیر
+|Tags=Program sources
+|Status=in development, auto imported
+|Entered by=Sanam,
+|Last reviewed by=Aria Fani & Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=فقیر
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=رسیدگی مشکلات فقیران
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=فقیر بودن
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقرا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستضعف
+}}
+}}

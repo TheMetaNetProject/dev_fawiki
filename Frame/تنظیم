@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=regulation
+|Description=Regulation
+|Family=طرح مقررات
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تنظیم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تنظیمی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تنظیم کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهنمود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون
+}}
+|LinkEnglish=Regulation
+|Applicability=Persian
+}}

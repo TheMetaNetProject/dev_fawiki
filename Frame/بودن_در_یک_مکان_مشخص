@@ -1,0 +1,28 @@
+{{Frame
+|Name gloss=being in a location particular
+|Description=Being in_a particular location
+|Family=طرح های مکان,
+|Type=Frame
+|Status=in development
+|Entered by=Kouros
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=بودن در یک مکان
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کانون های
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کانون ها
+}}
+|LinkEnglish=Being at a location
+|Applicability=Persian
+}}

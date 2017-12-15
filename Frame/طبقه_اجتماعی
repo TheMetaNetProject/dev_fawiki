@@ -1,0 +1,182 @@
+{{Frame
+|Name gloss=Social Class
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=معیار طبقه اجتماعی
+|Role.Name gloss=social_class_scale
+}}{{Role
+|Role.Name=شخص در طبقه اجتماعی
+|Role.Name gloss=Person_in_Social_Class
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقشار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقشار ضعیف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قشر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طبقه اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طبقات اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طبقه بالا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طبقه پائین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طبقه فرودست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طبقه  بالادست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طبقه متوسط
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طبقه اشراف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طبقه اعیان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اغنیا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقرا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دارا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ندار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=داراها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ندارها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقشار کم درآمد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقشار پر درآمد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طبقه پایین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بالا‌نشین‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ازمابهتران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ثروتمند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ثروتمندان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ثروتمندها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خداداده‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اشراف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیچاره‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستضعف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستضعفان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستضعفان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محتاج
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محتاجین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محتاجان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستمند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عقب ماندن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عقب ماند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عقب مان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دستشان به دهانشان رسیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دستشان به دهانشان رسید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دستشان به دهانشان رس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دستشان به دهانشان نرسیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دستشان به دهانشان نرسید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دستشان به دهانشان نرس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بار خود را بستن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بار خود را بست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بار خود را بند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خود را بالا کشیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خود را بالا کشید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خود را بالا کش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منحول شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منحول شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منحول شو
+}}
+|LinkEnglish=Social class
+|Applicability=Persian
+}}

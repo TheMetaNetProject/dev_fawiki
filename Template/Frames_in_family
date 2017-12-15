@@ -1,0 +1,22 @@
+<noinclude>
+This is the "Frames in family" template.  For listing Frames in a given family.
+It should be called in the following format:
+<pre>
+{{Xs in family
+|family=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+Number of {{{X|}}}s: {{#ask: [[Category:Frame]] [[ Frame.Family::{{{family|}}}]]
+| format=count
+}}
+{{#ask: [[Category:Frame]] [[ Frame.Family::{{{family|}}}]]
+| ?=Frame
+| ?Has description=Description
+| ?Frame.FrameNet frame=FN Frame
+| ?LUs#Lemmas=LUs | +index=2
+| format=table
+| mainlabel=-
+| limit=500
+}}</includeonly>

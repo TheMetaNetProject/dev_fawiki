@@ -1,0 +1,14 @@
+This category uses the form [[Has default form::IARPATargetConcept]].
+
+Create or Edit a new Target Concept: {{#forminput:form=IARPATargetConcept|namespace=IConcept|autocomplete on category=IARPATargetConcept}}
+----
+{{#ask: [[Category:IARPATargetConcept]]
+|?HasConceptOwner=Owner
+|?HasConceptType=Type
+|?HasConceptGroup=Group
+|?HasConceptDefinition=Definition
+|?Is linked to from frame=Frames
+|format=table
+|sort=HasConceptGroup,HasConceptOwner,
+}}
+----

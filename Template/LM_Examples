@@ -1,0 +1,23 @@
+<noinclude>
+This is the "LMExamples" template.
+It should be called in the following format:
+<pre>
+{{LM Examples
+|lmid=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly><nowiki/>
+{{#get_db_data:db=metanetlm-db|from=sentence as s, LM_instance as lmi, document as d,LM as lm|where=lm.id={{{lmid|}}} AND lmi.LM_id=lm.id AND lmi.sentence_id=s.id AND s.document_id=d.id and d.lang='{{Lang|}}'|order by=d.uri,lm.nickname ASC|data=lmname=lm.nickname,stext=s.text,sprov=d.uri,sdname=d.name,sdcorp=d.corpus,lmiextractor=lmi.extractor
+}}<nowiki/>
+{{DISPLAYTITLE:LM {{#external_value:lmname}}}}<nowiki/>
+{| class="wikitable"
+! Text
+! Prov
+! Extractor {{#for_external_table:<nowiki/>
+{{!}}-
+{{!}} {{{stext}}}
+{{!}} {{{sprov}}} {{{sdname}}} {{{sdcorp}}}
+{{!}} {{{lmiextractor}}} }}
+|}
+</includeonly>

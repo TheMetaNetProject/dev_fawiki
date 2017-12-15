@@ -1,0 +1,34 @@
+{{Metaphor
+|Name gloss=Extremism in_political activity, is parasite
+|Aliases=
+|Comments=Examples are not semantically adequate
+
+No corresponding English metaphor found
+|Tags=governance metaphors,
+|Family=حکومت,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=بیماری
+|Target frame=تندروی
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a target subcase of
+|Related metaphor.Name=آسیب آفت است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=تندروی بیماری آفت در فعالیت سیاسی است.
+|Example.Gloss=extremeness illness-e parasite in activities political ast-cop.
+|Example.English translation=Extremeness in political activities is a parasite.
+}}{{Example
+|Example.Language=Persian
+|Example.Text=ما هم با شما موافقیم كه دو طرف، بلكه اكثر كسانی كه در این سال‌ها در ایران فعالیت سیاسی داشته‌اند به این بیماری- تندروی- و آفت گرفتار آمده‌اند
+|Example.Gloss=we also with you agree that two sides, also majority those that in this years in Iran activity political have had to this disease--extremism--and parasite afflicted have come
+|Example.English translation=We also agree with you that both sides, as well as majority of those who have been politically active in recent years in Iran have been afflicted by this disease and parasite: extremism
+}}
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

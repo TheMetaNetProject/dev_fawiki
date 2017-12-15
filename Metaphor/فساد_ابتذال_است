@@ -1,0 +1,33 @@
+{{Metaphor
+|Name gloss=Corruption is decay
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=فساد اخلاقی\اجتماعی،  فساد است
+}}
+|Tags=governance metaphors
+|Family=حکومت
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=ابتذال
+|Target frame=فساد
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=فساد دولت ها را مي پوساند
+|Example.Gloss=corruption governments decay
+|Example.English translation=Corruption causes governments to decay 
+|Example.Provenance=http://zaaren.blogspot.com/
+}}{{Example
+|Example.Language=Persian
+|Example.Text=ذهن مردم با فساد خراب می‌شود نه مبارزه با فسا
+|Example.Gloss=Mind masses with corruption decay becomes no battle with corruption
+|Example.English translation=The minds of the masses becomes decayed due to corruption, not counter-corruption battles
+|Example.Provenance=http://alef.ir/vdcb80b8grhbs8p.uiur.html?15txt
+}}
+|Entered by=Aria, Sanam
+|Last reviewed by=Aria Fani
+|Status=in development
+|LinkEnglish=CORRUPTION IS DECAY
+|Investigated for=Persian
+}}

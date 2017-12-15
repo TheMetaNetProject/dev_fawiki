@@ -1,0 +1,11 @@
+{{Glossary
+|Entry=Family
+|Description=Each frame can (optionally) be specified to be a member of one or more Frame families.  Similarly, each metaphor is (optionally) defined to be a member of one or more Metaphor families.
+
+Families are used to group related frames/metaphors together, e.g. for ease of analyzing a particular semantic domain or set of metaphors.    
+
+Lists of Frame Families and Metaphor Families can be accessed via links listed under the Metaphor Data Guide section of the Main page of the Wiki. 
+Clicking on a given family name provides access to a list of the frames/metaphors that have been specified to be members of that family, as well as a diagram that illustrates the defined relations between these  frames/metaphors.  For frame families, there is also a list of the LUs associated with each of the frames. 
+|Applies to=Metaphor & Frame
+|Entered by=Ellen
+}}

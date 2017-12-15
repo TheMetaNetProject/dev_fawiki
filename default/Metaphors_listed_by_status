@@ -1,0 +1,24 @@
+= in development =
+{{#ask: [[Category:Metaphor]] [[Status::in development]]
+| format=ul
+}}
+
+= proposed =
+{{#ask: [[Category:Metaphor]] [[Status::proposed]]
+| format=ul
+}}
+
+= reviewed =
+{{#ask: [[Category:Metaphor]] [[Status::reviewed]]
+| format=ul
+}}
+
+= experimentally validated  =
+{{#ask: [[Category:Metaphor]] [[Status::experimentally validated ]]
+| format=ul
+}}
+
+= contested =
+{{#ask: [[Category:Metaphor]] [[Status::contested]]
+| format=ul
+}}

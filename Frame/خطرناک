@@ -1,0 +1,56 @@
+{{Frame
+|Name gloss=Hazardous
+|Description=Dangerous
+|Other aliases=پرخطر
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مهلک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هولناک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به  مخاطره انداختن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به خطر افتادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انداز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انداخت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=افتاد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=افت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مخاطره آمیز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خطر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معرض خطر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مخاطره 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرخطر
+}}
+|LinkEnglish=Danger
+|LinkSpanish=Peligro
+|Applicability=Persian
+}}

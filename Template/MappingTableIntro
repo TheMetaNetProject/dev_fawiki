@@ -1,0 +1,15 @@
+<noinclude>
+This is the "MappingTableIntro" template.
+It should be called in the following format:
+<pre>
+{{MappingTableIntro}}
+</pre>
+Edit the page to see the template text.  It starts the wiki table and prints headings for the LinguisticMetaphorSummary template.
+</noinclude><includeonly>{| class="wikitable sortable"
+! Concept
+! Id
+! Owner
+! Words
+! Mapping Frames
+|-
+</includeonly>

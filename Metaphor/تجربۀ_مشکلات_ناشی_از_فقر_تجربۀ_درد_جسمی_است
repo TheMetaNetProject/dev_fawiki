@@ -1,0 +1,21 @@
+{{Metaphor
+|Name gloss=Experiencing problems caused by poverty is experiencing physical pain
+|Aliases=
+|Source frame=درد جسمی
+|Target frame=مشکلات فقیران
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=مشکلات ناشی از فقربیماری های جسمی هستنت
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=کانابیس باعث می شود درد فقر و بی کسی را برای مدتی فراموش کنیم
+|Example.Provenance=http://drkarbasi32.blogfa.com/cat-11.aspx
+}}
+|Entered by=Sanam and Aria
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

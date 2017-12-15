@@ -1,0 +1,40 @@
+{{Frame
+|Name gloss=Medicine
+|Comments=Has no corresponding English frame
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دارو 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  داروئی  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دارویی  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= داروها  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دوا  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=   داروی سنتی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  طب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  نسخه  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  داروخانه
+}}
+|Applicability=Persian
+}}

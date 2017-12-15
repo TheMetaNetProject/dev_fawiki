@@ -1,0 +1,151 @@
+{{Frame
+|Name gloss=Release liquid
+|Comments=According to the cultural information below, since the name in English Wiki is deceptive, the name in the Persian wiki may change to the following phrases
+خروج مایع/ تخلیه مایع/ رها سازی مایع
+
+|Family=طرح های وسعت مکان,
+|Type=Frame
+|Cultural information=From the cultural information in the English Wiki: The name of this is misleading, as it implies causation. The name Release_liquid is not meant to imply agentivity. It refers to any scenario where liquid is making it's way out of or away from its container or bounded region or out of an object containing liquid, whether causation is involved or not. Name may need changing.
+|Status=in development
+|Entered by=Sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=مهاربا مایعات
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=آب
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لبریز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالامال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رسوخ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رسوخ کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رسوخ می کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رسوخ میکن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رسوب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نشر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پاشیده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرشار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رخنه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رخنه می کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رخنه کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نفوذ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نفوذ می کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نفوذ کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شریان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جریان داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جریان داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جریان دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رها کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رها کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رها کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تخلیه کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تخلیه کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تخلیه کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تخلیه سازی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خالی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ول کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خروج
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فوران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتشار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سر رفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سر رفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سر رو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لبریز شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نشت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لبریز شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لبریز شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نشت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نشت کن
+}}
+|LinkEnglish=Release liquid
+|Applicability=Persian
+}}

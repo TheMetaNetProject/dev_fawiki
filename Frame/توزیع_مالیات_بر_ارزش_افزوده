@@ -1,0 +1,27 @@
+{{Frame
+|Name gloss=distribution of_value-added tax
+|Description=A value-added tax is a form of consumption tax
+|Other aliases=مالیات غیر مستقیمی
+|Comments=This is the Iranian government website for "National Tax Administration" that explains the concept of value-added tax in Persian: http://www.vat.ir/conceptvat_htm_f.htm#index2
+Incidentally the English frame does not fully correspond with the current Persian frame.
+|Family=طرحواره مالیات
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مصرف کننده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهای خرید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مصرف مالیات
+}}
+|LinkEnglish=Taxation
+}}

@@ -1,0 +1,36 @@
+{{Metaphor
+|Name gloss=CAPABILITY KNOW-INF CAPABILITY SEE-INF AST-COP
+|Aliases={{Metaphor.Alias}}
+|Metaphor Level=General
+|Metaphor Type=Entailed
+|Source frame=دیدن
+|Target frame=دانستن
+|Mappings={{Mapping
+|Target=موجودی که می داند
+|Source=بیننده
+}}{{Mapping
+|Target=دانش
+|Source=جسم(شیء) دیده شده
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=دانستن دیدن است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=سمیه جان ببین مادرت چه میگه من که نمی فهمم
+|Example.Gloss=Samiah dear see mother what says, I do not understand
+|Example.English translation=Dear Samiah, see what your mother is saying; I do not understand
+}}{{Example
+|Example.Language=Persian
+|Example.Text=خدایا بی لطفی مرا می بینی؟ می بینی چه قدر به این دنیا وابسته شدم؟
+|Example.Gloss=God ungratefulness of_me see? See what extent to this world dependent i_am
+|Example.English translation=God, do you see my ungratefulness? Do you see to what extent I am attached to this world?
+}}
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani, Reza
+|Status=in development
+|LinkEnglish=ABILITY TO KNOW IS ABILITY TO SEE
+|Investigated for=Persian
+}}

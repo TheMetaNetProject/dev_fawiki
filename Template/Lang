@@ -1,0 +1,7 @@
+<noinclude>
+This is the "Lang" template.  It returns the language code of the current wiki so that parser functions can act conditionally on the basis of the wiki's language.  The return value is specified manually.  If the value en is passed in as the first argument, the template returns the name of the language in English.  Note than when creating versions of this template, it is the last two arguments of the ifeq parser function that should be customize.
+<pre>
+{{Lang|en}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{{#ifeq:{{{1|}}}|en|Persian|fa}}</includeonly>

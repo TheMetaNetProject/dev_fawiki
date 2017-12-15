@@ -1,0 +1,42 @@
+{{Frame
+|Name gloss=bourse
+|Description=Stock exchange
+|Comments=The current frame was formerly linked with the English frame "Stockholders" which does not fully correspond with stock exchange (bourse) but is the closest found
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, & Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بورس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بورس ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بورس بازی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سهام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بورس اوراق بهادار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عرضه و تقاضا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمایه‌گذار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمایه‌گذاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خرید و فروش
+}}
+|Applicability=Persian
+}}

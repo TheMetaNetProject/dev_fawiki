@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=Sequence_of consecutive actions are sequence_of consecutive movements
+|Aliases=
+|Family=ساختار واقعه
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=حرکت در مسیر راه
+|Target frame=سلسله اعمال متوالی است
+|Mappings={{Mapping
+|Target=عمل کننده
+|Source=حرکت کننده
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is an entailment of
+|Related metaphor.Name=عمل، حرکت ارادی در راستای مسیر است
+}}
+|Entailments=
+|Examples=
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani
+|Status=in development
+|LinkEnglish=SEQUENCE OF ACTIONS IS A SEQUENCE OF MOVEMENTS
+|Investigated for=Persian
+}}

@@ -1,0 +1,19 @@
+<noinclude>
+This is the "Mapping" template..
+It should be called in the following format from within the Metaphor template:
+<pre>
+{{Mapping
+|Target=
+|Source=
+|Comment=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{|{{#if:{{{Comment|}}}|class="mw-collapsible mw-collapsed wikitable"|class="wikitable"}}
+|-
+| width="200pt" | {{{Target|}}} {{#set:Mapping={{{Target|}}};{{{Source|}}};{{{Comment|}}}}}
+| <=
+| width="300pt" | {{{Source|}}}
+|- {{#if:{{{Comment|}}}|style="color:DimGrey;"|style="display:none;"}}
+| colspan="3" | {{{Comment|}}}
+|}</includeonly>

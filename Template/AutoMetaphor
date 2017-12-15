@@ -1,0 +1,119 @@
+<noinclude>
+This is the "AutoMetaphor" template.
+It should be called in the following format:
+<pre>
+{{AutoMetaphor
+|Name gloss=
+|Aliases={{Metaphor.Alias}}
+|Comments=
+|Family=
+|Tags=
+|Metaphor Level=
+|Metaphor Type=
+|Experiential basis=
+|Investigated for=
+|Source frame=
+|Target frame=
+|Mappings={{Mapping}}
+|Related metaphors={{Related metaphor}}
+|Entailments={{Entailment}}
+|Examples={{Example}}
+|Entered by=
+|Last reviewed by=
+|Status=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+|- {{#if:{{{Name gloss|}}}| |style="display:none;"}}
+! Name Gloss
+| {{Printgloss|{{PAGENAME}}|{{{Name gloss|}}}}}{{#set:Metaphor.Name gloss={{{Name gloss|}}}}}
+|-
+! Aliases
+| {{{Aliases}}}
+|-
+! Comments
+| [[Metaphor.Comments::{{{Comments|}}}]]
+|-
+! Tags
+| {{#arraymap:{{{Tags|}}}|,|x|[[Tag::x]]}}
+|-
+! Family
+| {{#arraymap:{{{Family|}}}|,|x|[[Metaphor.Family::Metaphor family:x|x]]}}
+|-
+! Metaphor Level
+| [[Metaphor.Level::{{{Metaphor Level|}}}]]
+|-
+! Metaphor Type
+| {{#arraymap:{{{Metaphor Type|}}}|,|x|[[Metaphor.Type::x]]}}
+|-
+! Experiential Basis
+| [[Metaphor.Experiential basis::{{{Experiential basis|}}}]]
+|}
+{| class="wikitable"
+! Source Frame
+| [[Metaphor.Source frame::{{{Source frame|}}}|{{{Source frame|}}}]]{{#ifeq:{{{Source frame|}}}|||{{#info:'''Roles:'''{{#ask: [[{{{Source frame|}}}]]  [[Role::+]]
+| ?Role= | +index=1
+| mainlabel=-
+| heading=none}}}}}}
+|-
+! Target Frame
+| [[Metaphor.Target frame::{{{Target frame|}}}|{{{Target frame|}}}]]{{#ifeq:{{{Target frame|}}}|||{{#info:'''Roles:'''{{#ask: [[{{{Target frame|}}}]]  [[Role::+]]
+| ?Role= | +index=1
+| mainlabel=-
+| heading=none}}}}}}
+|}
+{{#set:Metaphor.Investigated for={{{Investigated for|}}}}}
+
+'''Mappings:'''
+{{{Mappings}}}
+
+'''Related Metaphors:'''
+{{{Related metaphors}}}
+
+'''Entailments:'''
+{{{Entailments}}}
+
+'''Examples:'''
+{{{Examples}}}
+
+----
+{| class="wikitable"
+! Entered by
+| {{#arraymap:{{{Entered by|}}}|,|x|[[Entered by::x]]}}
+|-
+! Last reviewed by
+| [[Last reviewed by::{{{Last reviewed by|}}}]]
+|-
+! Status
+| {{#arraymap:{{{Status|}}}|,|x|[[Status::x]]}}
+|}
+----
+'''Graph of related metaphors:'''
+<div id="metaphorrelationstabs">
+<ul>
+<li>[[#tgschemtab|Target frame]]
+<li>[[#metaphortab|Metaphors]]
+<li>[[#srcschemtab|Source frame]]
+</ul>
+<div id="tgschemtab" class="gviztab">
+{{#relationsgraph:meta4tggrph|Frame:{{{Target frame|}}}|{{GetFrameRelationsForMetaphor|{{FULLPAGENAME}}|Target}}||gv||AutoFrame}}
+</div>
+<div id="metaphortab" class="gviztab">
+{{#relationsgraph:meta4graph|{{FULLPAGENAME}}|{{#ask: [[Category:Metaphor]] [[Related metaphor:: ?; {{FULLPAGENAME}}; ?]]
+| ?Related metaphor
+| format = array
+| sep= <SEP>
+}}|{{#ask: [[{{FULLPAGENAME}}]]
+| ?Related metaphor
+| format=array
+| sep= <SEP>
+}}|gv|shape="box"|AutoMetaphor}}
+</div>
+<div id="srcschemtab" class="gviztab">
+{{#relationsgraph:meta4srcgrph|Frame:{{{Source frame|}}}|{{GetFrameRelationsForMetaphor|{{FULLPAGENAME}}|Source}}||gv||AutoFrame}}
+</div>
+</div>
+
+[[Category:AutoMetaphor]]
+</includeonly>

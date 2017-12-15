@@ -1,0 +1,25 @@
+{{Frame
+|Name gloss=bad_fortune
+|Description=پیش آمدن حادثه یا شرایطی ناگوار Unexpected negative events or circumstances
+|Other aliases=بدشانسی
+|Family=طرح های ضرری,
+|Type=Frame
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدبیاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شوربختی
+}}{{LUs
+|LUs.Language=Persian
+}}
+|LinkEnglish=Misfortune
+|Applicability=Persian
+}}

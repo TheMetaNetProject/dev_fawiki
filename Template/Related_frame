@@ -1,0 +1,28 @@
+<noinclude>
+This is the "Related frame" template.
+It should be called in the following format from within the Frame template:
+<pre>
+{{Related frame
+|Related frame.Name=
+|Related frame.Relation type=
+|Related frame.Description=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude>
+<includeonly>{| class="wikitable"
+! Current Frame:
+|scope="col" width="300" | {{PAGENAME}} {{#set:Related frame={{{Related frame.Relation type|}}};Frame:{{{Related frame.Name|}}};{{{Related frame.Description|}}}}}{{#ifeq:{{{Related frame.Relation type|}}}|is subcase of|{{#set:Is a subcase of=Frame:{{{Related frame.Name|}}}}}|}}{{#ifeq:{{{Related frame.Relation type|}}}|makes use of|{{#set:Makes use of=Frame:{{{Related frame.Name|}}}}}|}}{{#ifeq:{{{Related frame.Relation type|}}}|incorporates as a role|{{#set:Incorporates as a role=Frame:{{{Related frame.Name|}}}}}|}}
+|-
+! Relation Type:
+| {{{Related frame.Relation type|}}} 
+|-
+! Related Frame:
+| [[:Frame:{{{Related frame.Name|}}}|{{{Related frame.Name|}}}]]{{#info:'''Roles:'''{{#ask: [[:Frame:{{{Related frame.Name|}}}]]  [[Role::+]]
+| ?Role= | +index=1
+| mainlabel=-
+| heading=none}}}}
+|-
+! Comments:
+| {{{Related frame.Description|}}}
+|}</includeonly>

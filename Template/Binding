@@ -1,0 +1,16 @@
+<noinclude>
+This is the "Binding" template.
+It should be called in the following format:
+<pre>
+{{Binding
+|Binding.Local role=
+|Binding.Bound role=
+}}
+</pre>
+Note that the role names should be in the Frame.Role format so as to be able to resolve the
+role's location.
+Edit the page to see the template text.
+</noinclude>
+<includeonly>{| class="wikitable" style="margin: 0px 2em 2px;"
+| scope="col" width="300"| {{{Binding.Local role|}}}={{{Binding.Bound role|}}} {{#set:Binding={{{Binding.Local role|}}};{{{Binding.Bound role|}}}}}
+|}</includeonly>

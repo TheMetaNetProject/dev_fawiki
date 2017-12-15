@@ -1,0 +1,14 @@
+{{MetaRC
+|MetaRCGroup=SubcaseOfFramesRelatedByCM
+|MetaRCDescription=The target and source frames are subcases of a CMs target and source frames, respectively.
+|MetaRCComments=getcmsfromsubcase
+|MetaRCScore=0.7
+|MetaRCQueryCode=SELECT DISTINCT ?cm WHERE {
+        ?tframe rdf:type mo:Frame .
+        ?sframe rdf:type mo:Frame .
+        ?cm mo:hasTargetFrame ?itframe .
+        ?cm mo:hasSourceFrame ?isframe .
+        ?tframe mo:isSubCaseOfFrame* ?itframe .
+        ?sframe mo:isSubCaseOfFrame* ?isframe .
+}
+}}

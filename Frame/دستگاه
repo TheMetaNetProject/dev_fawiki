@@ -1,0 +1,91 @@
+{{Frame
+|Name gloss=machine
+|Description=System, organ
+|Comments=The Persian frame "dastgah" has wide ranging meanings. dastgah-i tanasuli for instance means "sex organ," Dastgah-i musiqi is a musical model system, in other instances it just means machinery, a mechanized system
+|Family=طرح های وجودی
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza & Aria Fani,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=موجود بی جان
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=موجود
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دستگاه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ماشین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چرخ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چرخ ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چرخ های
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چرخهای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دستگاه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تدبیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ماشين
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دستگاه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ماشين كردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=با ماشين رفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چرخ دنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قرقره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=میل لنگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیچ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مهره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تعمیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عمل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تعمیرات
+}}
+|LinkEnglish=System
+|Applicability=Persian
+}}

@@ -1,0 +1,113 @@
+{{Frame
+|Name gloss=Nation
+|Description=Nation
+|Comments=Beside the current frame, the following Persian frame is linked with "NATION" in the English Wiki. مردم In addition both Persian frames are near synonyms.
+|Family=طرح های حکومت,
+|Type=Frame
+|Status=in development
+|Entered by=Aria, Sanam
+|Last reviewed by=Aria Fani, Reza
+|Roles={{Role
+|Role.Name=کل ملت
+|Role.Name gloss=entire nation
+}}{{Role
+|Role.Name=منطقه جغرافیایی ملت
+|Role.Name gloss=nation geographic region
+}}{{Role
+|Role.Name=منطقها عضو ملت
+|Role.Name gloss=regions member nation
+}}{{Role
+|Role.Name=حکومت ملی
+|Role.Name gloss=national government
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=حکومت
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملی‌گرایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملي‌گرایي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملت واحد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملت‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملل اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملت‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملّی‌گرایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملّت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امّت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=أمم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توده‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اتحاّد ملل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملل متحد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملل متّحد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=متحد کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=متحد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=متحد کن
+}}
+|LinkEnglish=Nation
+|Applicability=Persian
+}}

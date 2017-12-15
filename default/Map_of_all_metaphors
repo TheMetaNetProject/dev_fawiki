@@ -1,0 +1,7 @@
+<div class="gviztab">
+{{#relationsgraph:allm4sgraph||{{#ask: [[Category:Metaphor]]
+| ?Related metaphor
+| format=array
+| sep= <SEP>
+}}||gv|shape="box"|suppressranks}}
+</div>

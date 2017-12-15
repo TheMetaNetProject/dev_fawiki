@@ -1,0 +1,1 @@
+<div style="clear: {{{clear|both}}}; margin-bottom: .5em; float: {{{align|none}}}; {{#ifeq: {{lc:{{{align|}}}}} | right | margin-left:2.5em; | {{#ifeq: {{lc:{{{align|}}}}} | left | margin-right:2.5em; | <!-- align=none --> }} }} width: {{{width|auto}}};" {{#if:{{{limit|}}}|class="toclimit-{{{limit|}}}"}}>__TOC__</div>

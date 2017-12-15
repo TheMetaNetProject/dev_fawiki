@@ -1,0 +1,19 @@
+{{Frame
+|Name gloss=Expansion_of defined zone
+|Comments=no english equivalent found
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=منطقه محدود
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حیطه ، پوشش
+}}
+}}

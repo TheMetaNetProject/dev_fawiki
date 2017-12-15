@@ -1,0 +1,85 @@
+{{Frame
+|Name gloss=Confrontation_with educational problems
+|Description=Addressing problems pertaining to education
+|Comments=Education broadly corresponds with this frame
+|Family=طرحواره امکان تحصیل
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=محرومیت های تحصیلات
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مواجهه با مشکلات تحصیلی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مواجهه با 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مواجهه بودن با 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مواجهه باش با 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مواجهه بود با 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکل تحصیلی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکل داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکل داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکل دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقابله با مشکلات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معضلات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحصیلات عالی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آموزشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آموزش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دانشجو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دانشجویان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حل کردن مشکلات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حل کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حل کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برطرف کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برطرف کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برطرف کن
+}}
+|LinkEnglish=Education
+}}

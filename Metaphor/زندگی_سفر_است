@@ -1,0 +1,82 @@
+{{Metaphor
+|Name gloss=LIFE JOURNEY AST-COP
+|Aliases=
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=سفر
+|Target frame=زندگی
+|Mappings={{Mapping
+|Target=شخص_زنده
+|Source=مسافر
+}}{{Mapping
+|Target=مرگ_شخص
+|Source=پایان_راه
+}}{{Mapping
+|Target=به_دنیا_آمدن_شخص
+|Source=ابتدای_راه
+}}{{Mapping
+|Target=دلیل_زندگی
+|Source=قصد_سفر
+|Comment=قصد فریم مخصوص می خواهد
+}}{{Mapping
+|Target=همسفر
+|Source=همسر
+|Comment=family or any ingroup member for long life commitment
+}}{{Mapping
+|Target=سبک_زندگی
+|Source=مسیر_زندگی
+}}{{Mapping
+|Target=مشکلات_زندگی
+|Source=موانع_راه
+}}{{Mapping
+|Target=سختی_زندگی
+|Source=پستی_بلندیهای_راه
+|Comment=Caused by natural forces.  "the up and downs (hills) of the road" as hardships of life
+}}{{Mapping
+|Target=هدف_اصلی_زندگی
+|Source=مقصد_سفر
+}}{{Mapping
+|Target=اشخاص-نزدیک-در-زندگی
+|Source=رفیق_سفر
+|Comment=Journy_Companion fram is different than Hamsafar. Journy Companion hols less responsibility therefore less acountibility and commintment to stay until the end
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=مشکلات زندگی، موانع بر سر راه هستند
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=همسفرت شدم که تا پایان راه زندگی با هم باشیم.
+|Example.Gloss=HAMSAFAR-2sg.possbecome.past-1sg ke(so) until end-e path life with-gather (together) be.1pl
+|Example.English translation=I became your companion so we can be together until the end of [our] life
+|Example.Provenance=gigisheytonak.blogfa.com
+|Example.Comments=Hamsafar (lit. one who embarks on the same journey with you) immidiately is understood as life partner and it cannot be understood as any other types of companionship when it is in the context of LIFE AS JOURNEY
+}}{{Example
+|Example.Language=Persian
+|Example.Text=با تو آغاز نکردم که روزی به پایان برسانم.
+|Example.English translation=I did not begin (the road) with you to reach it to the end one day
+|Example.Provenance=www.cloob.com
+|Example.Comments=A sentence was taken from a paragraph that involves linguistic metaphors related to the metaphor of Life as journy such as 
+از آغاز تا به امروز عاشقانه با تو مانده ام ای همسفر من در جاده های نفسگیر زندگی. 
+From the begenning until today I stayed with you "lovingly" my "hamsafar" in this breath taking life roads
+}}{{Example
+|Example.Language=Persian
+|Example.Text=تا چند صباحی دیگر شاید پایان راه زندگی ام باشد
+|Example.Gloss=till little while left possible end road life mine be
+|Example.English translation=Possibly, all but a short while remains till the end of life's road
+|Example.Provenance=www.nazanin10.blogfa.com
+}}{{Example
+|Example.Language=Persian
+|Example.Text=برای تویی که سالهاست همراه زندگی ام شده ای
+|Example.Gloss=for you_who that years companion life my become
+|Example.English translation= Dedicated to you, for you have become the companion of my life for years  
+|Example.Provenance=http://manvaninigooloo.persianblog.ir/post/138/
+|Example.Annotation=The key term here is "ham-rah" (one who accompanies you on a journey, a path) which implies that life is a journey
+}}
+|Entered by=Aria and Sanam
+|Last reviewed by=Aria Fani
+|Status=in development
+|LinkEnglish=LIFE IS A JOURNEY
+|Investigated for=Persian
+}}

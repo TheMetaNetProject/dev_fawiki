@@ -1,0 +1,10 @@
+<noinclude>
+This is the "SearchFramesForLemma" template.
+It should be called in the following format:
+<pre>
+{{SearchFramesForLemma
+|Lemma=eat.v|format=ul|save as property=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{{#ask: [[Lexical unit of::+]] [[Has lemma::{{{Lemma|}}}]]|mainlabel=-|? Lexical unit of=|format=array|name=framelist}}{{#arrayunique:framelist}}{{#ifeq:{{{format|}}}|ul|<ul>{{#arrayprint:framelist||@@@@|<li>[[@@@@|{{#sub:@@@@|7}}]]</li>}}</ul>|{{#arrayprint:framelist}}}}{{#ifeq:{{{save as property|}}}|||{{#arraymap:{{#arrayprint:framelist}}|,|@@@@|{{#set:{{{save as property|}}}=@@@@}}}}}}{{#clear_external_data:}}</includeonly>

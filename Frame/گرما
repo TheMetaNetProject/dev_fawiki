@@ -1,0 +1,40 @@
+{{Frame
+|Name gloss=warmth
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گرما
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حرارت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گرمی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گرمایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گرما داشتتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گرما داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گرما دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گرما بخش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گرمازا
+}}
+|LinkEnglish=Heat
+|Applicability=Persian
+}}

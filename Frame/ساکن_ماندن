@@ -1,0 +1,50 @@
+{{Frame
+|Name gloss=Remain immobile
+|Description=stagnancy ,immobile, sedentary
+|Comments=No corresponding English frame was found
+|Type=Frame
+|Status=in development
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازماندن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ماندن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رکود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساکن ماندن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساکن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساکن ماند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساکن مان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی‌ حرکت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ایستا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حرکت نکرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حرکت نکن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حرکت نکردن
+}}
+|Applicability=Persian
+}}

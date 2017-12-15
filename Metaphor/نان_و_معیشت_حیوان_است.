@@ -1,0 +1,27 @@
+{{Metaphor
+|Name gloss=Bread and livelihoods animal ast-COP.
+|Aliases=
+|Family=استعاره های فقر,
+|Metaphor Type=Composed/complex
+|Source frame=حیوان
+|Target frame=نان و معیشت
+|Mappings={{Mapping
+|Target=نان و معیشت
+|Source=حیوان
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=برطرف کردن مشکلات اجتماعیدرمان بیماری جسمیاست
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=نان و معیشت قلب تپنده دموکراسی است.
+|Example.Gloss=Bread and livelihoods the beating heart of democrasy is.
+|Example.English translation=Bread and livelihoods are the beating heart of democracy.
+}}
+|Entered by=Reza
+|Status=in development
+|LinkEnglish=POVERTY IS A FIERCE CREATURE
+|Investigated for=Persian
+}}

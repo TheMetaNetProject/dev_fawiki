@@ -1,0 +1,121 @@
+{{Frame
+|Name gloss=government
+|Description=Government
+|Family=طرح حکومت
+|Type=Frame
+|Status=in development
+|Entered by=Sanam, Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=آدم
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم می کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محکوم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت می کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرماندار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رئيس جمهور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کنگره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ولایت فقیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقام معظم رهبری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ولی‌ فقیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ولی‌ امر مسلمین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقام رهبری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رهبر انقلاب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت اسلامی ایران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دولت جمهوری اسلامی ایران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزیران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشاور ریاست جمهور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشاوران 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارمندان ارشد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقام‌های ارشد نظام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمیت ملی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منافع ملی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتدار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومتداری
+}}
+|LinkEnglish=Government
+|Applicability=Persian
+}}

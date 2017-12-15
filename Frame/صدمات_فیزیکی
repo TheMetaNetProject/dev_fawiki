@@ -1,0 +1,51 @@
+{{Frame
+|Name gloss=Physical injuries
+|Description=Physical harm
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Sanam
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدمه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدمه پذیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدمه های
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدمه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدمه میزند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدمه می زند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فلج کننده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آسیب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آسیب پذیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیانبار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیان بار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مصدوم
+}}
+|LinkEnglish=Physical harm
+}}

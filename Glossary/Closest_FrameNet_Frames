@@ -1,0 +1,12 @@
+{{Glossary
+|Entry=Closest FrameNet Frames
+|Description=This is an optional field in the wiki Frame page that provides a live link to one or more FrameNet frames.   In order for this link to work, the name listed must match that of an existing FrameNet frame.  
+
+When a FrameNet frame is specified within a frame, equivalent FrameNet roles (FE's, in FrameNet terminology) may be specified for the roles defined in the 'Roles' section of the frame. These specifications require manual entry. See [[Role]].
+
+Additionally, there will be an automatically-added entry in the 'Lexical Units in Related Frames' section of the frame, indicating which lexical units are currently listed in the closest FrameNet frame(s).
+|Applies to=Frame
+|Utility=Wiki
+|Entered by=Elise,
+|Last reviewed by=Ellen,
+}}

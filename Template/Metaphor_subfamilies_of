@@ -1,0 +1,20 @@
+<noinclude>
+This is the "Metaphor subfamilies of" template.  Given a metaphor family, it returns a list of that family's subfamilies.
+
+It should be called in the following format:
+<pre>
+{{Metaphor subfamilies of
+|family=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+{{#ifexpr:{{#ask:[[Category:Metaphor family]] [[Metaphor subfamily of::{{{family|}}}]]|format=count}} > 0|=Subfamilies of this metaphor family=}}
+{{#ask: [[Category:Metaphor family]] [[Metaphor subfamily of::{{{family|}}}]]
+| format=template
+| template=Metaphor family tree
+| limit=100
+| link=none
+| userparam=2
+}}
+</includeonly>

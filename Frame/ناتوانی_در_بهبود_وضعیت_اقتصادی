@@ -1,0 +1,72 @@
+{{Frame
+|Name gloss=Inability_ to improve economic condition
+|Description=Improving economic status
+|Comments=No corresponding English frame found for the current Persian frame
+The first part of the Persian frame has been changed: from /natavanai/ to /natavani/ which is more common and sounds better in Persian language
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Last reviewed by=Aria Fani,  Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=تغییر وضعیت
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دست و پا زدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دست و پا زد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دست و پا زن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ناتوانی در بهبود وضعیت اقتصادی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ناتوانی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= بهبود وضعیت اقتصادی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضعیت اقتصادی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبودی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موقعیت اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارتقاء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدم کارآیی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رخوت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سستی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ناکارآمدی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انفعال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبود پیدا کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبود پیدا کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بهبود پیدا کن
+}}
+}}

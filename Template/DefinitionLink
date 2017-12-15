@@ -1,0 +1,9 @@
+<noinclude>
+This is the "GlossaryLink" template which is used on the Glossary page to show
+glossary terms as links to definitions on the same page.
+It should be called in the following format:
+<pre>
+{{GlossaryLink|term}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>[[#{{{1|}}}|{{{1|}}}]]</includeonly>

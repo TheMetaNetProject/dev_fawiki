@@ -1,0 +1,215 @@
+{{Frame
+|Name gloss=inequality equality
+|Description=inequality equality
+|Comments=No corresponding English frame found for the Persian frame The closest English was Economic difficulty
+|Family=طرح های فقر,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=برابری
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=ئا برابری سیاسی
+|Related frame.Description=Politic equality
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شکاف طبقاتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خط فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدم تساوی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدم برابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عامل نابرابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری حاکم بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری حاکم بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری حاکم باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تهیدستی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فلاکت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدم بهره مندی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خطّ فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر خط فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر خطّ فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر خطّ فقر زندگی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر خطّ فقر زندگی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر خطّ فقر زندگی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر خطّ فقر بسر بردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر خطّ فقر بسر برد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر خطّ فقر بسر بر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض‌های
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض‌های اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض‌های جنسیتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شریان‌های مالی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بسترهای اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض قایل شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض قایل شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض قایل شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض قائل شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض قائل شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض قائل شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض‌ها را از میان بردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض‌ها را از میان برد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض‌ها را از میان بر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض‌ها را برداشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض‌ها را برداشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض‌ها را بردار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفع تبعیض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفع تبعیض کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفع تبعیض کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفع تبعیض کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی‌‌پولی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقیر 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= وضعیت مالی خراب بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= وضعیت مالی خراب بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= وضعیت مالی خراب باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= وضعیت مالی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= فقیران  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= فقرا 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تهیدستان 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تهیدست 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= محرومیّت‌ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= محرومیت‌ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= محرومیّت 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در وضعیت مالی بدی بسر  بردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در وضعیت مالی بدی بسر  برد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در وضعیت مالی بدی بسر  بر
+}}
+|Applicability=Persian
+}}

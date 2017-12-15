@@ -1,0 +1,19 @@
+<noinclude>
+This is the "Frame family tree" template, which can be recursively called to flesh out a frame family tree.
+
+This template should be called with the following format
+<pre>
+{{Frame family tree|1=family|userparam=}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+<!--display the frames of this family -->
+{{#loop:i|0|{{{userparam|}}}|=}} [[{{{1|}}}|{{#replace:{{{1|}}}|Frame_family:|}}]] {{#loop:i|0|{{{userparam|}}}|=}}
+{{Xs in family|X=Frame|family={{{1|}}}}}
+{{#ask: [[Category:Frame family]] [[Frame subfamily of::{{{1|}}}]]
+| link=none
+| format=template
+| template=Frame family tree
+| userparam={{#expr:{{{userparam|}}}+1}}
+| limit=100
+}}</includeonly>

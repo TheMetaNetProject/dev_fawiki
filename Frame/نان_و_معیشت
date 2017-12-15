@@ -1,0 +1,167 @@
+{{Frame
+|Name gloss=bread and livelihoods
+|Comments=The English frame "Employment" does not fully correspond with the Persian frame.
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=نا‌ن آور
+|Role.Name gloss=breadwinner
+}}{{Role
+|Role.Name gloss=breadwinner
+}}{{Role
+|Role.Name=نا‌ن خور
+|Role.Name gloss=breat eater
+|Role.Definition=The oppostie of breadwinner (economically) dependent
+}}{{Role
+|Role.Name=نا‌ن بر
+}}{{Role
+|Role.Name=نا‌ن بری
+|Role.Name gloss=cutting bread
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نا‌ن خور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نا‌ن بری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نا‌ن بری کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نا‌ن آور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نا‌ن خورها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نا‌ن آوران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معاش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نا‌ن بری کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نا‌ن بری کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نان را آجر کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نان را آجر کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نان را آجر کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نان توی سفره گذاشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نان توی سفره گذاشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نان توی سفره گذار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خرجی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خرج و برج
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عائله مند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عائله مندان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روزی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رزق و روزی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روزی درآوردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روزی درآورد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روزی درآور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روزی ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روزی رسان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معیشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تلاش برای معیشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دنبال روزی بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دنبال روزی بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دنبال روزی باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غذا 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خوراک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پوشاک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرپناه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسکن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوت لایموت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخور نمیری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخورنمیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سفره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کلبه
+}}
+|LinkEnglish=Employment
+|Applicability=Persian
+}}

@@ -1,0 +1,12 @@
+{{Glossary
+|Entry=Binding
+|Description=A binding is a circuit that links two or more entities. Types of bindings include role-filler and entity-to-entity bindings (e.g., anaphora). There is also a binding between the entity created by the role-filler binding and a role in an x-schema.
+
+Within Frame pages, the Bindings field is used to specify bindings between a given role in the current frame and one or more roles in the Frame(s) listed in the "Related Frames" block.  Dot notation is used to specify the Related frame role. The binding relation itself is specified using a "=" sign.  
+
+For instance, if the current frame is "Self propelled motion" (which includes a 'self_mover' role), and a related frame is "Action" (which includes an 'actor' role), a relevant binding would be:  self_mover = Action.actor
+|Applies to=Frame
+|Notation='''='''
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}

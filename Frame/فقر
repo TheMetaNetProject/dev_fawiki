@@ -1,0 +1,190 @@
+{{Frame
+|Name gloss=Poverty
+|Other aliases=تجربه فقر
+|Family=طرح های فقر
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=شرایط اقتصادی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقر اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گرسنگی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گرانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدبختی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نرخ تورم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توزیع ثروت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقر نسبی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقر مطلق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محرومیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشکلات فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیکاری و فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تنگدستی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بینوایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تهی دستی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی‌‌پولی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محرومیّت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محرومیت‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محرومیّت‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تهیدست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تهیدستان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقرا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقیران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضعیت مالی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضعیت مالی خراب بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضعیت مالی خراب بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وضعیت مالی خراب باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در وضعیت مالی بدی بسر بردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در وضعیت مالی بدی بسر برد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در وضعیت بدی مالی بسر بر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خط فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر خط فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیر خطّ فقر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در زیر خط فقر زندگی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در زیر خط فقر زندگی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در زیر خط فقر زندگی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در زیر خطّ فقر بسر بردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در زیر خطّ فقر بسر برد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در زیر خطّ فقر بسر بر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ثروت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ثروتمند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ثروتمندان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اغنیا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از ما بهتران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بالای شهر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بالاشهری‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پایین شهر‌ی‌ها ‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ضعفا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بدبخت وبیچاره‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طبقه ضعیف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستضعف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستضعفان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پایین شهر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پائین شهر‌ی‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پائین شهر‌
+}}
+|LinkEnglish=Poverty
+}}

@@ -1,0 +1,26 @@
+{{Frame
+|Name gloss=Demon
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیو ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیو منشا نه‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دد
+}}
+|LinkEnglish=Fierce animal
+|Applicability=Persian
+}}

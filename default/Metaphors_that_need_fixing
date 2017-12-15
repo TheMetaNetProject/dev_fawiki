@@ -1,0 +1,29 @@
+= Related metaphors with no relation type specified =
+{{#ask:[[Category:Metaphor]] [[Related metaphor::+]]
+| ?Related metaphor | +index=1
+| format=template
+| template=Missing relation type
+| limit=5000
+}}
+
+= Metaphors marked as primary but with no experiential basis =
+{{Unsetprop|badpms|Metaphor| Metaphor.Experiential basis|[[ Metaphor.Type::Primary]]}}
+<ul>{{#arrayprint:badpms|<br/>|@|<li> [[@]]}}</ul>
+
+= Metaphors marked as both primary and complex =
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Type::Primary]] [[ Metaphor.Type::Composed/complex]]
+| format=ul
+| limit=2000
+}}
+
+= Metaphors marked as both general and specific =
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Level::General]] [[ Metaphor.Level::Specific]]
+| format=ul
+| limit=2000
+}}
+
+= Metaphors marked as primary and specific =
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Type::Primary]] [[ Metaphor.Level::Specific]]
+| format=ul
+| limit=2000
+}}

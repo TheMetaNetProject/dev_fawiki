@@ -1,0 +1,38 @@
+{{Metaphor
+|Name gloss=Difficulties social diseases physical are.
+|Aliases=
+|Tags=Program sources
+|Family=استعاره های فقر
+|Metaphor Level=General
+|Metaphor Type=Composed/complex
+|Source frame=بیماری
+|Target frame=مشکلات اجتماعی
+|Mappings={{Mapping
+|Target=جامعه
+|Source=آدم
+}}{{Mapping
+|Target=مشکلات اجتماعی
+|Source=بیماری
+}}{{Mapping
+|Target=اقبدار
+|Source=دکتر
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=جامعه آدم است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=درست در همین جا که نقطه اعتماد مردم است و مهمترین کانون حفظ امنیت ، یک غده بدخیم فساد نفوذ کرد و ضربه‌های بزرگی اول به خود اطلاعات ما زد
+|Example.English translation=Precisely at the locus of public trust, which is the most important center for keeping security, a malignant tumor of corruption infiltrated and first struck us, then our information very hard.
+|Example.Provenance=بیژن خان
+}}{{Example
+|Example.Language=Persian
+|Example.Text=سحام نیوز: رهبر جمهوری اسلامی با یادآوری وقایع پس از انتخابات ۸۸ گفته است: این فتنه، صرفاً منحصر به حضور عده‌ای در خیابانها نبود، بلکه ناشی از یک بیماری بود که با اقدامات سیاسی و امنیتی قابل دفع شدن نبود و به یک حضور عظیم مردمی نیاز داشت که چنین هم شد.
+}}
+|Entered by=Metabot
+|Last reviewed by=Aria & Reza
+|Status=in development, auto imported
+|LinkEnglish=SOCIAL PROBLEMS ARE DISEASES
+}}

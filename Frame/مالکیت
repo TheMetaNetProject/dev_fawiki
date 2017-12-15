@@ -1,0 +1,50 @@
+{{Frame
+|Name gloss=ownership
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالکیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالکیت خصوصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالکیت خصوصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالکیت دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملک ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالکیت ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دارنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صاحب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=املاک
+}}
+|LinkEnglish=Possession
+|Applicability=Persian
+}}

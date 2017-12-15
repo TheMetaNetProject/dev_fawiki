@@ -1,0 +1,77 @@
+{{Frame
+|Name gloss=disease
+|Description=Illness
+|Comments=Marizi, or illness/disease, has been placed under "harm family frame" that is the closest corresponding family frame. There might be a need to create "physical health" family frame in Persian; please advise
+|Family=طرح های ضرری,
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مریضی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیمار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیماری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیمار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ناسالم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آلوده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= سرطان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= سرطانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  آلوده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جذام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= مبتلا به 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= آفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= سوختگی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= عفونی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عفونت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= ایمنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= دچار طاعون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= ایمنی بدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کسالت 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= ناخوشی
+}}
+|LinkEnglish=Disease
+|Applicability=Persian
+}}

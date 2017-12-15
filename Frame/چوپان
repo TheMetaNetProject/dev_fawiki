@@ -1,0 +1,86 @@
+{{Frame
+|Name gloss=shepherd
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چوپان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گله
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گوسفند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مثل گوسفند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گوسفند وار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چراندن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چراند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=می‌ چراند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خواهد چراند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گله وار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گوسفند چران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گوسفندان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چوپان ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چراند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گله دانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرتع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چراگاه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آغل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=علوفه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چوپانی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چوپانی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چوپانی کن
+}}
+|LinkEnglish=Shepherding
+|Applicability=Persian
+}}

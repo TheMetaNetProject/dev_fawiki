@@ -1,0 +1,80 @@
+{{Frame
+|Name gloss=loan
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=وام گیرنده
+|Role.Name gloss=borrower
+}}{{Role
+|Role.Name=وام دهنده
+|Role.Name gloss=lender
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام گیرنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام دهنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام بدون بهره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام با بهره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام بدون سود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام قرض الحسنه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام بانکی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام گیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام بلا عوض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام خارجی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام ازدواج
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام دانشجویی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وام کارمندی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دفترچه وام
+}}
+|LinkEnglish=debt
+|Applicability=Persian
+}}

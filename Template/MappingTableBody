@@ -1,0 +1,16 @@
+<noinclude>
+This is the "MappingTableBody" template. It is used according to semantic results formats to display lists of 
+concept mappings (from frames to concepts).  It returns information in wiki table row format
+It should be called in the following format:
+<pre>
+{{MappingTableBody|1=IARPA Concept|2=Id|3=Owner|4=Words}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+! [[{{{1|}}}|{{#replace:{{{1|}}}|IConcept:|}}]]
+| {{{2|}}}
+| {{{3|}}}
+| {{{4|}}}
+| {{#arraydefine:concwords|{{#ask: [[Category:IARPASourceConcept]] [[{{{1|}}}]]|?HasConceptLU|format=array|mainlabel=-|manysep=,}}}}{{#arrayunique:concwords}}{{#arraydefine:framelist|{{#arraymap:{{#arrayprint:concwords}}|,|@@|{{#ask: [[Category:Frame]] [[-Lexical unit of.Has lemma::@@]]|format=array|manysep=,}}}}}}{{#arrayunique:framelist}}{{#vardefine:framelemmas|{{#arraymap:{{#arrayprint:framelist}}|,|@FRAME@|{{#ask:[[@FRAME@]]|?LUs|+index=2|format=array|manysep=,}}|<SEP>}}}}{{#arraydefine:lulist|{{#rreplace:{{#arraymap:{{#arrayprint:framelist}}|,|@FRAME@|{{#ask: [[@FRAME@]]|?LUs|+index=2|mainlabel=-|format=array|manysep=,}}}}|/\.[vnapdj]{1,3}/|}}}}{{#arrayunique:lulist}}{{#vardefine:conceptlemmas|{{#arraymap:{{#arrayprint:lulist}}|,|@@|{{#ask:[[Category:IARPASourceConcept]][[HasConceptLU::@@]]|?HasConceptLUs|format=array|sep=<SEP>}}|<SEP>}}}}{{#vardefine:mappingresults|{{#concepttoframes:{{{1|}}}|{{#var:framelemmas}}|{{#var:conceptlemmas}}}}}}{{#var:mappingresults}}
+|-
+</includeonly>

@@ -1,0 +1,12 @@
+This category uses the form [[Has default form::CxnMP]]:
+
+{{#forminput:form=CxnMP|autocomplete on namespace=CxnMP|namespace=CxnMP|class=enformfield}}
+
+{{#ask: [[Category:CxnMP]]
+| ?Has CxnMP type=Type
+| ?Has CxnMP group=Group
+| ?Has description=Description
+| ?Has comments=Comments
+| format=table
+| mainlabel=Cxn Matching Pattern
+}}

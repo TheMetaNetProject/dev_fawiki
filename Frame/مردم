@@ -1,0 +1,47 @@
+{{Frame
+|Name gloss=People
+|Comments=NATION does not fully correspond withe the current Persian frame but is the closest found
+Beside the current frame, the following Persian frame is linked with the "NATION" in the English Wiki: "ملت"
+In addition both Persian frames are near synonyms
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردمی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلقی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توده‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توده‌ ای‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=امت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توده‌ مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ملل
+}}
+|LinkEnglish=Nation
+|Applicability=Persian
+}}

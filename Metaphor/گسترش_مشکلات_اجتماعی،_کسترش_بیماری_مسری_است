@@ -1,0 +1,32 @@
+{{Metaphor
+|Name gloss=Spread_of social problems is spread of_a contagious disease
+|Aliases=
+|Tags=Program sources
+|Family=استعاره های فقر
+|Metaphor Level=Specific
+|Metaphor Type=Primary
+|Source frame=بیماری مسری
+|Target frame=مشکلات اجتماعی
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=مشکلات اجتماعی بیماری های جسمی هستند
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=معضلات اجتماعی مانند ویروس به دیگران سرایت می‌کنند
+|Example.Gloss=Complexities social akin to virus to others transmit
+|Example.English translation=Social problems spread to others akin to virus.
+|Example.Provenance=http://khabaronline.ir/detail/73506
+}}{{Example
+|Example.Language=Persian
+|Example.Text=بی توجهی به رویکرد فراگیر مواد مخدر، سبب سرایت مشکلات آن به دیگر کشورها می شود
+|Example.Gloss=negligence to approach wide-spread narcotic drugs, causes transmission problems its to other countries does.
+|Example.English translation=Negligence to the wide-spread approach of narcotic drugs causes the spread of its problems to other countries
+|Example.Provenance=http://www.ghatreh.com/news/nn18509719/%D8%AA%D9%88%D8%AC%D9%87%DB%8C-%D8%B1%D9%88%DB%8C%DA%A9%D8%B1%D8%AF-%D9%81%D8%B1%D8%A7%DA%AF%DB%8C%D8%B1-%D9%85%D9%88%D8%A7%D8%AF-%D9%85%D8%AE%D8%AF%D8%B1-%D8%B3%D8%A8%D8%A8-%D8%B3%D8%B1%D8%A7%DB%8C%D8%AA-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D8%AF%DB%8C%DA%AF%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1%D9%87%D8%A7
+}}
+|Entered by=Metabot
+|Last reviewed by=Aria Fani
+|Status=in development, auto imported
+}}

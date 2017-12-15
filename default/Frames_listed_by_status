@@ -1,0 +1,24 @@
+= in development =
+{{#ask: [[Category:Frame]] [[Status::in development]]
+| format=ul
+}}
+
+= proposed =
+{{#ask: [[Category:Frame]] [[Status::proposed]]
+| format=ul
+}}
+
+= reviewed =
+{{#ask: [[Category:Frame]] [[Status::reviewed]]
+| format=ul
+}}
+
+= experimentally validated  =
+{{#ask: [[Category:Frame]] [[Status::experimentally validated ]]
+| format=ul
+}}
+
+= contested =
+{{#ask: [[Category:Frame]] [[Status::contested]]
+| format=ul
+}}

@@ -1,0 +1,42 @@
+{{IARPATargetConcept
+|ConceptOwner=GOV
+|ConceptType=general
+|ConceptGroup=DEMOCRACY
+|ConceptComment=I added 'جمهوری' as a whitelist LU because it was appearing in IARPA's input xml for m4mapping but wasn't being found in our wiki. --Jisup
+|ConceptFrames={{Linked frame
+|Frame name=آزادی
+}}{{Linked frame
+|Frame name=آزادی بیان
+}}{{Linked frame
+|Frame name=ایدئولوژی دموکراتیک
+}}{{Linked frame
+|Frame name=برابری
+}}{{Linked frame
+|Frame name=جامعه مدنی
+}}{{Linked frame
+|Frame name=حقوق
+}}{{Linked frame
+|Frame name=دموکراسی
+}}{{Linked frame
+|Frame name=دولت دموکراتیک
+}}{{Linked frame
+|Frame name=مردم سالاری
+}}{{Linked frame
+|Frame name=مردم سالاری دینی
+}}{{Linked frame
+|Frame name=مشارکت مردم
+}}{{Linked frame
+|Frame name=نمایندگی و تصمیم گیری
+}}{{Linked frame
+|Frame name=نهاد قدرت
+}}{{Linked frame
+|Frame name=نهاد های دموکراتیک
+}}
+|WhitelistTargetLUs={{Whitelist target LUs
+|WhitelistTargetLU=جمهوری
+}}
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}

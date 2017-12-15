@@ -1,0 +1,47 @@
+<noinclude>
+This is the "Glossary" template.
+It should be called in the following format:
+<pre>
+{{Glossary
+|Entry=
+|Other Aliases=
+|Description=
+|Pertinent form=
+|Utility=
+|Notation=
+|Entered by=
+|Last reviewed by=
+}}
+</pre>
+Edit the page to see the template text.
+
+
+</noinclude><includeonly>{|class="wikitable"
+! Entry
+| [[Glossary.Entry::{{{Entry|}}}]]
+|-
+! Other Aliases
+| {{#arraymap:{{{Other Aliases|}}}|,|x|[[Glossary.Alias::x]]}}
+|-
+! Description
+| [[Glossary.Description::{{{Description|}}}]]
+|-
+! Pertinent form(s)
+| [[Glossary.Applies to::{{{Applies to|}}}]]
+|-
+! Utility
+| [[Glossary.Utility::{{{Utility|}}}]]
+|-
+! Notation
+| [[Glossary.Notation::{{{Notation|}}}]]
+|-
+! Created by
+| {{#arraymap:{{{Entered by|}}}|,|x|[[Entered by::x]]}}
+|-
+! Edited by
+| {{#arraymap:{{{Last reviewed by|}}}|,|x|[[Last reviewed by::x]]}}
+|}
+
+[[Category:Glossary]]
+[[:Category:Glossary|Return to the glossary]]
+</includeonly>

@@ -1,0 +1,23 @@
+{{Frame
+|Name gloss=master slave
+|Description=Slave master
+|Comments=No English equivalent found
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارباب و برده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راننده برده
+}}{{LUs
+|LUs.Language=Persian
+}}
+|Applicability=Persian
+}}

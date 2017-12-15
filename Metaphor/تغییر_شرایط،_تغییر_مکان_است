@@ -1,0 +1,35 @@
+{{Metaphor
+|Name gloss=change condition change location ast-COP
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=تغییر کردن حرکت است
+}}
+|Comments=This metaphor needs examples, as of now, there is no corresponding English metaphor found
+|Family=ساجتار واقعه (مکان)
+|Metaphor Level=General
+|Metaphor Type=Primary, Entailed
+|Source frame=منبع مسیر هدف
+|Target frame=تغییر شرایط
+|Mappings={{Mapping
+|Target=موجود
+|Source=خط سیر
+}}{{Mapping
+|Target=حالت ابتدایی
+|Source=منبع
+}}{{Mapping
+|Target=حالت نهایی
+|Source=هدف
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=عمل کردن حرکت کردن است
+}}{{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=در شرایط بودن، در مکان بودن است
+}}
+|Entailments=
+|Examples=
+|Entered by=Aria and Sanam
+|Last reviewed by=Aria Fani
+|Status=in development, proposed
+|Investigated for=Persian
+}}

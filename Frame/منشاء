@@ -1,0 +1,48 @@
+{{Frame
+|Name gloss=Source
+|Comments=No corresponding English frame
+|Family=طرح های وجودی
+|Type=Frame
+|Status=in development
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=ویژگی های جغرافیایی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرچشمه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمنشاء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منشاء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منبع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نشات گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نشات گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نشات گیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرچشمه گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرچشمه گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرچشمه گیر
+}}
+|Applicability=Persian
+}}

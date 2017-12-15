@@ -1,0 +1,14 @@
+This property is of type [[Has type::String]]
+It allows the following values:
+* [[Allows value::is both a source and target subcase of]]
+* [[Allows value::is a source subcase of]] (is source special case of, is source specific case of)
+* [[Allows value::is a target subcase of]] (is target special case of, is target specific case of)
+* [[Allows value::is a mapping within]]
+* [[Allows value::makes use of]]
+* [[Allows value::has as transitive subpart 1]]
+* [[Allows value::has as transitive subpart 2]]
+* [[Allows value::is in some source relation to]]
+* [[Allows value::is in some target relation to]]
+* [[Allows value::is an entailment of]]
+* [[Allows value::is related to]]
+* [[Allows value::is in a dual relationship with]]

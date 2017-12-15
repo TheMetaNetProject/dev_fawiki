@@ -1,0 +1,30 @@
+{{Frame
+|Name gloss=Expansion on level horizontal
+|Description=Horizontal expansion
+|Comments=No English equivalent found
+|Family=طرح های مکان
+|Tags=Program sources
+|Type=Frame, Composed
+|Status=in development, auto imported
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=انبساط
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گسترده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=توسعه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گستره
+}}
+}}

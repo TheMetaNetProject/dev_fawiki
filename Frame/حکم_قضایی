@@ -1,0 +1,113 @@
+{{Frame
+|Name gloss=Judicial action
+|Description=Judicial action
+|Family=طرح های حکومت,
+|Type=Frame
+|Status=in development
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=قوه قضائیه
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=احکام قضایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم دادگاه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم قاضی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم قضایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم صادر کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم صادر کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم صادر کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرجع قضایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقام قضایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قضات دیوان عالی کشور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بنا بر حکم صادره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدور حکم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجرای حکم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجرای احکام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازداشت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازداشت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بازداشت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم ابد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم اعدام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبرئه شدن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبرئه شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبرئه شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبرئه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم به تبرئه دادن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم به تبرئه داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم به تبرئه ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجازات شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجازات شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجازات شو
+}}
+|LinkEnglish=Judicial action
+|Applicability=Persian
+}}

@@ -1,0 +1,10 @@
+{{Glossary
+|Entry=Related Frame
+|Other Aliases=Relational frame; Subframe
+|Description=Each frame page includes a block that lists Related Frames.  For each related frame, the Relation Type indicates how the Current Frame is related to the Related Frame -- see [[Frame Relation Type]] for a description of possible relation types.  In each case, the Related Frame must be either 'higher' (e.g. more general) or at the same level (e.g. co-activated by) as the Current Frame. Frames that are more specific than and/or entailed by the Current Frame are not listed in this block. 
+
+[Formally called relational frames, these are frames that arise as a relation on structural frames ('has a relation on' is also called 'has a profiled relation'). For example, 'in' is a subframe of container. When we assign a frame to the type 'Relational', we are essentially calling it a subframe. This frame would then need to have listed the roles that define it. How they should be treated is still under question: should all subframes of structural frames be automatically present? Should inferences for structural frames include inferences of all subframes?]
+|Applies to=Frame
+|Entered by=Elise,
+|Last reviewed by=Ellen
+}}

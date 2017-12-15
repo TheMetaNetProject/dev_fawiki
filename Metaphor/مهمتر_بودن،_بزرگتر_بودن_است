@@ -1,0 +1,20 @@
+{{Metaphor
+|Name gloss=effect more have-INF, bigger be-INF ast-COP
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=اهمیت بزرگ بودن است
+}}
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=تأثیربیشتر داشت
+|Target frame=مهم بودن
+|Mappings={{Mapping}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=کوتوله های سیاسی و تنگ نظران نمی توان انقلاب را حفظ بکنند.
+}}
+|Entered by=Sanam, Aria
+|Status=in development
+|Investigated for=Persian
+}}

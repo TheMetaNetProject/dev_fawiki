@@ -1,0 +1,12 @@
+http://xmlns.com/foaf/0.1/|
+ [http://www.foaf-project.org/ Friend Of A Friend]
+  name|Type:String
+  homepage|Type:URL
+  mbox|Type:Email
+  mbox_sha1sum|Type:String
+  depiction|Type:URL
+  phone|Type:String
+  Person|Category
+  Organization|Category
+  knows|Type:Page
+  member|Type:Page

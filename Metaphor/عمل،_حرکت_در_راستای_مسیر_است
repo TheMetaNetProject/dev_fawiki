@@ -1,0 +1,27 @@
+{{Metaphor
+|Name gloss=ACT-N DO-INF MOVE DO-INF IN ALONG TRAJECTORY AST-COP
+|Aliases=
+|Family=ساختار واقعه
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=حرکت کردن در مسیر راه
+|Target frame=عمل
+|Mappings={{Mapping
+|Target=عمل کننده
+|Source=متحرک
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=عمل کردن حرکت کردن است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=برای خرید این خانه افتادهام توی دست انداز!
+|Example.Gloss=for buying this house I-have-fallen into bump !
+|Example.English translation=I hit a bump in buying this house.
+}}
+|Entered by=Behrang, Aria, Sanam
+|Status=in development
+|Investigated for=Persian
+}}

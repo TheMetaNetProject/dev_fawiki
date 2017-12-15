@@ -1,0 +1,23 @@
+{{Metaphor
+|Name gloss=Debt a_catastrophe is
+|Aliases=
+|Comments=no corresponding English frame found
+|Metaphor Type=Composed/complex
+|Source frame=فاجعه
+|Target frame=بدهی
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=بدهی موجود زنده است.
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=عضو هیئت مدیره انجمن عکاسان ایران گفت: بدهی 13 میلیاردی روی میز معاونت هنری فاجعه‌ای است که باید برای جلوگیری از بروز آن در دوره‌های بعدی، ریشه‌یابی اساسی صورت بگیرد.
+|Example.English translation=Member of the executive committee of the Aossociation of Iranian Photographers stated: the 13-billion [rial?] debt on the desk the secretary of Arts is a castrophe for whose prevention in the next terms there should be fundamental investigation   
+}}
+|Entered by=Reza
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

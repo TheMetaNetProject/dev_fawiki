@@ -1,0 +1,40 @@
+{{Frame
+|Name gloss=Conditions
+|FrameNet frame=State
+|Other aliases=وضعیت
+|Type=Cog
+|Status=in development
+|Entered by=Aria
+|Last reviewed by=Aria Fani, Reza
+|Roles={{Role
+|Role.Name=شرایط
+|Role.FrameNet role=State
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شرط 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= شرایط  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= وضعیت  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  موقعیت  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  شرایط ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  پیش شرط  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= پیش شرط ها
+}}
+|LinkEnglish=Circumstances
+|Applicability=Persian
+}}

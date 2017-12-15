@@ -1,0 +1,157 @@
+{{Frame
+|Name gloss=Employment
+|FrameNet frame=Employment_scenario, Being employed
+|Family=طرح های ثروت و طبقات اجتماعی,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles={{Role
+|Role.Name=کارمند
+|Role.Name gloss=employee
+|Role.Type=شخص
+|Role.FrameNet role=Employee
+}}{{Role
+|Role.Name=کارفرما
+|Role.Name gloss=employer
+|Role.FrameNet role=کارفرما
+}}{{Role
+|Role.Name=جبران خسارت بدنی کارمند
+|Role.Name gloss=employee_compensation
+|Role.FrameNet role=جبران
+}}{{Role
+|Role.Name=وظایف کارمند
+|Role.Name gloss=employee_duties
+}}
+|Related frames={{Related frame
+|Related frame.Name=طرح اشتغال
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=استخدام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اشتغال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اشتغال داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اشتغال داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اشتغال دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اشتغال خواهد داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارمند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارمندان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارکنان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارفرما
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارفرمایان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=استخدام شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=استخدام شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=استخدام شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=استخدام خواهد شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=استخدام کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=استخدام کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=استخدام کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=استخدامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستخدم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستخدمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان امور اداری و استخدامی کشور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوانین و مقررات اداری و استخدامی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون استخدام كشوري‌ 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون استخدام كشوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اشتغال به کار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشغول به کار شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشغول به کار شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشغول به کار شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شاغل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اشتغال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارمند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخش دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخش خصوصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کارفرما
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شغل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار پیدا کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار پیدا کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کار پیدا کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رابطه استخدامی
+}}
+|LinkEnglish=Employment
+|Applicability=Persian
+}}

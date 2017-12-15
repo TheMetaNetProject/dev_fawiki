@@ -1,0 +1,174 @@
+{{Frame
+|Name gloss=money
+|Description=پول
+|Family=طرح های پول
+|Type=Frame
+|Status=in development
+|Last reviewed by=Aria Fani,Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقدینگی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اسکناس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سکه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرمایه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=واحد پول ایران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریالی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سکّه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پولی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شاهی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وجه نقد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تومان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول خرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول در گردش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پس انداز کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پس انداز کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پس انداز کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول باد آورده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول های بادآورده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول زحمت کشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول زحمتکشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول کارمندی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حقوق کارمندی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول حلال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول با ریختن عرق جبین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول بیت‌المال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول مفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول درآوردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول درآورد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول درآور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول یامفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پولشویی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پولشوئی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پولشوئی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پولشوئی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پولشوئی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پولشویی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پولشویی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پولشویی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول حرام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول سیاه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول خارجی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول بانکی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسکوکات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اسکناس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول توجیبی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول روزانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پول نقد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقدینگی
+}}
+|LinkEnglish=Money
+|Applicability=Persian
+}}

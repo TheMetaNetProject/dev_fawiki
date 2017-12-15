@@ -1,0 +1,32 @@
+<noinclude>
+This is the "MetaRC" template.
+It should be called in the following format:
+<pre>
+{{MetaRC
+|MetaRCGroup=
+|MetaRCDescription=
+|MetaRCComments=
+|MetaRCScore=
+|MetaRCQueryCode=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+! MetaRCGroup
+| [[Has MetaRC group::{{{MetaRCGroup|}}}]]
+|-
+! MetaRCDescription
+| [[Has description::{{{MetaRCDescription|}}}]]
+|-
+! MetaRCComments
+| [[Has comments::{{{MetaRCComments|}}}]]
+|-
+! MetaRCScore
+| [[Has MetaRC score::{{{MetaRCScore|}}}]]
+|-
+! MetaRCQueryCode
+| [[Has MetaRC query::{{{MetaRCQueryCode|}}}]]
+|}
+
+[[Category:MetaRC]]
+</includeonly>

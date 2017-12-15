@@ -1,0 +1,58 @@
+{{Frame
+|Name gloss=bounded-region
+|FrameNet frame=Bounded_region
+|Family=طرح های مکان,
+|Type=Cog
+|Status=in development
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani, Reza
+|Roles={{Role
+|Role.Name=خارج
+|Role.Name gloss=exterior
+}}{{Role
+|Role.Name=داخل
+|Role.Name gloss=interior
+}}{{Role
+|Role.Name=مرز
+|Role.Name gloss=border
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خارج
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=داخل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیرون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محدوده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دایره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حیطه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=میدان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحت الشعاع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فضا
+}}
+|LinkEnglish=Bounded region
+|Applicability=Persian
+}}

@@ -1,0 +1,62 @@
+{{Frame
+|Name gloss=inequality political
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نا برابری سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نا برابری اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابریها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نبود برابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تساوی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدالت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی عدالتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدم برابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدم تساوی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری سیاسی نبودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری سیاسی نبود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری سیاسی نباش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عامل نابرابری
+}}
+|LinkEnglish=Political inequality
+|Applicability=Persian
+}}

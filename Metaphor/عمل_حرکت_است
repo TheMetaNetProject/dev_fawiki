@@ -1,0 +1,37 @@
+{{Metaphor
+|Name gloss=ACT DO-INF MOVE DO-INF AST-COP
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=کنش حرکت است
+}}
+|Family=ساختار واقعه
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=حرکت
+|Target frame=عمل
+|Mappings={{Mapping
+|Target=حرکت
+|Source=عمل
+}}{{Mapping
+|Target=عمل کننده
+|Source=متحرک
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=این نهضت و انقلاب تا رفتن این رژیم و به هم خوردن این دستگاه ظلم خوب جلو رفت.
+|Example.Provenance=صحیفه نور
+}}{{Example
+|Example.Language=Persian
+|Example.Text=از تو حرکت، از خدا بریکت
+}}{{Example
+|Example.Language=Persian
+|Example.Text=تهاجم به ناطق نوری ادامه حرکتی است که احمدی نژاد آغاز کرد
+|Example.Provenance=etedaal.ir/fa/news
+}}{{Example
+|Example.Language=Persian
+}}
+|Entered by=Sanam, Aria
+|Status=in development
+|Investigated for=Persian
+}}

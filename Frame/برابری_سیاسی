@@ -1,0 +1,72 @@
+{{Frame
+|Name gloss=political equality
+|Family=طرح سیاست
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=برابری
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=حقوق
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=دموکراسی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مساوات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تساوی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری حاکم بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری حاکم بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری حاکم باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری‌ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=از بین بردن نابرابری‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مساوات برقرار کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مساوات برقرار کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مساوات برقرار کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفع تبعیض
+}}
+|LinkEnglish=Political equality
+|Applicability=Persian
+}}

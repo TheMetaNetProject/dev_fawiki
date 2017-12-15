@@ -1,0 +1,61 @@
+{{Frame
+|Name gloss=entity life-having
+|Description=Animate entity
+|Comments=For the English frame "Animate Entity",there are two Persian frames that are linked to the English Wiki. Beside the current frame /mowjud-e jandar/- which is not so common in Persian-  there is an extra frame /mowjud-e zendeh/ as the corresponding English frame in the Persian Wiki
+|Family=طرح های وجودی
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=حیوان
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=موجود
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=بزرگ شدن یک موجود زنده
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=رشد یک موجود زنده
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=موجود بی جان
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=آدم
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هویت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عریان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پوسته
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رد پا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ردپا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پوستین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیشرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مولد
+}}
+|LinkEnglish=Animate entity
+|Applicability=Persian
+}}

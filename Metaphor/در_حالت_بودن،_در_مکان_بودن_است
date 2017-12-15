@@ -1,0 +1,18 @@
+{{Metaphor
+|Name gloss=in condition be-INF in location be-INF ast-COP
+|Aliases={{Metaphor.Alias}}
+|Metaphor Type=Primary, Entailed
+|Source frame=خط سیر و راهنما
+|Target frame=در مکان بودن
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is both a source and target subcase of
+|Related metaphor.Name=شرایط مکان است
+}}
+|Entailments=
+|Examples=
+|Entered by=Aria, Sanam
+|Status=in development
+|LinkEnglish=EXPERIENCEING A STATE IS BEING IN A LOCATION
+|Investigated for=Persian
+}}

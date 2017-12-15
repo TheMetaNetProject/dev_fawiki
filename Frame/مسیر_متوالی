@@ -1,0 +1,54 @@
+{{Frame
+|Name gloss=Continuous trajectory
+|Comments=Cycle is the closest corresponding English frame
+|Family=طرح های حرکت,
+|Tags=Program sources
+|Type=Frame, Primary
+|Status=in development, auto imported
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=قرار گرفتن در یک محدوده
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چرخه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منتها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پی در پی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خروج
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ورود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برون رفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پشت سر هم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=متوالی
+}}
+|LinkEnglish=Cycle
+}}

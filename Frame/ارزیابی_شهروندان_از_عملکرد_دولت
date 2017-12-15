@@ -1,0 +1,96 @@
+{{Frame
+|Name gloss=Citizen evaluation_of government's performance
+|Description=Citizen evaluation of government's performance
+|Family=طرح های حکومت,
+|Type=Cog
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سنجش کار دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رضایت شهروندان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظرِ مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارزیابی شهروندان از عملکرد دولت 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارزیابی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارزیابی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارزیابی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارزشیابی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارزش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارزش‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظارت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظارت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظارت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظر دادن در باره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در باره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظر دادن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظر داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظر ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معیار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معیارها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محک زدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محک زد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محک زن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظرخواهی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظرخواهی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظرخواهی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظرخواهی کن
+}}
+|LinkEnglish=Citizen evaluation of government
+|Applicability=Persian
+}}

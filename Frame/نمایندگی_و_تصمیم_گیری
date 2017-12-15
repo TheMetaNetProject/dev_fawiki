@@ -1,0 +1,191 @@
+{{Frame
+|Name gloss=representation and decision-making
+|Description=representation and decision-making
+|Comments=Is this frame a subcase of democratic institutions or there is a different relation?
+|Family=طرح دموکراسی‌,
+|Type=Cog
+|Status=in development
+|Entered by=Aria Fani and Reza,
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=نهاد های دموکراتیک
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=انتخابات
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخابات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصمیم‌گیری 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصميم گیري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نمایندگان ملت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کمیسیون شوراها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نماینده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نمایندگی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصمیم‌گیری کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصمیم گیری کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصمیم گیري کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصمیم گیري کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصمیم گیری کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نمایندگی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصمیم گیري کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصميم گیري‌ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصميم گیریها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصميم گیری‌ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصميم گیریها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منتخب شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منتخب شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منتخب شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نمایندگان ملّت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نمایندگی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصميم گیری‌ها‌ی کلان 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قدرت تصميم گیری‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قدرت تصميم گیری‌ داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قدرت تصميم گیری‌ داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قدرت تصميم گیری‌ دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قدرت تصميم گیری‌ نداشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قدرت تصميم گیری‌ نداشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قدرت تصميم گیری‌ ندار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= تصميم گیری‌ به نتیجه رسیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= تصميم گیری‌ به نتیجه رسید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= تصميم گیری‌ به نتیجه رس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= تصميم گیری‌ به نتیجه نرسیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصميم گیری‌ به نتیجه نرسید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصميم گیری‌ به نتیجه نرس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصميم گیری‌ سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصميم گیری‌ سیاسی اجتماعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصميم گیری‌ نظامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مراجع تصمیم‌گیرنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهای تصمیم‌گیرنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصميم گیری‌ در خصوص
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصميم گیری‌ در مورد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نمایندگی مقام معظم رهبری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نمایندگی مقام معظّم رهبری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهاد نمایندگی مقام معظّم رهبری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهاد نمایندگی مقام معظم رهبری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= نمایندگی آحاد مردم 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= دفتر نمایندگی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نماینده تام الاختیار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نماینده مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نماینده مجلس
+}}
+|LinkEnglish=Representation and decision-making
+|Applicability=Persian
+}}

@@ -1,0 +1,67 @@
+{{Frame
+|Name gloss=being animate
+|Description=Organism
+|Comments=For the English frame "Animate Entity",there are two Persian frames that are linked to the English Wiki. Beside the current frame mowjud-e zendeh there is an extra frame "mowjud-e jandar" - which is not so common in Persian- as the corresponding English frame in the Persian Wiki
+|Family=طرح های وجودی,
+|Tags=Program sources
+|Type=Cog
+|Status=in development, auto imported
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رشد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موجود زنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موجودات زنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اندام ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قلب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رشد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شکوفا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پژمرده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رشد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پر رونق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شکوفایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پژمردگی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در حال رشد
+}}
+|LinkEnglish=Animate entity
+}}

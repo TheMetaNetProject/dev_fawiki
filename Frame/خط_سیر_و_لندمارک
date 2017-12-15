@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=movement_line and landmark
+|FrameNet frame=Trajector-Landmark
+|Family=ساختار رویداد
+|Type=Frame
+|Status=in development
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani, Reza
+|Roles={{Role
+|Role.Name=خط سیر
+|Role.Name gloss=line go
+|Role.FrameNet role=Trajector
+}}{{Role
+|Role.Name=لندمارک
+|Role.Name gloss=landmark
+|Role.FrameNet role=Landmark
+}}{{Role
+|Role.Name=منطقه مورد نظر
+|Role.Name gloss=region instance opinion
+|Role.FrameNet role=profiled_region
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=در
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs=
+|LinkEnglish=Trajector landmark
+|Applicability=Persian
+}}

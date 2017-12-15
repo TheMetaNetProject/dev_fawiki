@@ -1,0 +1,90 @@
+{{Frame
+|Name gloss=life
+|FrameNet frame=Manner_of_life, People, Dead_or_alive, Timespan
+|Type=Frame
+|Status=in development
+|Entered by=Aria
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=شخص زنده
+|Role.Name gloss=individual living
+}}{{Role
+|Role.Name=هدف زندگی
+|Role.Name gloss=goal life
+}}{{Role
+|Role.Name=طول عمر
+|Role.Name gloss=span life
+}}{{Role
+|Role.Name=مراحل زندگی
+|Role.Name gloss=stages life
+}}{{Role
+|Role.Name=مشکلات زندگی
+|Role.Name gloss=difficulties life
+}}{{Role
+|Role.Name=طرز زندگی
+|Role.Name gloss=way life
+}}{{Role
+|Role.Name=همراه زندگی
+|Role.Name gloss=companion life
+}}{{Role
+|Role.Name=روابط زندگی
+|Role.Name gloss=relations life
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زندگی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زندگی‌ ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زندگی‌ انسان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زندگی‌ انسان ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=افراد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=موجودات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عمر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زندگی‌ جاوید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زندگی‌ اخروی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زندگی‌ دنیوی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حیا ت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زندگی‌ کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زندگی‌  کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زندگی‌  کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریشه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریشه دواندن
+}}
+|LinkEnglish=Life
+|Applicability=Persian
+}}

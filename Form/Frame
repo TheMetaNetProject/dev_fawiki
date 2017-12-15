@@ -1,0 +1,160 @@
+<noinclude>
+This is the "Frame" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+{{#forminput:form=Frame|autocomplete on namespace=Frame|namespace=Frame}}
+
+</noinclude><includeonly><div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Frame}}}
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Name Gloss:
+| {{{field|Name gloss|property=Frame.Name gloss|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}{{#ifeq:{{Lang|}}|es|style="display:none;"|}}
+! Transcription:
+| {{{field|Transcription|property=Frame.Transcription|class=enformfield}}}
+|-
+! Description:
+| {{{field|Description|property=Has description}}}
+|-
+! Closest FrameNet frame(s):
+| {{{field|FrameNet frame|property=Frame.FrameNet frame}}}
+|-
+! Metaphor Program Alias:
+| {{{field|Program alias|property=Has program alias}}}
+|-
+! Other Aliases:
+| {{{field|Other aliases|property=Frame.Alias}}}
+|-
+! Comments:
+| {{{field|Comments|property=Frame.Comments|class=enformfield}}}
+|-
+! Family(s):
+| {{{field|Family|property=Frame.Family}}}
+|-
+! Tags:
+| {{{field|Tags}}}
+|-
+! Type:
+| {{{field|Type|property=Frame.Type}}}
+|-
+! Cultural Scope:
+| {{{field|Cultural scope|property=Has cultural scope}}}
+|-
+! Cultural Information:
+| {{{field|Cultural information|property=Frame.Cultural information}}}
+|-
+! Status:
+| {{{field|Status|property=Status|list}}}
+|-
+! Entered by:
+| {{{field|Entered by}}}
+|-
+! Last reviewed by:
+| {{{field|Last reviewed by}}}
+|-
+! Roles:
+| {{{field|Roles|holds template}}}
+|-
+! Related frames:
+| {{{field|Related frames|holds template}}}
+|-
+!
+| <div id="RelatedFrameRoles"></div>
+|-
+! Bindings:
+| {{{field|Bindings|holds template}}}
+|-
+! Inferences:
+| {{{field|Inferences|holds template}}}
+|-
+! Relevant LUs:
+| {{{field|Relevant LUs|holds template}}}
+|}
+
+
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Closest English Frame:
+| {{{field|LinkEnglish|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|es|style="display:none;"|}}
+! Closest Spanish Frame:
+| {{{field|LinkSpanish|class=enformfield}}}
+|- {{#ifeq:{{Lang|}}|fa|style="display:none;"|}}
+! Closest Persian Frame:
+| {{{field|LinkPersian|class=faformfield}}}
+|- {{#ifeq:{{Lang|}}|ru|style="display:none;"|}}
+! Closest Russian Frame:
+| {{{field|LinkRussian|class=enformfield}}}
+|}
+
+{{{field|Applicability|property=Frame.Applicability|default={{Lang|en}}|hidden}}}
+
+{{{end template}}}
+
+{{{for template|Role|multiple|label=Roles|embed in field=Frame[Roles]}}}
+{| class="formtable"
+! Name:
+| {{{field|Role.Name|class=LocalFrameRoleName}}}
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Gloss:
+| {{{field|Role.Name gloss|property=Role.Name gloss|class=enformfield}}}
+|-
+! Type:
+| {{{field|Role.Type}}}
+|-
+! Definition:
+| {{{field|Role.Definition}}}
+|-
+! FrameNet Role:
+| {{{field|Role.FrameNet role}}}
+|}
+{{{end template}}}
+
+{{{for template|Related frame|multiple|label=Related Frames|embed in field=Frame[Related frames]}}}
+'''Current Frame:''' {{PAGENAME}}
+
+'''Relation Type:''' {{{field|Related frame.Relation type|property=Related frame.Relation type}}}
+
+'''Related Frame:''' {{{field|Related frame.Name|property=Frame|values from namespace=Frame|class=RelatedFrameField}}}
+
+'''Description:''' {{{field|Related frame.Description}}}
+
+{{{end template}}}
+
+{{{for template|Binding|multiple|label=Bindings|embed in field=Frame[Bindings]}}}
+'''Local Role:''' {{{field|Binding.Local role}}}
+
+'''Bound Role:''' {{{field|Binding.Bound role}}}
+
+{{{end template}}}
+
+{{{for template|Inference|multiple|label=Inferences|embed in field=Frame[Inferences]}}}
+'''Description of Inference:''' {{{field|Inference.Description|property=Inference.Description}}}
+
+'''Type of Inference:''' {{{field|Inference.Type|property=Inference.Type}}}
+
+{{{end template}}}
+
+{{{for template|LUs|label=Relevant LUs|multiple|embed in field=Frame[Relevant LUs]}}}
+
+{{{field|LUs.Language|property=LUs.Language|input type=text|default={{Lang|en}}|hidden}}}
+
+{| class="formtable"
+! Lemma:
+| {{{field|LUs.Lemmas|property=LUs.Lemmas}}}
+|}
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

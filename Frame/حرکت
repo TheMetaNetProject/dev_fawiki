@@ -1,0 +1,34 @@
+{{Frame
+|Name gloss=Motion
+|FrameNet frame=Motion
+|Family=طرح های حرکت,
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Aria, Sanam
+|Last reviewed by=Reza &
+|Roles={{Role
+|Role.Name=متحرک
+|Role.Name gloss=mover
+}}{{Role
+|Role.Name=x_frame حرکت
+|Role.Name gloss=x_frame motion
+}}{{Role
+|Role.Name=جهت
+|Role.Name gloss=direction
+}}{{Role
+|Role.Name=سرعت
+|Role.Name gloss=speed
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حرکت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جهت
+}}
+|LinkEnglish=Motion 
+|Applicability=Persian
+}}

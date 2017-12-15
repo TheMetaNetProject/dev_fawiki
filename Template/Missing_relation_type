@@ -1,0 +1,8 @@
+<noinclude>
+This is the "Missing metaphor relation" template.
+It should be called in the following format:
+<pre>
+{{Missing metaphor relation|metaphor|relation|related metaphor}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{{#if:{{{2|}}}||* {{{1|}}}}}</includeonly>

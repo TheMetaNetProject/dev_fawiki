@@ -1,0 +1,12 @@
+{{MetaRC
+|MetaRCGroup=TFrameUsesSFrame
+|MetaRCDescription=Target frame is a subcase of or makes use of source frame, with 3 or 4 such relations intervening between the frames.
+|MetaRCScore=-0.5
+|MetaRCQueryCode=SELECT ?tframe ?sframe WHERE {
+    {
+        ?tframe (mo:makesUseOfFrame&#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&#124;mo:isSubcaseOfFrame) ?sframe .
+    } UNION {
+        ?tframe (mo:makesUseOfFrame&#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&#124;mo:isSubcaseOfFrame)/(mo:makesUseOfFrame&#124;mo:isSubcaseOfFrame) ?sframe .
+    }
+}
+}}

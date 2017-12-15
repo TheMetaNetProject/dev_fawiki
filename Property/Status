@@ -1,0 +1,16 @@
+<p>
+The status of the metaphor in the MetaNet lifecycle.
+</p>
+
+This is a property of type [[Has type::String]].
+
+The allowed values for this property are:
+* [[Allows value::in development]]
+* [[Allows value::proposed]]
+* [[Allows value::reviewed]]
+* [[Allows value::experimentally validated]]
+* [[Allows value::contested analysis]]
+* [[Allows value::auto imported]]
+* [[Allows value::auto proposed]]
+* [[Allows value::release candidate]]
+* [[Allows value::approved for release]]

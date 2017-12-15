@@ -1,0 +1,169 @@
+{{Frame
+|Name gloss=Democratic institutions
+|Description=Democratic institutions
+|Family=طرح دموکراسی‌, طرح نهادهای دموکراتیک
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=دموکراسی
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=نهاد های دولتی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهای  دموکراتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهاد دمکراتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهای سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انجمن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انجمن‌ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکرات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دمکرات‌ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزادی‌خواه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزادی‌طلب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزادي‌طلب 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهاي دموکراتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آزادي‌خواه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهای مستقل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهاي مستقل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه مدني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه مدنى
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهای مدنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهاي مدني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقش نهادهای مردمی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقش نهادهاي مردمی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرايند دموكراسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرايند دموكراسى
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرایند نظام دمکراتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهای جامعه مدنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادهاي جامعه مدني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادينه شدن ارزش هاي مدني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادينه شدن ارزش هاي مدنى
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شبكه نهادهاي جامعه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شبكه نهادهاى جامعه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقش نهادهاي مدني در گذار به دموکراسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقش نهادهای مدنی در گذار به دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحقق دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحقق دموکراسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحقق مردم‌سالاری 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحقق مردم‌سالاري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دمکراتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرهنگی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردمی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه سازی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه سازی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه سازی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادینه سازی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادينه شدن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادينه شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نهادينه شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحقّق دموکراسی
+}}
+|LinkEnglish=Democratic institution
+|Applicability=Persian
+}}

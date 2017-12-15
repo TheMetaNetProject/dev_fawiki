@@ -1,0 +1,91 @@
+{{Frame
+|Name gloss=source path goal
+|FrameNet frame=Source_path_goal
+|Comments=The frame has been changed from
+منبع مسیر هدف
+to
+مسیر مبدا هدف
+
+The Persian frame was a word--by-word translation of SOURCE PATH GOAL. However, the term /manba'/ does not make sense in this context. Therefore it was changed to /mabda
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Aria, Sanam
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=منبع
+|Role.Name gloss=Source
+|Role.FrameNet role=source
+}}{{Role
+|Role.Name=مسیر
+|Role.Name gloss=Path
+|Role.FrameNet role=path
+}}{{Role
+|Role.Name=هدف
+|Role.Name gloss=Path
+|Role.FrameNet role=path
+}}{{Role
+|Role.Name=خط سیر
+|Role.Name gloss=Line go
+|Role.FrameNet role=Trajector
+}}{{Role
+|Role.Name=لندمارک
+|Role.Name gloss=Landmark
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=خط سیر و راهنما
+}}
+|Bindings={{Binding
+|Binding.Local role=خط_سیر
+|Binding.Bound role=خط_سیر_و_راهنما.خط_سیر
+}}{{Binding
+|Binding.Local role=راهنما
+|Binding.Bound role=خط_سیر_و_راهنما.راهنما
+}}
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسیر مبدا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هدف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسیر نخستین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسیر اصلی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقطه آغاز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقصد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه اولیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیمودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیمود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیما
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رو
+}}
+|LinkEnglish=Source path goal
+|Applicability=Persian
+}}

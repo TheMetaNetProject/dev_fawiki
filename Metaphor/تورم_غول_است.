@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=inflation a giant is
+|Aliases=
+|Family=استعاره تورم
+|Metaphor Type=Composed/complex
+|Source frame=غول
+|Target frame= تورم
+|Mappings={{Mapping
+|Target= تورم
+|Source=غول
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is in some target relation to
+|Related metaphor.Name=اقتصاد غول است.
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=یکی از مراجع عظام تقلید تصریح کرد: دولت باید هر چه سریعتر مشکلات اقتصادی کشور را رفع و شاخ غول تورم را بشکند
+|Example.Gloss=One of the Grand Ayatollahs reiterated: the government should immediately fix the country's economic problems and break the  horn of inflation's giant 
+}}
+|Entered by=Reza
+|Status=in development
+|Investigated for=Persian
+}}

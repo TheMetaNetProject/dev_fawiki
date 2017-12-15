@@ -1,0 +1,133 @@
+{{Frame
+|Name gloss=Country
+|Description=Country
+|Family=طرح های حکومت,
+|Type=Frame
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=ملت
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشورها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت مرکزی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت مرکزي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقسیمات جهانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقسیمات جهاني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزهای بین‌المللی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرزهاي بین‌المللي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرمانداری مستقل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرمانداري مستقل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت خودمختار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقتصاد کشورها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشورهای جهان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشورهاي جهان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ايران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=كشورهاي فارسي زبان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=كشورهاى فارسى زبان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشورهای غیرمتعهد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشورهای اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشورهای اروپایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جهان سوم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشورهای در حال رشد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشورهای توسعه‌یافته
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشورهای در حال توسعه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشورداری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرزمین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وطن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=میهن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مام میهن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کشوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لشکری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمیت داشتن بر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمیت داشت بر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمیت دار بر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت کردن بر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت کرد بر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت کن بر
+}}
+|LinkEnglish=Country
+|Applicability=Persian
+}}

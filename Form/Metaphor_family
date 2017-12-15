@@ -1,0 +1,45 @@
+<noinclude>
+This is the "Metaphor family" form.
+To create a page with this form, enter the page name below;
+if a page with that name already exists, you will be sent to a form to edit that page.
+
+
+{{#forminput:form=Metaphor family}}
+
+</noinclude><includeonly>{{#css:
+   .enformfield {
+       direction: ltr;
+       text-align: left;
+   }
+}}<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+{{{for template|Metaphor family}}}
+{| class="formtable"
+|- {{#ifeq:{{Lang|}}|en|style="display:none;"|}}
+! Name Gloss:
+| {{{field|Name gloss|property=Metaphor family.Name gloss|class=enformfield}}}
+|-
+! Type:
+| {{{field|Metaphor family type|property=Metaphor family.Type|class=enformfield}}}
+|-
+! Description:
+| {{{field|Description|property=Metaphor family.Description|class=enformfield}}}
+|-
+! Status:
+| {{{field|Metaphor family status|property=Status|list|mandatory}}}
+|-
+! Is subfamily of:
+| {{{field|is subfamily of|property=Metaphor family of|values from property=Metaphor.Family|delimiter=,}}}
+|}
+{{{end template}}}
+
+'''Free text:'''
+
+{{{standard input|free text|rows=10}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>

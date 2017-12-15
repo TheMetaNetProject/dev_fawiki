@@ -1,0 +1,22 @@
+{{Metaphor
+|Name gloss=action, being in location ast-cop
+|Aliases=
+|Family=ساختار رویداد
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=بودن در مکان
+|Target frame=عمل
+|Mappings={{Mapping
+|Target=عمل کننده
+|Source=خط سیر و لندمارک
+}}{{Mapping
+|Target=x frame عمل
+|Source=لندمارک
+}}
+|Related metaphors=
+|Entailments=
+|Examples=
+|Entered by=Sanam, Aria
+|Status=in development
+|Investigated for=Persian
+}}

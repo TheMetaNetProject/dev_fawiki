@@ -1,0 +1,110 @@
+<noinclude>
+This is the main "AutoFrame" template, which also embeds the templates for its roles, bindings, related frames, inferences, and lexical units.
+It should be called in the following format:
+<pre>
+{{AutoFrame
+|Family=
+|Entered by=
+|Last reviewed by=
+|Status=
+|FrameNet frame=
+|Other aliases=
+|Comments=
+|Tags=
+|Type=
+|Cultural information=
+|Applicability=
+|Roles={{Role}}{{Role}}
+|Bindings={{Binding}}{{Binding}}
+|Related Frames={{Related Frame}}{{Related Frame}}
+|Inferences={{Inference}}{{Inference}}
+|Related LUs={{LUs}}{{LUs}}
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+|- {{#if:{{{Name gloss|}}}| |style="display:none;"}}
+! Name Gloss
+| {{Printgloss|{{PAGENAME}}|{{{Name gloss|}}}}}{{#set:Frame.Name gloss={{{Name gloss|}}}}}
+|-
+! Closest FrameNet Frame(s)
+| {{#arraymap:{{{FrameNet frame|}}}|,|%|[https://framenet2.icsi.berkeley.edu/fnReports/data/frame/%.xml %]}}{{#set:Frame.FrameNet frame={{{FrameNet frame|}}}}}
+|-
+! Other aliases
+| {{#arraymap:{{{Other aliases|}}}|,|x|[[Frame.Alias::x]]}}
+|-
+! Comments
+| [[Frame.Comments::{{{Comments|}}}]]
+|-
+! Family
+| {{#arraymap:{{{Family|}}}|,|x|[[Frame.Family::Frame family:x|x]]}}
+|-
+! Tags
+| {{#arraymap:{{{Tags|}}}|,|x|[[Tag::x]]}}
+|-
+! Type
+| {{#arraymap:{{{Type|}}}|,|x|[[Frame.Type::x]]}}
+|-
+! Cultural Information
+| [[Frame.Cultural information::{{{Cultural information|}}}]]
+|- {{#ifeq:{{{Applicability|}}}|{{Lang|en}}|style="display:none;"| }}
+! Applicability
+| {{#arraymap:{{{Applicability|}}}|,|x|[[Frame.Applicability::x]]}}
+|}
+'''Roles:'''
+{{{Roles}}}
+
+'''Related Frames:'''
+{{{Related frames}}}
+
+'''Bindings:'''
+{{{Bindings}}}
+
+'''Inferences'''
+{{{Inferences}}}
+
+'''Relevant Lexical Units:'''
+{{{Relevant LUs}}}
+
+----
+{| class="wikitable"
+! Status
+|{{#arraymap:{{{Status|}}}|,|x|[[Status::x]]}}
+|-
+! Entered by
+| {{#arraymap:{{{Entered by|}}}|,|x|[[Entered by::x]]}}
+|-
+! Last reviewed by
+| {{#arraymap:{{{Last reviewed by|}}}|,|x|[[Last reviewed by::x]]}}
+|}
+
+----
+'''Metaphors that use this frame:'''
+{|class="wikitable"
+! as Target frame
+! as Source frame
+|-
+|{{#ask: [[Category:Metaphor]] [[ Metaphor.Target frame::{{FULLPAGENAME}}]]
+| format=ul
+}}
+|{{#ask: [[Category:Metaphor]] [[ Metaphor.Source frame::{{FULLPAGENAME}}]]
+| format=ul
+}}
+|}
+----
+'''Graph of frame relations:'''
+
+<div class="gviztab">
+{{#relationsgraph:framerelsgrph|{{FULLPAGENAME}}|{{#ask: [[Category:Frame]] [[Related frame:: ?; {{FULLPAGENAME}}; ?]]
+| ?Related frame
+| format = array
+| sep= <SEP>
+}}|{{#ask: [[{{FULLPAGENAME}}]]
+| ?Related frame
+| format=array
+| sep= <SEP>
+}}|gv||Frame}}
+</div>
+
+[[Category:AutoFrame]]
+</includeonly>

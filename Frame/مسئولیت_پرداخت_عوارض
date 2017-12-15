@@ -1,0 +1,58 @@
+{{Frame
+|Name gloss=tax paying responsibility_of
+|Comments=Taxation does not fully correspond with the current Persian frame.
+|Family=طرحواره مالیات
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Reza
+|Last reviewed by=Aria Fani,Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=پرداخت عوارض
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وصول عوارض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رسید پرداخت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قبض پرداخت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرداخت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرداخت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرداخت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیرکرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرداخت به موقع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرداخت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عوارض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پرداخت عوارض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسئولیت
+}}
+|LinkEnglish=Taxation
+}}

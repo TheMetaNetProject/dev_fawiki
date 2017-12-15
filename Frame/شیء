@@ -1,0 +1,71 @@
+{{Frame
+|Name gloss=Object
+|Family=طرح های وجودی
+|Type=Primary
+|Status=in development
+|Entered by=Aria,
+|Last reviewed by=Aria Fani, Reza
+|Roles={{Role
+|Role.Name=Object
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=موجود بی جان
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=موجود
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حجم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تراکم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شکل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شکل گیری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سطح
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بافت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کلان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عظیم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کوچک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بزرگ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جابجا کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شی‌ 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  اشیا   
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شیء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  اشیا ء
+}}
+|LinkEnglish=Object
+|Applicability=Persian
+}}

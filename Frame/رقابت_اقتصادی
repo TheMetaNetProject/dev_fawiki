@@ -1,0 +1,48 @@
+{{Frame
+|Name gloss=Economic competition
+|Family=طرح واره رقابت
+|Type=Frame, Composed
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=رقابت
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رقابت اقتصادی  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  رقابت   
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  رقیب  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= رقبا  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  حریف 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  رقیبان  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= اقتصاد 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  رقابت کردن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  رقابت کن‌ 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= رقابت کرد
+}}
+|LinkEnglish=Econmic competition
+|Applicability=Persian
+}}

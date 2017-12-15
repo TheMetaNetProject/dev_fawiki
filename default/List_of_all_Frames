@@ -1,0 +1,29 @@
+{{TOC
+| limit=2
+}}
+
+Total number of Frame pages: {{#ask: [[Category:Frame]] | format=count}}
+
+= Manually Analyzed Frames =
+Create or edit a Frame: {{#forminput:form=Frame|autocomplete on namespace=Frame|namespace=Frame}}
+
+Total number of Frame pages: {{#ask: [[Category:Frame]] [[:Frame:+]] | format=count}}
+{{#ask: [[Category:Frame]] [[:Frame:+]]
+|?Frame.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+
+= Automatically Extracted Frames =
+Total number of Frame pages: {{#ask: [[Category:Frame]] [[:AutoFrame:+]] | format=count}}
+
+{{#ask: [[Category:Frame]] [[:AutoFrame:+]]
+|?Frame.Name gloss
+|format=category
+|template=Glossed category item
+|limit=1000
+}}
+[[en:List of all Frames]]
+[[es:List of all Frames]]
+[[ru:List of all Frames]]

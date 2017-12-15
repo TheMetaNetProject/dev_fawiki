@@ -1,0 +1,169 @@
+{{Frame
+|Name gloss=politics
+|Description=Politics
+|Family=طرح های سیاست, طرح سیاستمداران
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=با سیاست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاستمدار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاستمداران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاستگر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاستگری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست‌پیشه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست باز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اهل سیاست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست‌شناسی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اهل سیاست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست‌باز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست‌بازی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاسی‌کار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاسی‌کاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست‌زده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست‌زده شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست‌زده شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست‌زده شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به دور از عالم سیاست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اهل سیاست بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اهل سیاست بود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اهل سیاست باش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اهل سیاست نبودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اهل سیاست نبود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اهل سیاست نباش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دولتمرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دولتمردان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردان سیاست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صحنه سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست پدر و مادر ندارد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاری به سیاست نداشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاری به سیاست نداشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاری به سیاست ندار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دور سیاست خط کشیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دور سیاست خط کشید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دور سیاست خط کش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کوتوله‌های سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کوتوله سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاسیون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اقدام سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زندانی سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خط سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خطّ ومشی سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خطّ امام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست و دیانت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فعالیّت سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حوزه سیاست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست فرهنگی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیاست اقتصادی
+}}
+|LinkEnglish=Politics
+|Applicability=Persian
+}}

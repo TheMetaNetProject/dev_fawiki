@@ -1,0 +1,27 @@
+{{Metaphor
+|Name gloss=act.N kheyr one financial interaction is.cop
+|Aliases=
+|Comments=KHEYR closest meaning could be the biblical word ALM and AMAL-e KHEYR meaning ALMDEEDS which can be both literal or more abstract help to the person in need of help. Kheyr is a potential for a rewarding or good result 
+|Family=استعاره های اخلاقیات
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=معامله مالی
+|Target frame=عمل خیر
+|Mappings={{Mapping
+|Target=شخص-عامل
+|Source=پرداخت کننده
+|Comment=actor (do-er) = payer
+}}{{Mapping
+|Target=ثواب
+|Source=سود
+|Comment=Profite --> Sud
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+}}
+|Entered by=Sanam,
+|Status=in development
+|Investigated for=Persian
+}}

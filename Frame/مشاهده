@@ -1,0 +1,132 @@
+{{Frame
+|Name gloss=Observation
+|Family=طرح ادراک
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=تفکر
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشاهده کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شاهد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشاهدات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نگریستن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نگر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نگرید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تماشا کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تماشا کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تماشا کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شاهد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چشم باز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چشم بسته
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بینایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بینش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشاهده گر‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشاهده کننده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشهود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شاهدان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ابزار مشاهده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظّاره کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ناظر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظارت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظّاره کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظّاره کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظارت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظارت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشاهده کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشاهده کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظاره کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظاره کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=معرض
+}}
+|LinkEnglish=Seeing
+|Applicability=Persian
+}}

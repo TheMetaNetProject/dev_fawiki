@@ -1,0 +1,17 @@
+<noinclude>
+This is the "Inference" template.
+It should be called in the following format:
+<pre>
+{{Inference
+|Inference.Description=
+|Inference.Type=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable" style="margin: 0px 2em 2px;"
+! Description
+| {{{Inference.Description|}}} {{#set:Inference={{{Inference.Description|}}};{{{Inference.Type|}}}}}
+|-
+! Type
+| {{{Inference.Type|}}}
+|}</includeonly>

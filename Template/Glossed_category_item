@@ -1,0 +1,8 @@
+<noinclude>
+This is the "Glossed category item" template intended for use with the category semantic result format
+It should be called in the following format:
+<pre>
+{{Glossed category item|original|gloss|language}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{{#ifeq:{{Lang}}|en|{{{1|}}}|<table><tr><td><div class="glossedtext {{#ifeq:{{{3|}}}||{{Lang|en}}|{{{3|}}}}}"><div class="orig">{{{1|}}}</div><div class="engloss">{{{2|}}}</div></div></td></tr></table>}}</includeonly>

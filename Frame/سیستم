@@ -1,0 +1,53 @@
+{{Frame
+|Name gloss=System
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=کّل سیستم
+|Role.Name gloss=system_whole
+}}{{Role
+|Role.Name=بخشی از سیستم
+|Role.Name gloss=system_ part
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=شبکه
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شبکه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیستم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیستماتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در خدمت سیستم بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیستماتیک عمل کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کّل سیستم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخش هایی از سیستم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیستم موجود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیستم فاسد
+}}
+|LinkEnglish=System
+|Applicability=Persian
+}}

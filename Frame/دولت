@@ -1,0 +1,57 @@
+{{Frame
+|Name gloss=Government
+|Family=طرح دولت, طرح حکومت
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=حکومت
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دولت ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دولتمرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دولتمردان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دولتمرد ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزیران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزرا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزیر ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کابینه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کابینه ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هیات وزیران
+}}
+|LinkEnglish=Government
+|Applicability=Persian
+}}

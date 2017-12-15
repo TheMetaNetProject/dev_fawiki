@@ -1,0 +1,17 @@
+<noinclude>
+This is the "FrameNetLUs" template.
+It should be called in the following format:
+<pre>
+{{FrameNetLUs
+|frames=Comma separated list of frames
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly><nowiki />
+{{#arraymap:{{{frames|}}}|,|@@@@|<nowiki/>
+{{{!}} class="wikitable"
+! @@@@
+{{!}} <div class="getLUsFromFrame">@@@@</div>
+{{!}}}
+}}
+</includeonly>

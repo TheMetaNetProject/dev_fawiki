@@ -1,0 +1,11 @@
+<noinclude>
+This is the "CMs with LMs outro" template.
+It should be called in the following format:
+<pre>
+{{CMs with LMs outro
+|=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>|}
+</includeonly>

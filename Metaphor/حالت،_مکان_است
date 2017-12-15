@@ -1,0 +1,27 @@
+{{Metaphor
+|Name gloss=CONDITIONS PLACE AST-COP
+|Aliases={{Metaphor.Alias
+|Metaphor.Alias.Name=حالت مکانی است
+}}
+|Comments=More example(s) needs to be provided. Metaphor appears to be unique to Persian
+|Family=ساختار واقعه (مکان)
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=شرایط
+|Target frame=مکان
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=با خبر خوبت از نگرانی بیرون آمدم
+|Example.Gloss=with news good from worries departed I
+|Example.English translation=With your good news, I came out of my worries
+|Example.Annotation= The Persian verb birun amadan is used both figuratively and literally, in this case it is metaphorical 
+
+}}
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

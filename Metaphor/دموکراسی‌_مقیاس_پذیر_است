@@ -1,0 +1,24 @@
+{{Metaphor
+|Name gloss=democracy measurable is
+|Aliases=
+|Comments=More example(s) are needed to support metaphor
+|Family=استعاره دموکراسی‌
+|Metaphor Type=Composed/complex
+|Source frame=مقیاس پذیر
+|Target frame=دموکراسی‌
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=این گونه تغییر مواضع در جهت کاهش دموکراسی، فقط مصادیقی در داخل امریکاست
+|Example.Gloss=this such shift stance in direction reduce democracy, only common_case in internal America
+|Example.English translation= Such shifts in stance towards reducing democracy, are only common instances within the United States 
+
+}}
+|Entered by=Reza,
+|Last reviewed by=Aria Fani
+|Status=in development
+|Program alias=democracy
+|Investigated for=Persian
+}}

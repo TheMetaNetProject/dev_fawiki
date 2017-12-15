@@ -1,0 +1,86 @@
+{{Frame
+|Name gloss=MOTION DO-INF IN TRAJECTORY PATH
+|FrameNet frame=Motion_scenario
+|Other aliases=حرکت در مسیر راه
+|Family=طرح های حرکت, طرح های مکان,
+|Type=Cog, Primary
+|Status=in development
+|Entered by=Aria
+|Last reviewed by=Sanam , Reza
+|Roles={{Role
+|Role.Name=متحرک
+|Role.Name gloss=mover
+}}{{Role
+|Role.Name=x_frame حرکت
+|Role.Name gloss=x_frame motion
+}}{{Role
+|Role.Name=جهت
+|Role.Name gloss=direction
+}}{{Role
+|Role.Name=سرعت
+|Role.Name gloss=speed
+}}{{Role
+|Role.Name=منبع
+|Role.Name gloss=source
+|Role.FrameNet role=Source
+}}{{Role
+|Role.Name=مسیر
+|Role.Name gloss=trajectory
+|Role.FrameNet role=Path
+}}{{Role
+|Role.Name=هدف
+|Role.Name gloss=goal
+|Role.FrameNet role=Goal
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=حرکت
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقطه شروع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرعت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقطه پایان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مقصد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شاهراه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منحرف
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حرکت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تندی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جاده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جادّه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شتاب
+}}
+|LinkEnglish=Motion along a path
+|Applicability=Persian
+}}

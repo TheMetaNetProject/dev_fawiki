@@ -1,0 +1,29 @@
+{{Metaphor
+|Name gloss=experiencing one state, possession one object ast-C
+|Aliases=
+|Comments=Example(s) is inadequate, and more need be provided to support the metaphor
+|Family=ساختار رویداد (شیء)
+|Metaphor Type=Primary
+|Source frame=تجربۀ یک حالت
+|Target frame=مالکیت
+|Mappings={{Mapping
+|Target=تجربه کننده
+|Source=مالک
+}}{{Mapping
+|Target=حالت
+|Source=ما یملک
+}}
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=در این روز مبارک، بیایید غم و غصه هایمان را کنار بگذاریم.
+|Example.Gloss=In this day, celebration, come sadness and stress our OBJMARKER corner put.
+|Example.English translation=On this day of celebration, come, let's abandon our sadness and grief.
+}}
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani
+|Status=in development
+|LinkEnglish=EXPERIENCING A STATE IS POSSESSING AN OBJECT
+|Investigated for=Persian
+}}

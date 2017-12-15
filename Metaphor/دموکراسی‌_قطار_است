@@ -1,0 +1,25 @@
+{{Metaphor
+|Name gloss=Democracy Train is_a
+|Aliases=
+|Comments=Could this metaphor merge with DEMOCRACY IS A MEANS OF TRANSPORTATION in Persian? I have not seen this metaphor else where, and I highly suspect has been translated into Persian
+|Family=استعاره دموکراسی,
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=وسیله نقلیه
+|Target frame=دموکراسی
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=دموکراسی بدون احزاب مثل قطاری است که لوکوموتیو ندارد
+|Example.Gloss=Democracy without parties like train is that engines does_not have
+|Example.English translation=Democracy without parties is akin to a train without an engine
+|Example.Provenance=http://daypress.ir/fa/pages/?cid=72328
+|Example.Comments=The Persian word for engine/engine room is a loanword: locomotive
+}}
+|Entered by=Reza, Aria
+|Last reviewed by=Aria Fani
+|Status=in development
+|Investigated for=Persian
+}}

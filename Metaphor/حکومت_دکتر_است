@@ -1,0 +1,27 @@
+{{Metaphor
+|Name gloss=GOVERNMENT DOCTOR AST-COP
+|Aliases=
+|Family=حکومت
+|Metaphor Level=Specific
+|Metaphor Type=Composed/complex
+|Source frame=بهداشت و درمان
+|Target frame=حکومت
+|Mappings=
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is a source subcase of
+|Related metaphor.Name=اقتدار دکتر است
+}}{{Related metaphor
+|Related metaphor.Relation type=makes use of
+|Related metaphor.Name=حکومت آدم است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=الان ما داریم برنامه‌هایی را می‌بینیم که کارشناسان می‌نشینند و انگار با یک مشت مردم روانی طرف هستند ، سریع تجویز می‌کنند
+|Example.English translation=We are currently seeing [political/social] programs whose leaders sit and deal with the people as if they are mentally ill, and quickly give them prescriptions.
+|Example.Provenance=Bijankhan Corpus
+}}
+|Entered by=Aria
+|Status=in development
+|Investigated for=Persian
+}}

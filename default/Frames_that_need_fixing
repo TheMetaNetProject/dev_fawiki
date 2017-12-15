@@ -1,0 +1,20 @@
+{{TOC
+|limit=2
+}}
+= Related metaphors with no relation type specified =
+{{#ask:[[Category:Frame]] [[Related frame::+]]
+| ?Related frame | +index=1
+| format=template
+| template=Missing relation type
+| limit=5000
+}}
+
+= Frames marked as frames but with no cultural information =
+{{Unsetprop|badfr|Frame| Frame.Cultural information|[[ Frame.Type::Frame]]}}
+<ul>{{#arrayprint:badfr|<br/>|@|<li> [[@]]}}</ul>
+
+= Frames marked as both Cog and Frame =
+{{#ask: [[Category:Frame]] [[ Frame.Type::Cog]] [[ Frame.Type::Frame]]
+| format=ul
+| limit=2000
+}}

@@ -1,0 +1,18 @@
+{{TOC
+| limit=2
+}}
+
+= Primary Metaphors =
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Type::Primary]]
+| format=category
+}}
+
+= Composed/complex Metaphors =
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Type::Composed/complex]]
+| format=category
+}}
+
+= Entailed Metaphors =
+{{#ask: [[Category:Metaphor]] [[ Metaphor.Type::Entailed]]
+| format=category
+}}

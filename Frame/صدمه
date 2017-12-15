@@ -1,0 +1,44 @@
+{{Frame
+|Name gloss=harm
+|Comments=There is no corresponding English schima for /sadameh which means injury, hurt, harm
+|Family=طرح های ضرری
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدمه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خسارت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ضرر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بی درد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بیدرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آسیب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ضربه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زخمی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجروح
+}}
+|Applicability=Persian
+}}

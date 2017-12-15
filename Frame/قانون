@@ -1,0 +1,181 @@
+{{Frame
+|Name gloss=law
+|Description=Law
+|Family=طرح های حکومت,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اساسنامه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعمال قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رعایت قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خلاف قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونمند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مغایر قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون گرایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون گرا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غیر قانونی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نقض قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبتنی‌ بر قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اجرای قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی می‌کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی خواهد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی می شود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی خواهد شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مصوبه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصویب کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصویب شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصویب شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصویب می‌‌شود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصویب خواهد شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لایحه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوانین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونگذاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونگذار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونگذاران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون‌گریز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیش‌نویس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نص‌ّصریح قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجموعه قوانین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون قصاص
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون جزای اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون سنگسار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون حدّ
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانوني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانوني شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانوني می شود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون جزاي اسلامي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصویب شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تصویب کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نص‌صریح قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونمند کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونمند کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانونمند کن
+}}
+|LinkEnglish=Law
+|Applicability=Persian
+}}

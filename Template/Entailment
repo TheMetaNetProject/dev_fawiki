@@ -1,0 +1,26 @@
+<noinclude>
+This is the "Entailment" template.
+It should be called in the following format:
+<pre>
+{{Entailment
+|Entailment.Target entailment=
+|Entailment.Source inference=
+|Entailment.Type=
+|Entailment.Entailed metaphors=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+! Target Entailment
+| {{{Entailment.Target entailment|}}} {{#set:Entailment={{{Entailment.Target entailment|}}};{{{Entailment.Source inference|}}};{{{Entailment.Type|}}};{{#arraymap:{{{Entailment.Entailed metaphors|}}}|,|x|Metaphor:x}}}}
+|-
+! Source Inference
+| {{{Entailment.Source inference|}}}
+|-
+! Type of Inferential Structure
+| {{{Entailment.Type|}}}
+|-
+! Entailed Metaphor(s)
+| {{#arraymap:{{{Entailment.Entailed metaphors|}}}|,|x|[[Metaphor:x|x]]}}
+|}
+</includeonly>

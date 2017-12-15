@@ -1,0 +1,111 @@
+{{Frame
+|Name gloss=Organization
+|Family=طرح حکومت
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمانهای دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غیر دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اداره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ادارات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اداره‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌های
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرپرستی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرپرستی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرپرستی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مدیریت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرپرستی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سرپرست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رئیس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=روسا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌های دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان‌های غیردولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان امور اداری و استخدامی کشور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان امور اقتصادی و دارایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان امور مالیاتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان بازنشستگی کشوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان بازرسی کل کشور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان بازرسی کل ناجا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان وظیفه عمومی ناجا 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زیرمجموعه سازمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وابسته به سازمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سازمان قضایی نیروهای مسلح
+}}
+|LinkEnglish=Organization
+|Applicability=Persian
+}}

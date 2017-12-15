@@ -1,0 +1,316 @@
+{{Frame
+|Name gloss=elections
+|Description=Elections
+|Family=طرح های حکومت, طرح انتخابات,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=رای دهنده ۱
+|Role.Type=شخص
+|Role.Definition=فردی که در یک انتخابات شرکت می‌کند.
+}}{{Role
+|Role.Name=نامزد ۱ ( Persian), کاندید۲ (persian)  داوطلب ۲
+|Role.Type=شخص
+}}{{Role
+|Role.Name=نامزد  ( Persian),  کاندید   ( Persian), داوطلب  ( Persian),
+|Role.Type=شخص
+}}{{Role
+|Role.Name=مقام، پست, مسولیت
+}}
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=حکومت
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=رای گیری
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=رقابت سیاسی
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=مناظره
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گزیدمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخابات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منتخب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برگزیدگان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برگزیده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب می‌‌کند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب خواهد کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب می‌‌شود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب خواهد شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حوزه انتخابیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حوزه‌های  انتخابیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تقسیم حوزه‌های انتخاباتی بطورغیر عادلانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخابات فرمایشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیستم انتخابات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظام انتخابات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیستم‌های انتخاباتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیستم‌های انتخاباتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برگزیده شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برگزیده شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برگزیده می شود
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برگزیده خواهد شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=‌ستاد انتخابات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=‌ستاد انتخاباتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=‌ستاد‌های انتخابات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=‌ستاد‌های انتخاباتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برگزاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجلس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شرکت کنندگان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بررسی کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رد صلاحیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دلیل رد صلاحیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صورت گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=داوطلبان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاندیدا شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاندیدا دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بررسی صلاحیت‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صلاحیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریاست جمهوری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجلس شورای اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هیئت نظارت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مراجع ذیصلاح
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پارلمانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شوراها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کاهش مشارکت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شورای نگهبان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حد نصاب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وزارت کشور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فعالیت انتخاباتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=علنی شدن  آراء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شماره سریال
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تعرفه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یک مرحله ای‌ کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دو مرحله ای‌ کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأی دادن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشارکت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دوره‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یک مرحله ای‌ کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یک مرحله ای‌ کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یک مرحله ای‌ شدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یک مرحله ای‌ شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=یک مرحله ای‌ شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=انتخاب شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برگزیده شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بررسی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بررسی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بررسی کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بررسی کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صورت گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صورت گیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حدّ نصاب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=علنی شدن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=علنی شد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=علنی شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأی داد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأی ده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأی‌گیری‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأی‌گیری‌ کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأی‌گیری‌ کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأی‌گیری‌ کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=رأی‌گیری‌ مرحله اول
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرحله نهایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اخذ آراء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شمارش آراء
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آراء متخذه
+}}
+|LinkEnglish=Election
+|Applicability=Persian
+}}

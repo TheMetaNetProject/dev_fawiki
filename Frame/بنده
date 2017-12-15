@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=servant
+|Type=Frame
+|Status=in development
+|Entered by=Jisup
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خدمتکار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ساقی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تهیه کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خدمت
+}}
+|LinkEnglish=Servant
+|Applicability=Persian
+}}

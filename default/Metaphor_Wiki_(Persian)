@@ -1,0 +1,59 @@
+==Metaphor Data Guide==
+To edit a metaphor or create a new metaphor, type its name in the box below. If the metaphor already exists, you will be taken to its edit page, otherwise, you can create it from scratch.
+برای ویرایش یک استعاره، عنوان آن را در فضای زیرین وارد نمایید.
+
+<br>
+{{#forminput:form=Metaphor|link text= New Metaphor|button text=Create/Edit Metaphor|autocomplete on namespace=Metaphor|namespace=Metaphor}}
+
+فهرست استعاره ها در اینجا یافت میشود: [[List of all Metaphors|استعاره ها]].
+
+فهرست خانواده استعاره ها در اینجا یافت میشود: [[خانواده استعاره ها]]
+
+The list of linguistic metaphors can be found here: [[:Category:Linguistic metaphor|Linguistic Metaphors]]
+
+A list of metaphor families can be found here: [[Metaphor Families]].
+
+Metaphors listed by type: [[Metaphors by Type]]
+
+The list of frames can be found here: [[List of all Frames|Frames]].
+
+A list of frame families can be found here: [[Frame Families]] ([[Detailed Frame Families|with LUs]]).
+
+Frames divided into Cogs and Frames can be found here: [[Cogs and Frames]]
+
+A graph of relations between all the metaphors in the repository is here: [[Map of all metaphors]]
+
+==Metaphor Summary Pages==
+These are pages put together to allow for the browsing of metaphors according to useful descriptive categories.
+
+* [[Metaphors that participate in transitive chains]]
+* [[Metaphors listed by status]]
+* [[Metaphors with missing fields]]
+* [[Metaphors indexed by aliases]]
+* [[Frames listed by status]]
+* [[Frames with missing fields]]
+* [[Metaphors that need fixing]]
+* [[Frames that need fixing]]
+* [[Metaphor Lists for Status Reports]]
+
+==Metaphor Glossary and Property Guide==
+
+The glossary, which provides definitions for terms common to conceptual metaphor theory and/or this wiki, is located here: [http://metaphor.icsi.berkeley.edu/metaphor/index.php/Glossary Glossary].
+
+These are the properties that are used to describe a metaphor. You can click on any of the properties to get a better description of its intended filler<br>
+
+[[Property:Related metaphor| Metaphor Relations]] <br>
+[[Property:Metaphor.Experiential basis | Experiential Basis of Metaphor]] <br>
+[[Property:Metaphor.Level | Metaphor Level]] <br>
+[[Property:Metaphor.Type | Metaphor Type]] <br>
+[[Property:Inference | Metaphor Inference]] <br>
+[[Property:Metaphor.Source frame | Source Domain]] <br>
+[[Property:Metaphor.Target frame | Target Domain]] <br>
+[[Property:Metaphor.Alias.Provenance | Provenance]] <br>
+[[Property:Status | Status]] <br>
+[[Property:Entered by | Entered by]] <br>
+[[Property:Last reviewed by | Last Reviewed]] <br>
+[[Property:Mapping | Mappings]] <br>
+
+==Metaphor Standards==
+Refer to the [http://metaphor.icsi.berkeley.edu/metaphor/index.php/Standards Standards page] for guides on capitalization, citation, and so on.

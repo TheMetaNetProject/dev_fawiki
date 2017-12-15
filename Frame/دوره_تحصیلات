@@ -1,0 +1,39 @@
+{{Frame
+|Name gloss=stages-of education
+|Description=Primary, secondary, and higher ed. constitutes different stages of education
+|Family=طرحواره تحصیل
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دوره‌ تحصیلات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحصیل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  تحصیلات ابتدایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  متوسطه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= عالی‌ 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  اجباری 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  حوزوی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  دانشگاهی
+}}
+|LinkEnglish=Education
+}}

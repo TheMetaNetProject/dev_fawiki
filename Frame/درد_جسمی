@@ -1,0 +1,51 @@
+{{Frame
+|Name gloss=Pain physical
+|Family=طرح های ضرری
+|Type=Frame
+|Status=in development
+|Entered by=Sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is a subprocess of
+|Related frame.Name=بیماری
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دردناک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=درد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=زخم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جراحت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جراحات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=صدمه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مصدوم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=درد آور 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  درد ناک 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  درد مند 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  درد ها   
+}}
+|LinkEnglish=Experience pain
+|Applicability=Persian
+}}

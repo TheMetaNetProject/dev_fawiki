@@ -1,0 +1,35 @@
+{{Metaphor
+|Name gloss=activity journey is
+|Aliases=
+|Metaphor Type=Composed/complex
+|Source frame=سفر
+|Target frame=فعالیت
+|Mappings={{Mapping
+|Target=شخصی که فعالیت را انجام میدهد
+|Source=مسافر
+}}{{Mapping
+|Target=آغاز فعالیت
+|Source=آغاز سفر
+}}{{Mapping
+|Target=پایان فعالیت
+|Source=پایان سفر
+}}
+|Related metaphors={{Related metaphor
+|Related metaphor.Relation type=is related to
+|Related metaphor.Name=زندگی سفر است
+}}
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=پرسپولیس به دنبال پایانی خوش در نیم فصل اول
+|Example.Gloss=Persepolis to follow happy ending in mid season first
+|Example.English translation=Persepolis seeks happy ending mid-first season
+|Example.Provenance=www.trakhtor.com
+|Example.Comments=This is about seasonal games in soccer, so the ending refers to the final result in seasonal game
+}}
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani
+|Status=in development
+|LinkEnglish=ACTIVITIES ARE JOURNIES
+|Investigated for=Persian
+}}

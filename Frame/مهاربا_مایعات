@@ -1,0 +1,120 @@
+{{Frame
+|Name gloss=fluids containment via
+|Description=Containing through fluids
+|Family=طرح های وجودی
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=نشر آب
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=منشاء
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرا گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرو رفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غرقه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دربرگرفته
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=در برگرفته شده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دربرمیگیرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دربر می گیرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غریق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آکنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غوطه می خورند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غوطه ور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غوطه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=غوطه خور
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دربرگرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مستغرق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آغشته
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آکنده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= دربرگیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اشباع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=طغیان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرورو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرورفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فراگرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فراگرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فراگیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سر رفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سررفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سررو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیلاب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مایع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مایعات
+}}
+|LinkEnglish=Fluid containment
+|Applicability=Persian
+}}

@@ -1,0 +1,132 @@
+{{Frame
+|Name gloss=legitimacy_of government
+|Description=Government legitimacy
+|Type=Frame
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=رابطه اعتماد آمیز
+}}{{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=نهاد دولت
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت سیاسی دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت دولت‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبانی مشروعیت دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت سياسي دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت سياسى دولت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منشأ مشروعیت سياسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=منشأ مشروعیت سياسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت قدرت سیاسی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت قدرت سیاسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت ولایت فقیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت نظام
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت قانون اساسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت قانون اساسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اساس مشروعيت سياسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اساس مشروعيت سياسى
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت سنتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت سنتي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت کاریزمایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت کاریزمایي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت عقلانی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت عقلاني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت حاكميت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت حاكم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت و مقبولیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اصل مشروعیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تشكيل و ادامه حكومت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعيت مذهبی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعيت مذهبي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروع
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شرعا و قانونا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت داشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت داشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت دار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت نداشتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت نداشت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت ندار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت لازم برای
+}}
+|LinkEnglish=Government legitimacy
+|Applicability=Persian
+}}

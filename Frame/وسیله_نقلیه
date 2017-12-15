@@ -1,0 +1,138 @@
+{{Frame
+|Name gloss=Means_of transportation
+|Description=This includes cars, trains, buses, etc
+|Other aliases=Vehicle
+|Status=in development
+|Entered by=Aria Fani
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=وسیله نقلیه
+|Role.Name gloss=Means_of Transportation
+|Role.Definition=Vehicle as a whole
+}}{{Role
+|Role.Name=اجزای وسیله نقلیه
+|Role.Name gloss=Parts_of vehicle
+|Role.Definition=For example engine, wheels, etc
+}}{{Role
+|Role.Name=راننده
+|Role.Name gloss=Driver
+|Role.Definition=Person who controls vehicle
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قطار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خودرو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ماشین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راننده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راننده قطار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راندن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ران
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=راننده ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هدایت کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هدایت کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هدایت کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وسایل نقلیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وسایط نقلیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سبک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سنگین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عمومی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پلاک قرمز
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نمره دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پلاک دولتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شخصی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اتومبیل خدمت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اتوبوس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسافربری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حمل و نقل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کامیون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تریلر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ترابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جاده ای
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=هوایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سیستم حمل و نقل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تاکسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسافر کش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسافرکشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شهری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برون شهری
+}}
+|LinkEnglish=Vehicle
+|Applicability=Persian
+}}

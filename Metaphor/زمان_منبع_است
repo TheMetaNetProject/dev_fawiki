@@ -1,0 +1,26 @@
+{{Metaphor
+|Name gloss=Zaman resource ast-COP
+|Aliases=
+|Metaphor Level=General
+|Source frame=زمان
+|Target frame=منبع
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=زمان ثبت نام به پایان رسیده
+|Example.Gloss=time enrollment to end arrived.
+|Example.English translation=The enrollment period has ended.
+}}{{Example
+|Example.Language=Persian
+|Example.Text=وقت این برنامه به پایان رسید
+|Example.Gloss=time  this program to end arrived.
+|Example.English translation=We have reached the end of this program.
+}}
+|Entered by=Sanam, Aria
+|Last reviewed by=Aria Fani
+|Status=in development
+|LinkEnglish=TIME IS A RESOURCE
+|Investigated for=Persian
+}}

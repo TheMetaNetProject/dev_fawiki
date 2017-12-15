@@ -1,0 +1,305 @@
+{{Frame
+|Name gloss=Democracy
+|Description=Default frame for democracy
+|Comments=We have three frames for democracy as of now, one is dimukrasi, the Western loanword, the second is mardum-salari, the Persian neologism that closely approximates the concept of democracy, and the last is mardum-salari-i dini, or the concept of religous democracy based on Islamic values and principles. Perhas, one could argue that the last notion is distinct enough in the Persian conext to warrn its separate existence but the other two are used interchangably. We need to discuss in our next meeting whether we would like to keep the first two together or merge them
+|Family=طرح دموکراسی‌,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم‌سالار 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم‌سالاري دیني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراتیک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی خواهی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی خواهي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی برقرار کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسي برقرار کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی برقرار کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسي برقرار کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عرصه ی دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عرصه ي دموکراسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خرد جمعی‌ دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خرد جمعي دموکراسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی‌طلبانه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسي‌طلبانه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی اصلاح‌طلبانه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسي اصلاح‌طلبانه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مرکز دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خواست پیشبرد دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دمکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دمکراسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاری دینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارزش‌های دینی و مذهبی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظام مردمی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظام مردمي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ارزش‌هاي دیني و مذهبي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مفاهيم ديني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاري ديني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مفاهیم دینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه سکولار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاری اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردمسالاری اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاري اسلامي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جدایي دین از سیاست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جدایی دین از سیاست
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمیت مطلق مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شریعت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه اسلامي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=التزام به شریعت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=احکام شرعی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=احكام شرعي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمبت مطلق خداوند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبانی فقهی مردم سالاری دینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مبانی فقهی مردم سالاری دیني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فقه پویا
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حوزه عمومی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حوزه عمومي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دستور ولایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دستور ولایي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم حکومتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکم حکومتي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت یافتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت بخشیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت بخشید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت یافت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت استبدادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حکومت استبدادي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مصالح جامعه اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مصالح جامعه اسلامي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه مدنی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=جامعه مدني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظام امام و امت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم‌سالاری  ولایی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم‌سالاری ولایي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=واجبات دینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=واجبات دیني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اسلام و مردم‌سالاری 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اسلام و مردم سالاري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وجدان دیني
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وجدان دینی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نظام مردم مدار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموكراسي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت یافت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مشروعیت‌بخش 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردمسالاري 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردمسالاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردمسالارانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم‌سالارانه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراسی برقرار کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمیّت مطلق مردم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراتیزه کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراتیزه کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دموکراتیزه کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حاکمبّت مطلق خداوند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ضدّ دموکراسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ضدّ مردمسالاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ضدّ مردم‌سالاری  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردمسالاری سکولار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مردم سالاری سکولار
+}}
+|LinkEnglish=Democracy
+|Applicability=Persian
+}}

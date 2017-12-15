@@ -1,0 +1,90 @@
+{{Frame
+|Name gloss=Taxes
+|Comments=This refers exclusively to taxes/other sorts of fees paid to the local or central gov. bodies. For taxation, please refer to maliyat (under related frame see below
+|Type=Frame
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=مالیات
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عوارض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات‌ها
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عوارضات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=درآمد مالیات
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات گیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیاتی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات بر سود سرمایه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات بر ارث
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات بر املاک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  مالیات بر فروش کالا  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= مالیات بر دارائی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= نرخ مالیات  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= مالیات بر درآمد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مالیات بر املاک  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= عوارض فرودگاهی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  عوارض راه 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  عوارض دادگستری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= عوارض شهرداری 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= نرخ عوارض  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عوارض ها 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عوارض بزرگراه
+}}
+|LinkEnglish=Texes
+|Applicability=Persian
+}}

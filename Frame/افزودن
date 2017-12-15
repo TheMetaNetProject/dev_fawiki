@@ -1,0 +1,31 @@
+{{Frame
+|Name gloss=Addition
+|Family=طرح های نمودارگونه
+|Type=Primary
+|Status=in development
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=افزایش
+}}{{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=نمودار کمیتی
+}}{{Related frame
+|Related frame.Relation type=is in a scalar opposition to
+|Related frame.Name=کاهش
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=افزایش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=افزوده
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ازدیاد
+}}
+|LinkEnglish=Increase size
+|Applicability=Persian
+}}

@@ -1,0 +1,18 @@
+<noinclude>
+This template takes one frame name a parameter and returns in array format all of its incoming and outgoing relations.  Note
+that is uses &lt;SEP&gt; as the separator.  The name of the Frame should be the 1st parameter (unnamed).
+<pre>
+{{GetFrameRels|Frame}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{{#ifeq:{{{1|}}}|||<SEP>{{#ask: [[Category:Frame]] [[Related frame:: ?; {{{1}}}; ?]]
+| ?Related frame
+| format = array
+| sep=<SEP>
+| link=none
+}}<SEP>{{#ask: [[{{{1}}}]]
+| ?Related frame
+| format=array
+| sep=<SEP>
+| link=none
+}}}}</includeonly>

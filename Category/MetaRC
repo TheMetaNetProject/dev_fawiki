@@ -1,0 +1,11 @@
+This category uses the form [[Has default form::MetaRC]]:
+
+{{#forminput:form=MetaRC|autocomplete on namespace=MetaRC|namespace=MetaRC|class=enformfield}}
+
+{{#ask: [[Category:MetaRC]]
+|?Has MetaRC group=Group
+|?Has MetaRC score=Score
+|?Has description=Description
+|mainlabel=MetaRC
+|format=table
+}}

@@ -1,0 +1,47 @@
+{{Frame
+|Name gloss=Being deprived of educational opportunities
+|Comments=This frame broadly corresponds with Access to education, but is most precisely about being denied educational opportunities. Please advise
+|Family=طرح های دسترسی به تحصیلات
+|Tags=Program sources
+|Status=in development, auto imported
+|Last reviewed by=Aria Fani, Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is subcase of
+|Related frame.Name=فرصت های تحصیلی
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= محروم شو
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  محروم شد 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=   سلب کن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  سلب کرد 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  سلب کردن 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= امکانات تحصیلی‌ 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= موقعیت‌های تحصیلی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=  محرومیت 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= محروم شدن  
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=محروم شدن از فرصت‌های تحصیلی‌ 
+}}
+|LinkEnglish=Access to education
+}}

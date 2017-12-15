@@ -1,0 +1,29 @@
+{{Frame
+|Name gloss=continuing cycle plural. e educational
+|Comments=The Persian frame does not sound good in Persian; the more common compound noun
+   should be used instead  ادامه تحصیل
+|Family=طرح های دسترسی به تحصیلات
+|Tags=Program sources
+|Type=Frame
+|Status=in development, auto imported
+|Entered by=Sanam
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=makes use of
+|Related frame.Name=دوره تحصیلات
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=چرخه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دوره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مسیر
+}}
+|LinkEnglish=Education
+}}

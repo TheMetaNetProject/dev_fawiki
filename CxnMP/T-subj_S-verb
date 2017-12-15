@@ -1,0 +1,23 @@
+{{CxnMP
+|CxnMPType=sparql
+|CxnMPGroup=T-subj_S-verb
+|CxnMPDescription=Subject-Verb construction
+|Comments=poverty infects ...
+|CxnMPQueryCode=SELECT ?tlemma ?slemma ?sentidx ?tidx ?sidx
+WHERE {
+	?sent rdf:type doc:Sentence .
+	?sent doc:hasIdx ?sentidx .
+	?target rdf:type doc:Word .
+	?target doc:hasIdx ?tidx .
+	?target doc:hasLemma ?tlemma .
+	?source rdf:type doc:Word .
+	?source doc:hasIdx ?sidx .
+	?source doc:hasLemma ?slemma .
+	?target doc:inSentence ?sent .
+	?source doc:inSentence ?sent .
+	?target doc:subj ?source .
+	?source doc:hasPOS ?spos .
+	FILTER regex(?spos, "^V") .
+	FILTER (!regex(?slemma, "^(است&#124;بود&#124;کرد&#124;کرده است&#124;کنند&#124;کند&#124;نیستند&#124;نیست&#124;باشد&#124;شد&#124;می‌شود&#124;شود&#124;شده بود&#124;گرفتند&#124;گرفت&#124;می‌کنند&#124;بردن&#124;برد&#124;می‌برد)$","i")) .
+}
+}}

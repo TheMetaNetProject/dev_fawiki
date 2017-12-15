@@ -1,0 +1,45 @@
+{{Frame
+|Name gloss=education
+|Family=طرح تحصیل, طرح های بلا استفاده
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles={{Role
+|Role.Name=فراگیر تحصیل
+|Role.Name gloss=eucation_learner
+}}{{Role
+|Role.Name=محتوای تحصیل
+|Role.Name gloss=education_content
+}}{{Role
+|Role.Name=مدرس
+|Role.Name gloss=instructor
+}}{{Role
+|Role.Name=معلم
+|Role.Name gloss=teacher
+}}
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحصیل
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحصیلات متوسطه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تحصیلات عالی‌
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=آموزش و پرورش
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تعلیم و تربیت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=سواد آموزی
+}}
+|LinkEnglish=Education
+|Applicability=Persian
+}}

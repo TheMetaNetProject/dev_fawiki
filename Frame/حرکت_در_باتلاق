@@ -1,0 +1,33 @@
+{{Frame
+|Name gloss=move.N in swamp
+|Description=Motion in a swamp
+|Comments=No corresponding English frame found. The frame "Motion impediments" somewhat approximates this frame
+|Family=طرح های حرکت
+|Type=Frame
+|Status=in development
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=دست و پا زدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=فرو رفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=گرداب
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=باتلاق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لجنزار
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لجن
+}}
+|Applicability=Persian
+}}

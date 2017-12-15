@@ -1,0 +1,1 @@
+{{#ifeq:{{#ask:[[{{FULLPAGENAME}}]]|format=count}}|0|''This category currently contains no pages or media.''|}}

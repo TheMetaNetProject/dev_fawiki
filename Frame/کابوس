@@ -1,0 +1,51 @@
+{{Frame
+|Name gloss=nightmare
+|Comments= Burden does not correspond with the current Persian frame
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Reza
+|Roles=
+|Related frames=
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کابوس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کابوس دیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کابوس دید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کابوس بین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خواب دیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خواب دید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خواب بین
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بختک
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خوابیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=خوابید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کابوس بودن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کابوس بود
+}}
+|LinkEnglish=Burden
+|Applicability=Persian
+}}

@@ -1,0 +1,167 @@
+<noinclude>
+This is the "Metaphor" template.  While the name is Metaphor, it is used to display members of the VettedMetaphor category.
+It should be called in the following format:
+<pre>
+{{Metaphor
+|Name gloss=
+|Name transcription=
+|Aliases={{Metaphor.Alias}}
+|Description=
+|Comments=
+|Family=
+|Tags=
+|Metaphor Level=
+|Metaphor Type=
+|Experiential basis=
+|Investigated for=
+|Source frame=
+|Target frame=
+|Mappings={{Mapping}}
+|Related metaphors={{Related metaphor}}
+|Entailments={{Entailment}}
+|Examples={{Example}}
+|Entered by=
+|Last reviewed by=
+|Status=
+|Program alias=
+|LinkEnglish=
+|LinkSpanish=
+|LinkPersian=
+|LinkRussian=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>{| class="wikitable"
+|- {{#if:{{{Name gloss|}}}| |style="display:none;"}}
+! Name Gloss
+| {{Printgloss|{{PAGENAME}}|{{{Name gloss|}}}}}{{#set:Metaphor.Name gloss={{{Name gloss|}}}}}
+|- {{#if:{{{Name transcription|}}}| |style="display:none;"}}
+! Name Transcription
+| [[Metaphor.Name transcription::{{{Name transcription|}}}]]
+|-
+! Aliases
+| {{{Aliases}}}
+|-
+! Description
+| [[Has description::{{{Description|}}}]]
+|-
+! Comments
+| [[Metaphor.Comments::{{{Comments|}}}]]
+|-
+! Tags
+| {{#arraymap:{{{Tags|}}}|,|x|[[Tag::x]]}}
+|-
+! Family
+| {{#arraymap:{{{Family|}}}|,|x|[[Metaphor.Family::Metaphor family:x|x]]}}
+|-
+! Metaphor Level
+| [[Metaphor.Level::{{{Metaphor Level|}}}]]
+|-
+! Metaphor Type
+| {{#arraymap:{{{Metaphor Type|}}}|,|x|[[Metaphor.Type::x]]}}
+|-
+! Experiential Basis
+| [[Metaphor.Experiential basis::{{{Experiential basis|}}}]]
+|-
+! Cultural Scope
+| {{#arraymap:{{{Cultural scope|}}}|,|x|[[Has cultural scope::x]]}}
+|}
+{| class="wikitable"
+! Source Frame
+| [[Metaphor.Source frame::Frame:{{{Source frame|}}}|{{{Source frame|}}}]]{{#set:Has source frame=Frame:{{{Source frame|}}}}}{{#ifeq:{{{Source frame|}}}|||{{#info:'''Roles:'''{{#ask: [[Frame:{{{Source frame|}}}]]  [[Role::+]]
+| ?Role= | +index=1
+| mainlabel=-
+| heading=none}}}}}}
+|-
+! Target Frame
+| [[Metaphor.Target frame::Frame:{{{Target frame|}}}|{{{Target frame|}}}]]{{#set:Has target frame=Frame:{{{Target frame|}}}}}{{#ifeq:{{{Target frame|}}}|||{{#info:'''Roles:'''{{#ask: [[Frame:{{{Target frame|}}}]]  [[Role::+]]
+| ?Role= | +index=1
+| mainlabel=-
+| heading=none}}}}}}
+|}
+{{#set:Metaphor.Investigated for={{{Investigated for|}}}}}
+
+'''Mappings:'''
+{{{Mappings}}}
+
+'''Related Metaphors:'''
+{{{Related metaphors}}}
+
+'''Entailments:'''
+{{{Entailments}}}
+
+'''Examples:'''
+{{{Examples}}}
+
+----
+'''Examples from linked Linguistic metaphors:'''
+{{#ask:[[Is example of.Is instance of CM::{{FULLPAGENAME}}]]
+|mainlabel=-
+|?Is example of=Example.LM
+|?Has text=Example.Text
+|?Has provenance=Example.Provenance
+|?Is from language=Example.Language
+|?Has comments=Example.Comments
+|?Has text gloss=Example.Gloss
+|?Has English translation=Example.English translation
+|?Has annotation=Example.Annotation
+|format=template
+|template=ExamplesOfLM
+|named args=yes
+}}{{#ask:[[Is example of.Was found using seed.Is instance of CM::{{FULLPAGENAME}}]]
+|mainlabel=-
+|?Is example of=Example.LM
+|?Has text=Example.Text
+|?Has provenance=Example.Provenance
+|?Is from language=Example.Language
+|?Has comments=Example.Comments
+|?Has text gloss=Example.Gloss
+|?Has English translation=Example.English translation
+|?Has annotation=Example.Annotation
+|format=template
+|template=ExamplesOfLM
+|named args=yes
+}}
+----
+{| class="wikitable"
+! Entered by
+| {{#arraymap:{{{Entered by|}}}|,|x|[[Entered by::x]]}}
+|-
+! Last reviewed by
+| [[Last reviewed by::{{{Last reviewed by|}}}]]
+|-
+! Status
+| {{#arraymap:{{{Status|}}}|,|x|[[Status::x]]}}
+|-
+! Metaphor Program Alias
+| [[Has program alias::{{{Program alias|}}}]]
+|}
+----
+'''Graph of related metaphors:'''
+<div id="metaphorrelationstabs">
+<ul>
+<li>[[#tgschemtab|Target frame]]
+<li>[[#metaphortab|Metaphors]]
+<li>[[#srcschemtab|Source frame]]
+</ul>
+<div id="tgschemtab" class="gviztab">
+{{#relationsgraph:meta4tggrph|Frame:{{{Target frame|}}}|{{GetFrameRelationsForMetaphor|{{FULLPAGENAME}}|Target}}||gv||Frame}}
+</div>
+<div id="metaphortab" class="gviztab">
+{{#relationsgraph:meta4graph|{{FULLPAGENAME}}|{{#ask: [[Category:Metaphor]] [[Related metaphor:: ?; {{FULLPAGENAME}}; ?]]
+| ?Related metaphor
+| format = array
+| sep= <SEP>
+}}|{{#ask: [[{{FULLPAGENAME}}]]
+| ?Related metaphor
+| format=array
+| sep= <SEP>
+}}|gv|shape="box"|Metaphor}}
+</div>
+<div id="srcschemtab" class="gviztab">
+{{#relationsgraph:meta4srcgrph|Frame:{{{Source frame|}}}|{{GetFrameRelationsForMetaphor|{{FULLPAGENAME}}|Source}}||gv||Frame}}
+</div>
+</div>
+{{#if:{{{LinkEnglish|}}}|[[en:Metaphor:{{{LinkEnglish|}}}]]|}}{{#if:{{{LinkSpanish|}}}|[[es:Metaphor:{{{LinkSpanish|}}}]]|}}{{#if:{{{LinkPersian|}}}|[[fa:Metaphor:{{{LinkPersian|}}}]]|}}{{#if:{{{LinkRussian|}}}|[[ru:Metaphor:{{{LinkRussian|}}}]]|}}
+[[Category:Metaphor]]
+</includeonly>

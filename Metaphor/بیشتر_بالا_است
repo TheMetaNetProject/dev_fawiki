@@ -1,0 +1,28 @@
+{{Metaphor
+|Name gloss=MORE UP AST-COP
+|Aliases=
+|Comments=بالاتر یا بالا؟ --آریا
+|Metaphor Level=General
+|Metaphor Type=Primary
+|Source frame=کمیت
+|Target frame=ارتفاع
+|Mappings=
+|Related metaphors=
+|Entailments=
+|Examples={{Example
+|Example.Language=Persian
+|Example.Text=آنها   پیشنهادشان   را   تا   ۲۵۰۰   دلار   بالا   بردند .
+|Example.Gloss=they suggestions-3 up-to 2500 dollar increased
+|Example.English translation=They increased their offer up to 2500 dollars.
+|Example.Comments=این مثال می تواند برای کمتر پایین تر است استفاده شود
+}}{{Example
+|Example.Language=Persian
+|Example.Text=سقوط آزاد ارزش برابری ریال ایران با ارزهای معتبر جهان
+|Example.Gloss=fall free value equal Rial-of Iran with currencies credible world
+|Example.English translation=The free fall of Iranian Rials against the foreign currencies.
+}}
+|Entered by=Behrang
+|Status=in development
+|LinkEnglish=MORE IS UP
+|Investigated for=Persian
+}}

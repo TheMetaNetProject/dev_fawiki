@@ -1,0 +1,127 @@
+{{Frame
+|Name gloss=Legislative branch
+|Description=Legislative branch
+|Family=طرح حکومت, طرح های حکومت,
+|Type=Frame
+|Status=in development
+|Entered by=Aria Fani,
+|Last reviewed by=Reza
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=قوه قضائیه
+}}{{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=قوه مجریه
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوه قانون‌گذاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوه قانون‌گذاري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ایجاد قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اصلاح قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لغو قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوه‌های قانونگذاری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوه‌هاي قانونگذاري
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پارلمان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=کنگره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجلس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجلس شورای اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=مجلس شوراي اسلامي
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قوّه مقننه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شورای نگهبان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شوراي نگهبان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اعمال قوه مقننه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اختیارات قوه مقننه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=وظایف قوه مقننه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بخشنامه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اصلاحیه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=پیش‌نویس
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=بند
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبصره
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ماده قانونی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ریاست قوه مقننه
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=اصلاح و لغو قانون
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas= مجلس شورای اسلامی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=شورای نگهبان
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون وضع  کردن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون وضع  کرد
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=قانون وضع  کن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=لوایح قانونی 
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به تصویب رسیدن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به تصویب رسید
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=به تصویب رس
+}}
+|LinkEnglish=Legislative branch
+|Applicability=Persian
+}}

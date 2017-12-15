@@ -1,0 +1,60 @@
+{{Frame
+|Name gloss=Inequlaity
+|Comments=There is no corresponding English frame for inequality. However,there exist the frame "Equality" in the English Wiki
+|Family=طرح ثروت و طبقه اجتماعی, طرح نابرابری اقتصادی, طرح های اقتصادی,
+|Type=Frame
+|Status=in development
+|Entered by=Reza
+|Last reviewed by=Aria Fani & Reza,
+|Roles=
+|Related frames={{Related frame
+|Related frame.Relation type=is related to
+|Related frame.Name=برابری
+}}
+|Bindings=
+|Inferences=
+|Relevant LUs={{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نا برابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابری
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=تبعیض
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق کشی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=ظلم
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نا برابر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=عدم تساوی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری سیاسی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=نابرابری اقتصادی
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=احقاق حق
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق را گرفتن
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق را گرفت
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=حق را گیر
+}}{{LUs
+|LUs.Language=Persian
+|LUs.Lemmas=برابر طلبی
+}}
+|Applicability=Persian
+}}

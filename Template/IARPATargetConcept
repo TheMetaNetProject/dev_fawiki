@@ -1,0 +1,60 @@
+<noinclude>
+This is the "IARPATargetConcept" template.
+It should be called in the following format:
+<pre>
+{{IARPATargetConcept
+|ConceptOwner=
+|ConceptType=
+|ConceptGroup=
+|ConceptDefinition=
+|ConceptComment=
+|ConceptStatus=
+|ConceptFrames=
+|WhitelistTargetLUs=
+|BlacklistTargetLUs=
+|BlacklistSourceFrameFamilies=
+|BlacklistSourceFrames=
+|BlacklistSourceLUs=
+}}
+</pre>
+Edit the page to see the template text.
+</noinclude><includeonly>
+__NOEDITSECTION__
+{| class="wikitable"
+! ConceptOwner
+| [[HasConceptOwner::{{{ConceptOwner|}}}]]
+|-
+! ConceptType
+| [[HasConceptType::{{{ConceptType|}}}]]
+|-
+! ConceptGroup
+| [[HasConceptGroup::{{{ConceptGroup|}}}]]
+|-
+! ConceptDefinition
+| [[HasConceptDefinition::{{{ConceptDefinition|}}}]]
+|-
+! ConceptComment
+| [[Has comments::{{{ConceptComment|}}}]]
+|-
+! ConceptStatus
+| [[HasConceptStatus::{{{ConceptStatus|}}}]]
+|}
+
+==Target concept specification==
+
+{{{ConceptFrames|}}}
+
+{{{WhitelistTargetLUs|}}}
+
+{{{BlacklistTargetLUs|}}}
+
+==Source domain constraints==
+
+{{{BlacklistSourceFrameFamilies|}}}
+
+{{{BlacklistSourceFrames|}}}
+
+{{{BlacklistSourceLUs|}}}
+
+[[Category:IARPATargetConcept]]
+</includeonly>

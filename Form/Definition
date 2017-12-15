@@ -1,0 +1,32 @@
+<noinclude>
+
+{{#forminput:form=Glossary}}
+
+</noinclude><includeonly>
+<div id="wikiPreview" style="display: none; padding-bottom: 25px; margin-bottom: 25px; border-bottom: 1px solid #AAAAAA;"></div>
+
+{{{for template|Glossary}}}
+
+'''Entry:''' {{{field|Entry|property=Glossary.Entry}}}
+
+'''Other Aliases:''' {{{field|Other Aliases|property=Glossary.Alias}}}
+
+'''Description:''' {{{field|Description|property=Glossary.Description}}}
+
+'''Pertinent Form(s):''' {{{field|Applies to|property=Glossary.Applies to}}}
+'''Utility:''' {{{field|Utility|property=Glossary.Utility}}}
+
+'''Notation:''' {{{field|Notation|property=Glossary.Notation}}}
+
+'''Entered By:''' {{{field|Entered by|property=Entered by}}}
+
+'''Edited By:''' {{{field|Last reviewed by|property=Last reviewed by}}}
+{{{end template}}}
+
+
+{{{standard input|summary}}}
+
+{{{standard input|minor edit}}} {{{standard input|watch}}}
+
+{{{standard input|save}}} {{{standard input|preview}}} {{{standard input|changes}}} {{{standard input|cancel}}}
+</includeonly>
